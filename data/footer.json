@@ -1,86 +1,88 @@
 {
   "logo": "/images/footer-logo.svg",
-  "copyright": "MyCompany, All rights reserved!",
-  "social": [
-    {
-      "link": "https://www.facebook.com/",
-      "icon": "ph-facebook-logo",
-      "icon_alt": "Facebook"
-    },
-    {
-      "link": "https://www.instagram.com/",
-      "icon": "ph-instagram-logo",
-      "icon_alt": "Instagram"
-    },
-    {
-      "link": "https://twitter.com/",
-      "icon": "ph-twitter-logo",
-      "icon_alt": "Twitter"
-    },
-    {
-      "link": "https://www.github.com/",
-      "icon": "ph-github-logo",
-      "icon_alt": "GitHub"
-    },
-    {
-      "link": "https://www.youtube.com/",
-      "icon": "ph-youtube-logo",
-      "icon_alt": "YouTube"
-    }
-  ],
+  "description": "We will make you look confident and approachable on your dating profiles.",
+  "copyright": "Copyright 2023 The Match Artist. All rights reserved.",
   "sections": [
     {
-      "title": "Main Pages",
+      "title": "BROWSE",
       "links": [
         {
           "link": "/",
-          "text": "Home"
+          "text": "Home",
+          "icon": ""
         },
         {
-          "link": "/features",
-          "text": "Features"
+          "link": "/blog/",
+          "text": "Blog",
+          "icon": ""
         },
         {
-          "link": "/pricing",
-          "text": "Price"
+          "link": "/locations",
+          "text": "Locations",
+          "icon": ""
         },
         {
-          "link": "/about",
-          "text": "About"
+          "link": "/how-it-works/",
+          "text": "How it Works",
+          "icon": ""
+        },
+        {
+          "link": "/photos-for-women/",
+          "text": "For Women",
+          "icon": ""
+        },
+        {
+          "link": "/online-dating-photography-near-me/",
+          "text": "Book a Spot",
+          "icon": ""
+        },
+        {
+          "link": "/case-studies/",
+          "text": "Case Studies",
+          "icon": ""
+        },
+        {
+          "link": "/press/",
+          "text": "Press",
+          "icon": ""
         }
       ]
     },
     {
-      "title": "Community",
+      "title": "DATING APP ALGORITHMS",
       "links": [
         {
-          "link": "/blog",
-          "text": "Blog"
-        },
-        {
-          "link": "/404",
-          "text": "404"
-        },
-        {
-          "link": "/sitemap.xml",
-          "text": "Sitemap"
+          "link": "/tinder/how-to-use-tinder/",
+          "text": "How to Use Tinder (2023 Expert's Guide)",
+          "icon": ""
         }
       ]
     },
     {
-      "title": "Company",
+      "title": "CONTACT US",
       "links": [
         {
-          "link": "/contact",
-          "text": "Contact"
+          "link": "",
+          "text": "Austin, TX 78701",
+          "icon": "/icons/location.svg"
         },
         {
-          "link": "/privacy",
-          "text": "Privacy Policy"
+          "link": "mailto:info@thematchartist.com",
+          "text": "info@thematchartist.com",
+          "icon": "/icons/mail.svg"
         }
       ]
     }
   ],
+  "form": {
+    "title": "ONLINE DATING TOOLS",
+    "description": "Sign up for The Match Artist newsletter to receive free online dating tools.",
+    "button": {
+      "text": "Sign Up",
+      "background_color": "#990808",
+      "text_color": "#FFFFFF"
+    }
+  },
   "_inputs": {
     "logo": {
       "type": "image"

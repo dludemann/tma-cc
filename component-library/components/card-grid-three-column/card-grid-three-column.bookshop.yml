@@ -1,0 +1,32 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Card Grid - Three Columns
+  description: A three column grid of images.
+  icon: 'apps'
+  tags: ['Grid']
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  horizontal_gap:
+  vertical_gap:
+  column_one:
+    - src:
+      alt:
+  column_two:
+    - src:
+      alt:
+  column_three:
+    - src:
+      alt:
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  horizontal_gap:
+    type: number
+  vertical_gap:
+    type: number
