@@ -20,8 +20,6 @@ collections_config:
     icon: add_chart
   pages:
     path: content
-    glob:
-      - content/*.md
     url: '/[full_slug]/'
     output: true
     icon: wysiwyg
