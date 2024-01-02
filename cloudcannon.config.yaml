@@ -22,7 +22,7 @@ collections_config:
     path: content
     glob:
       - content/*.md
-    url: '[relative_base_path]/[slug]/'
+    url: '/[slug]/'
     output: true
     icon: wysiwyg
     _enabled_editors:
