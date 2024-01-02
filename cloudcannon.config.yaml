@@ -22,7 +22,7 @@ collections_config:
     path: content
     url: '/[full_slug]/'
     output: true
-    icon: wysiwyg
+    icon: cottage
     _enabled_editors:
       - visual
     schemas:
@@ -39,9 +39,27 @@ collections_config:
     filter:
       base: all
       exclude:
-        - content/blog
-        - content/portfolio
-        - content/tinder
+        - content/blog/*.md
+        - content/portfolio/*.md
+        - content/tinder/*.md
+  book:
+    path: content/book
+    url: '/book/[slug]/'
+    output: true
+    icon: wysiwyg
+    _enabled_editors:
+      - visual
+    schemas:
+      page:
+        name: New Page
+        path: schemas/page.md
+        hide_extra_inputs: false
+        remove_extra_inputs: false
+    disable_add_folder: true
+    add_options:
+      - name: Add Page
+        editor: visual
+        schema: page
   blog:
     path: content/blog/
     output: true
