@@ -1,0 +1,15 @@
+---
+title:
+horizontal_gap:
+vertical_gap:
+hero_image:
+hero_image_filters:
+  brightness:
+  position:
+    horizontal:
+    vertical:
+images:
+  column_one:
+  column_two:
+  column_three:
+---

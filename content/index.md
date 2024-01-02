@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: custom
 content_blocks:
   - _bookshop_name: home/hero
     title: Beautiful email campaigns
@@ -36,7 +35,7 @@ content_blocks:
     video_url: https://vimeo.com/45830194
 
   - _bookshop_name: general/header
-    title: "Sendit "
+    title: 'Sendit '
     title_suffix: Features
     remove_top_padding: true
     description: >-
@@ -47,8 +46,8 @@ content_blocks:
   - _bookshop_name: general/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
-    title: "Email Campaign in one minute"
-    description: "Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch."
+    title: 'Email Campaign in one minute'
+    description: 'Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.'
     button:
       link: /signup
       text: Try This Free
@@ -57,8 +56,8 @@ content_blocks:
   - _bookshop_name: general/feature
     image: /images/feature/feature-card-two.png
     image_alt: Visitor chart
-    title: "See every Lead in one Place"
-    description: "Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from."
+    title: 'See every Lead in one Place'
+    description: 'Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.'
     button:
       link: /signup
       text: Try This Free
@@ -67,8 +66,8 @@ content_blocks:
   - _bookshop_name: general/feature
     image: /images/feature/feature-card-three.png
     image_alt: File upload
-    title: "100% free uploads"
-    description: "Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes."
+    title: '100% free uploads'
+    description: 'Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.'
     button:
       link: /signup
       text: Try This Free
@@ -109,5 +108,4 @@ content_blocks:
 #     image: /images/video/video-thum.jpg
 #     image_alt: Thumbnail for video
 #     video_url: https://vimeo.com/45830194
-
 ---

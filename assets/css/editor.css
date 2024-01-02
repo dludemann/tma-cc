@@ -1,10 +1,11 @@
-img {
-  width: 100%;
+.align-left {
+  text-align: left;
 }
-
-iframe {
-  width: 100%;
-  aspect-ratio: 16 / 9;
+.align-center {
+  text-align: center;
+}
+.align-right {
+  text-align: right;
 }
 
 blockquote {
@@ -31,35 +32,21 @@ blockquote::before {
   opacity: 0.2;
 }
 
-.align-left {
-  text-align: left;
-}
-.align-center {
-  text-align: center;
-}
-.align-right {
-  text-align: right;
-}
-
 p.standard {
   font-size: 1rem;
-  font-style: normal;
 }
 
 p.big {
   font-size: 2.5rem;
-  font-style: normal;
 }
 
 p.big-centered {
   font-size: 2.5rem;
-  font-style: normal;
   align-self: center;
 }
 
 p.big-centered-bold {
   font-size: 2.5rem;
-  font-style: normal;
   font-weight: bold;
   align-self: center;
 }
@@ -72,7 +59,11 @@ p.intro {
   align-self: center;
 }
 
-p.intro::before {
+.intro {
+  margin-bottom: 10px !important;
+}
+
+.intro::before {
   position: absolute;
   left: 102%;
   top: 50%;
@@ -84,7 +75,7 @@ p.intro::before {
   background-color: #171717;
 }
 
-p.intro::after {
+.intro::after {
   position: absolute;
   right: 102%;
   top: 50%;
