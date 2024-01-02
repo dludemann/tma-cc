@@ -22,7 +22,7 @@ collections_config:
     path: content
     glob:
       - content/*.md
-    url: '/[slug]/'
+    url: '[relative_base_path]/[slug]/'
     output: true
     icon: wysiwyg
     _enabled_editors:
@@ -135,6 +135,7 @@ collections_config:
     icon: local_fire_department
     _enabled_editors:
       - visual
+      - content
     schemas:
       tinder:
         name: New Tinder Section
