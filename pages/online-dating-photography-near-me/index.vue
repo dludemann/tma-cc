@@ -22,6 +22,7 @@ useHead(head);
 const { data: ip } = await useFetch('https://api.ipify.org/?format=json', {
   server: false,
 });
+
 const { data: location } = await useFetch(
   'https://dulcet-swan-3e453a.netlify.app/.netlify/functions/findUserLocation',
   { server: false }
@@ -65,8 +66,7 @@ onBeforeUnmount(async () => {
           :is="block._bookshop_name"
           :block="block"
           :dataBinding="`#content_blocks.${index}`"
-          :key="index"
-        ></component>
+          :key="index"></component>
       </template>
       <slot />
     </main>

@@ -13,7 +13,7 @@ content_blocks:
     background_color:
     background_image: /images/backgrounds/woman-hero.webp
     background_filters:
-      brightness: .6
+      brightness: .8
       blur: 0
     pre_title:
       text:
