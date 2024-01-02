@@ -9,16 +9,14 @@ const nav_links_classes =
   <footer class="bg-black">
     <!-- TOP SECTION -->
     <section
-      class="container mx-auto grid lg:grid-cols-[250px_minmax(200px,_1fr)_250px] py-16 gap-8 px-2"
-    >
+      class="container mx-auto grid lg:grid-cols-[250px_minmax(200px,_1fr)_250px] py-16 gap-8 px-2">
       <!-- LOGO SECTION -->
       <div
-        class="w-full lg:max-w-[300px] flex flex-col px-6 lg:px-0 items-center lg:items-start"
-      >
+        class="w-full lg:max-w-[300px] flex flex-col px-6 lg:px-0 items-center lg:items-start">
         <!-- LOGO -->
         <nuxt-img class="w-[232px] h-[20px]" :src="data.logo" alt="" />
 
-        <p class="text-[#EAECF0] font-display mt-6 text-center lg:text-left">
+        <p class="text-[#EAECF0] font-body mt-6 text-center lg:text-left">
           {{ data.description }}
         </p>
       </div>
@@ -28,11 +26,9 @@ const nav_links_classes =
         <!-- BROWSER COLUMN -->
         <div
           class="w-full flex flex-col gap-4"
-          v-for="section in data.sections"
-        >
+          v-for="section in data.sections">
           <p
-            class="text-primary-500 font-display font-bold text-center lg:text-left"
-          >
+            class="text-primary-500 font-display font-bold text-center lg:text-left">
             {{ section.title }}
           </p>
           <nav class="flex flex-col gap-3">
@@ -40,12 +36,10 @@ const nav_links_classes =
               rel="canonical"
               :to="link.link"
               :class="nav_links_classes"
-              v-for="link in section.links"
-            >
+              v-for="link in section.links">
               <div
                 class="w-6 h-6 flex items-center justify-center"
-                v-if="link.icon"
-              >
+                v-if="link.icon">
                 <img class="w-[24px] h-[25px]" :src="link.icon" alt="" />
               </div>
               {{ link.text }}
@@ -85,11 +79,10 @@ const nav_links_classes =
       </div>
       <div class="flex-1 flex flex-col gap-4 px-6 overflow-hidden">
         <p
-          class="text-primary-500 font-display font-bold text-center lg:text-left"
-        >
+          class="text-primary-500 font-display font-bold text-center lg:text-left">
           {{ data.form.title }}
         </p>
-        <p class="text-[#EAECF0] font-display text-center lg:text-left">
+        <p class="text-[#EAECF0] font-body text-center lg:text-left">
           {{ data.form.description }}
         </p>
 
@@ -97,30 +90,26 @@ const nav_links_classes =
           class="drip-form flex flex-col gap-4"
           action="https://www.getdrip.com/forms/91517951/submissions"
           data-drip-embedded-form="91517951"
-          method="post"
-        >
+          method="post">
           <input
             type="email"
             name="fields[email]"
             value=""
             placeholder="Email"
             required
-            class="input"
-          />
+            class="input" />
 
           <input
             type="text"
             name="fields[first_name]"
             placeholder="First Name"
             required
-            class="input"
-          />
+            class="input" />
           <button
             class="btn"
             type="submit"
             :class="'bg-[' + data.form.button.background_color + ']'"
-            :style="{ color: data.form.button.text_color }"
-          >
+            :style="{ color: data.form.button.text_color }">
             {{ data.form.button.text }}
           </button>
         </form>
@@ -128,7 +117,7 @@ const nav_links_classes =
     </section>
 
     <section class="py-8 border-t border-[#475467] px-6">
-      <p class="text-[#D0D5DD] font-display text-center">
+      <p class="text-[#D0D5DD] font-body text-center">
         {{ data.copyright }}
       </p>
     </section>

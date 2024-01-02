@@ -1,5 +1,4 @@
 <script setup>
-import { decode } from 'html-entities';
 import { ref } from 'vue';
 
 const currentHash = ref('');
@@ -15,14 +14,9 @@ const changeCurrentHash = (slug) => {
 const head = generateHead(pageData, route);
 useHead(head);
 
-const secondSlug = ['/', route.params.slug[0]].join('');
-
-// LOGIC FOR SILO PAGE
 const collection = page.value._dir;
 const contentQuery = await queryContent(collection).find();
-const pageContentData = await queryContent(collection).find();
 const mainSlug = ['/', collection].join('');
-const fullSlug = [mainSlug, secondSlug].join('');
 
 const silo = contentQuery;
 let menuGroupings = [];
@@ -191,8 +185,7 @@ loaded.value = true;
       :current-path="currentPath"
       :page-data="silo"
       :main-slug="mainSlug"
-      @hash-change="changeCurrentHash"
-    />
+      @hash-change="changeCurrentHash" />
     <section class="w-full font-display p-8 mb-[50px]">
       <!-- Text content  -->
       <section class="max-w-[800px] mx-auto">
@@ -209,8 +202,7 @@ loaded.value = true;
         <GuideBody
           class="guide-content"
           :current-content="currentPath.level_three"
-          @hash-change="changeCurrentHash"
-        />
+          @hash-change="changeCurrentHash" />
       </section>
     </section>
   </div>

@@ -1,6 +1,6 @@
 <!-- eslint-disable vue/no-v-html -->
 <template>
-  <div id="page-content" class="page-content content-styles">
+  <div id="page-content" class="page-content content-styles font-body">
     <ContentDoc />
   </div>
 </template>
