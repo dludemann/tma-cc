@@ -63,7 +63,7 @@ content_blocks:
       buttons:
         - button_link: /how-it-works
           button_text: How it works
-        - button_link: /
+        - button_link: /online-dating-photographer-near-me
           button_text: Book a call
     post_text:
       text:
@@ -266,7 +266,7 @@ content_blocks:
       top_spacing: 20
       bottom_spacing: 20
       buttons:
-        - button_link: /
+        - button_link: /online-dating-photographer-near-me
           button_text: Schedule a photography session now.
     post_text:
       text: Based in Austin, Texas.
@@ -379,7 +379,7 @@ content_blocks:
       top_spacing: 10
       bottom_spacing: 160
       buttons:
-        - button_link: /
+        - button_link: /online-dating-photographer-near-me
           button_text: Schedule a photography session now.
     post_text:
       text:

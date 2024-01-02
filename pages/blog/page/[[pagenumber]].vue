@@ -23,7 +23,7 @@ const allPosts = await queryContent('blog')
 const numberOfPosts = allPosts.length;
 const numberOfPages = Math.ceil(numberOfPosts / pageSize);
 
-if (pageNumber && (pageNumber <= 1 || numberOfPages === 1)) {
+if (pageNumber && (pageNumber === 0 || numberOfPages === 1)) {
   navigateTo('/blog');
 }
 

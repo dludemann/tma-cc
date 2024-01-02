@@ -1,4 +1,5 @@
 <template>
+  <Hero :block="heroData" />
   <section class="font-display">
     <div v-for="post in posts">
       <article class="grid lg:grid-cols-2 mx-auto">
@@ -36,6 +37,7 @@
       :numberOfPages="numberOfPages"
       :urlPrefix="urlPrefix" />
   </section>
+  <SocialBanner :block="socialBannerData" />
 </template>
 
 <script setup>
@@ -67,5 +69,86 @@ const hasPaginatinon = numberOfPages > 1;
 
 const formatDate = (date) => {
   return DateTime.fromISO(date).toFormat('LLL dd');
+};
+
+const socialBannerData = {
+  heading: 'Connect with us',
+  social_media: [
+    {
+      path: 'https://www.facebook.com/TheMatchArtist',
+      image: {
+        src: '/images/social/media/facebook.svg',
+        alt: 'Facebook',
+        opacity: 0.25,
+      },
+    },
+    {
+      path: 'https://www.instagram.com/thematchartist/',
+      image: {
+        src: '/images/social/media/instagram.svg',
+        alt: 'Instagram',
+        opacity: 0.25,
+      },
+    },
+  ],
+  news_mentions: [
+    {
+      path: 'https://www.theamericanreporter.com/the-number-one-way-to-turn-your-online-dating-profile-around-the-match-artist/',
+      image: {
+        src: '/images/social/news-mentions/the-american-reporter.png',
+        alt: 'The American Reporter',
+      },
+    },
+    {
+      path: 'https://www.entrepreneur.com/article/430103',
+      image: {
+        src: '/images/social/news-mentions/entrepeneur.png',
+        alt: 'Entrepeneur',
+      },
+    },
+    {
+      path: 'https://nyweekly.com/dating/photos-that-help-you-find-love-introducing-the-match-artist/',
+      image: {
+        src: '/images/social/news-mentions/new-york-weekly.png',
+        alt: 'New York Weekly',
+      },
+    },
+    {
+      path: 'https://www.morningbrew.com/daily/stories/2023/02/22/inside-jobs-dating-app-photographer-nick-friesen',
+      image: {
+        src: '/images/social/news-mentions/morning-brew.webp',
+        alt: 'Morning Brew',
+      },
+    },
+  ],
+};
+
+const heroData = {
+  _bookshop_name: 'hero',
+  background_color: null,
+  background_image: '/images/backgrounds/blog.png',
+  background_filters: {
+    brightness: 1,
+    blur: 0,
+  },
+  pre_title: {
+    text: null,
+    text_color: 'white',
+    top_spacing: null,
+    bottom_spacing: null,
+  },
+  title: {
+    text: 'Our Blog',
+    text_color: 'white',
+    heading_style: 'h1',
+    top_spacing: null,
+    bottom_spacing: null,
+  },
+  post_title: {
+    text: 'Sharing tips for online dating success',
+    text_color: 'white',
+    top_spacing: null,
+    bottom_spacing: null,
+  },
 };
 </script>
