@@ -11,6 +11,15 @@ data_config:
   tinder:
     path: data/guides/tinder.json
     parser: json
+  hinge:
+    path: data/guides/hinge.json
+    parser: json
+  bumble:
+    path: data/guides/bumble.json
+    parser: json
+  dilmil:
+    path: data/guides/dil-mil.json
+    parser: json
 
 collections_config:
   data:
@@ -177,6 +186,117 @@ collections_config:
         type: select
         options:
           values: data.tinder
+          value_key: heading
+          preview:
+            text:
+              - key: heading
+  hinge:
+    path: content/hinge
+    output: true
+    url: '/hinge/[slug]'
+    icon: local_fire_department
+    _enabled_editors:
+      - visual
+      - content
+    schemas:
+      guide:
+        name: New Hinge Section
+        path: schemas/guide.md
+        hide_extra_inputs: false
+        remove_extra_inputs: false
+    disable_add_folder: true
+    add_options:
+      - name: Add Hinge Guide Page
+        editor: visual
+        schema: guide
+    preview:
+      subtext:
+        - key: author
+      gallery:
+        image:
+          - key: featured_image
+        fit: cover
+    _inputs:
+      title:
+        type: textarea
+      menu_grouping:
+        type: select
+        options:
+          values: data.hinge
+          value_key: heading
+          preview:
+            text:
+              - key: heading
+  dilmil:
+    path: content/dil-mil
+    output: true
+    url: '/dil-mil/[slug]'
+    icon: local_fire_department
+    _enabled_editors:
+      - visual
+      - content
+    schemas:
+      guide:
+        name: New Dil Mil Section
+        path: schemas/guide.md
+        hide_extra_inputs: false
+        remove_extra_inputs: false
+    disable_add_folder: true
+    add_options:
+      - name: Add Dil Mil Guide Page
+        editor: visual
+        schema: guide
+    preview:
+      subtext:
+        - key: author
+      gallery:
+        image:
+          - key: featured_image
+        fit: cover
+    _inputs:
+      title:
+        type: textarea
+      menu_grouping:
+        type: select
+        options:
+          values: data.dilmil
+          value_key: heading
+          preview:
+            text:
+              - key: heading
+  bumble:
+    path: content/bumble
+    output: true
+    url: '/bumble/[slug]'
+    icon: local_fire_department
+    _enabled_editors:
+      - visual
+      - content
+    schemas:
+      guide:
+        name: New Bumble Section
+        path: schemas/guide.md
+        hide_extra_inputs: false
+        remove_extra_inputs: false
+    disable_add_folder: true
+    add_options:
+      - name: Add Bumble Guide Page
+        editor: visual
+        schema: guide
+    preview:
+      subtext:
+        - key: author
+      gallery:
+        image:
+          - key: featured_image
+        fit: cover
+    _inputs:
+      title:
+        type: textarea
+      menu_grouping:
+        type: select
+        options:
+          values: data.bumble
           value_key: heading
           preview:
             text:
