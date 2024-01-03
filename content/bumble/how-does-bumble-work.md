@@ -1,6 +1,6 @@
 ---
 title: How does Bumble work
-menu_grouping: 'Bumble Basics'
+menu_grouping: Bumble Basics
 author: Shane White
 featured_image: /images/guides/tinder/tinder-1.webp
 seo:
@@ -12,3 +12,4 @@ seo:
   open_graph_type:
   no_index: false
 ---
+## Does this work
