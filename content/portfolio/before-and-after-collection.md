@@ -1,7 +1,8 @@
 ---
 title: Before + After
 seo:
-  page_description: From The Match Artist's portfolio, these \"Before and after\" shots helped our customers go on more dates, and for many, find the love of their life.
+  page_description: >-
+    From The Match Artist's portfolio, these \"Before and after\" shots helped our customers go on more dates, and for many, find the love of their life.
   canonical_url:
   featured_image:
   featured_image_alt:

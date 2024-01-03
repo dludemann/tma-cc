@@ -1,7 +1,8 @@
 ---
 title: Coffee
 seo:
-  page_description: 'From The Match Artist's portfolio, these "Coffee" shots helped our customers go on more dates, and for many, find the love of their life.'
+  page_description: >-
+    'From The Match Artist's portfolio, these "Coffee" shots helped our customers go on more dates, and for many, find the love of their life.'
   featured_image:
   featured_image_alt:
   author_twitter_handle:
