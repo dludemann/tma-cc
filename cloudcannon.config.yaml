@@ -313,6 +313,9 @@ collection_groups:
   - heading: Guides
     collections:
       - tinder
+      - bumble
+      - hinge
+      - dilmil
   - heading: Data
     collections:
       - data
