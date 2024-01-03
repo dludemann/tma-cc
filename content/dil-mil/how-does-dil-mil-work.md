@@ -137,6 +137,7 @@ seo:
 
 <p>Let&rsquo;s dive straight into it!</p>",
 <a href="#what-is-dil-mil"><h2 id="what-is-dil-mil">What Is Dil Mil</h2></a>
+
 <p>Dil Mil is a South Asian dating site that was acquired by <a href=\"https://www.datinggrp.com/\">Social Discovery Group</a> in 2010. A few of the other dating sites they own include dating.com, AnatasiaDate.com, AsianDate.com, AmoLatina.com, and ArabianDate.com.</p>
 
 <p>Founded by <a href=\"https://councils.forbes.com/profile/KJ-Dhaliwal-CSO-CEO-Social-Discovery-Group-Dil-Mil/192afdca-bfd8-4e19-9440-a21320bbe08c\">KJ Dhaliwal</a>, the company is based in San Francisco. Branded as &ldquo;Tinder for South Asians&rdquo;, the app became popular amongst expats from South Asian countries, including India.</p>
@@ -155,10 +156,12 @@ seo:
 
 <p>This also means that the way in which you swipe on Dil Mil will <em>not</em> affect which accounts you&rsquo;re shown. The only thing to make sure of, then, is that you&rsquo;ve selected as many options as possible in your search filters!</p>
 <a href="#what-does-dil-mil-mean"><h2 id="what-does-dil-mil-mean">What Does &ldquo;Dil-Mil&rdquo; 2n?</h</a>
+
 <p>&ldquo;Dil-mil&rdquo; comes from &ldquo;<a href=\"https://www.rekhtadictionary.com/meaning-of-dil-milnaa\">dil milnaa</a>&rdquo;, which in Urdu translates as &ldquo;[to] have mutual love&rdquo; or &ldquo;find [someone] congenial&rdquo;.</p>
 
 <p>That&rsquo;s why the Dil Mil slogan is &ldquo;Love is&rdquo; &mdash; they state that their mission is to &ldquo;<a href=\"https://blog.dilmil.co/how-does-dil-mil-work\">empower the world to find love and make it as painless of a journey for you as possible</a>&rdquo;.&nbsp;</p>
 <a href="#dil-mil-user-demographics"><h2 id="dil-mil-user-demographics">Dil Mil User Demographics</h2></a>
+
 <p>The majority of Dil Mil users tend to be first gen South Asian expats in key diasporic locations. <a href=\"https://onlineforlove.com/dil-mil-review/#:~:text=Around%20100%20000%20users%20are%20from%20the%20United%20States\">According to some stats</a>, there are roughly 100,000 users in the U.S., of whom 50,000 are active.</p>
 
 <p>When it comes to the gender ratio, it&rsquo;s fairly even, with around 55% identifying as male and 45% identifying as female.</p>
@@ -254,10 +257,14 @@ seo:
 </ul>
 <p><a href=\"https://www.reddit.com/r/ABCDesis/comments/ci67nv/anyone_have_this_problem_with_dil_mil\">Some Redditors commented</a> that they were matched with users they hadn&rsquo;t swiped on. Some so much so that it caused them to leave the app.</p>
 <a href="#how-to-get-the-dil-mil-app"><h2 id="how-to-get-the-dil-mil-app">How to Get the Dil Mil App</h2></a>
+
 <p>You can download the Dil Mil app for free from either the App Store (for iOS devices) or the Google Play store (for Android devices).</p>
 
 <p>It is intended to be used as an app, rather than on desktop (though they do have a web app), so you&rsquo;ll need to download it to your device.</p>
-<a href="#how-do-you-get-matches-on-dil-mil"><h2 id="how-do-you-get-matches-on-dil-mil">Get Matches on Dil </a>How Do You ></a>
+<a href="#how-do-you-get-matches-on-dil-mil"><h2 id="how-do-you-get-matches-on-dil-mil">Get Matches on Dil </a>
+
+How Do You ></a>
+
 <p>Dil Mil uses the same swipe structure that you&rsquo;ll know from other dating apps, such as Tinder. The steps to get a match are very simple:</p>
 
 <ol>
@@ -286,6 +293,7 @@ seo:
 
 <p>Just as Dil Mil has a high success rate on their app, so do we &mdash; proving that of anything else you could do to up your internet dating profile game, improving your profile photos is the best idea!</p>
 <a href="#dil-mil-pricing-structure"><h2 id="dil-mil-pricing-structure">Dil Mil Pricing Structure</h2></a>
+
 <p>The basic version of Dil Mil is free, but there are limited features. At this time, it doesn&rsquo;t look like you can purchase certain premium features (eg, Boosts or SuperLikes) separately, though this may change in the future.</p>
 
 <p>If you decide to upgrade to <a href=\"https://dilmil.co/vip-elite\">Dil Mil VIP Elite</a>, the premium subscription on the app, then there are a few different prices:</p>
@@ -316,6 +324,7 @@ seo:
 
 <p>If purchased through the web app, you&rsquo;ll need to <a href=\"https://dilmil.helpshift.com/hc/en/3-dil-mil/faq/213-how-do-i-cancel-or-manage-my-subscription\">contact Dil Mil&rsquo;s support team directly</a>.</p>
 <a href="#dil-mil-free-app-features"><h2 id="dil-mil-free-app-features">Dil Mil Free App Features</h2></a>
+
 <p>With the Dil Mil free app, you&rsquo;ll only be able to:</p>
 
 <ul>
@@ -341,6 +350,7 @@ seo:
 </ul>
 <p>You&rsquo;ll only be able to chat with users you&rsquo;ve made a match with, but once you&rsquo;re matched, it&rsquo;s all go!</p>
 <a href="#premium-app-features"><h2 id="premium-app-features">Premium App Features</h2></a>
+
 <p>Along with your premium subscription, otherwise known as VIP Elite, you can enjoy:</p>
 
 <ul>
@@ -443,6 +453,7 @@ seo:
 
 <p>While Dil Mil Concierge is activated, you should see both matches and messages from potential partners chosen for you by your personal matchmaker. <em>How much easier could it get?</em></p>
 <a href="#dil-mil-photo-guide"><h2 id="dil-mil-photo-guide">Dil Mil Photo Guide</h2></a>
+
 <p>Dil Mil has certain <a href=\"https://dilmil.helpshift.com/hc/en/3-dil-mil/faq/184-why-has-my-profile-picture-been-rejected\">photo guidelines</a> they&rsquo;ve put in place to help ensure the safety of the platform for everyone, and keep the catfish at bay!</p>
 
 <p>Photos that will not be approved on your profile include:</p>
@@ -488,7 +499,10 @@ seo:
 <p>Want to look a little mysterious? That&rsquo;ll all be in how you look at the camera. And, if you want to look like marriage material &mdash; confident, kind, funny, etc &mdash; then that comes down to your facial expression, too!</p>
 
 <p>Don&rsquo;t worry &mdash; we&rsquo;ll not only coach you through it before your photoshoot and set you homework (<em>get practicing in front of that mirror!</em>), we&rsquo;ll also be on hand on the day to help refine your look.</p>
-<a href="#dil-mil-conversation-starters-a-guide-to-get-more-matches"><h2 </a>id="dil-mil-conversation-starters-a-guide-to-get-more-matches">Dil Mil Conversation re A Guide to Matches</h2></a>
+<a href="#dil-mil-conversation-starters-a-guide-to-get-more-matches"><h2 </a>
+
+id="dil-mil-conversation-starters-a-guide-to-get-more-matches">Dil Mil Conversation re A Guide to Matches</h2></a>
+
 <p>Starting a conversation on Dil Mil is much the same as on any other dating app. Thanks to competition from other users, you&rsquo;ll want to make sure that your message stands out from the crowd.</p>
 
 <p>While that may sound a little easier said than done, don&rsquo;t worry! We&rsquo;ve got you covered with our guide to sending messages that&rsquo;ll get you more matches.</p>
@@ -528,7 +542,10 @@ seo:
 <p>For example: <em>&ldquo;Hi, I&rsquo;m [insert name]. I couldn&rsquo;t help but stop when I saw your profile &mdash; you have the most incredible eyes! I see you&rsquo;re really into reading &mdash; what&rsquo;s the last book you read?&rdquo;</em></p>
 
 <p>Remember, go with the flow and keep it light to begin with!</p>
-<a href="#how-does-dil-mil-work-for-guys"><h2 id="how-does-dil-mil-work-for-guys">How Does for Guys</h2></</a>Work 
+<a href="#how-does-dil-mil-work-for-guys"><h2 id="how-does-dil-mil-work-for-guys">How Does for Guys</h2></</a>
+
+Work
+
 <p>Dil Mil works for guys in a very similar way to how it works for girls. Both will have to:</p>
 
 <ul>
@@ -573,10 +590,12 @@ seo:
 
 <p>All the more reason to make sure that your profile <em>really</em> stands out from the crowd!</p>
 <a href="#is-dil-mil-a-scam"><h2 id="is-dil-mil-a-scam">Is Dil Mil a Scam</h2></a>
+
 <p>While you may be wondering if Dil Mil is a scam, rest assured that it&rsquo;s totally legit!&nbsp;</p>
 
 <p>The business and rights have been owned by the <a href=\"https://www.datinggrp.com/\">Social Discovery Group</a> (formerly Dating Group) since 2010, who are an established and well-known brand, and also own a number of other dating websites. Additionally, there are plenty of users on the app worldwide.</p>
 <a href="#dil-mil-safety-facts"><h2 id="dil-mil-safety-facts">Dil Mil Safety Facts</h2></a>
+
 <p>While no dating app is ever <em>100%</em> safe, there are certain measures that the app (and you!) can put in place to make sure that your experience is fun and safe.</p>
 
 <p>Here are the things that Dil Mil does:</p>
@@ -684,6 +703,7 @@ seo:
 </li>
 </ul>
 <a href="#ghosting-on-dil-mil"><h2 id="ghosting-on-dil-mil">Ghosting on Dil Mil</h2></a>
+
 <p>Unfortunately, <a href=\"https://www.reddit.com/r/ABCDesis/comments/pzyhab/share_your_best_dil_mil_ghosting_story\">ghosting happens</a>, no matter what app you&rsquo;re on. While it may seem like the easiest way out of a conversation you don&rsquo;t see going anywhere, or with someone who appears to be a little toxic, we&rsquo;d always recommend taking the high road and sending a message to explain that you&rsquo;re not interested. It&rsquo;s just the polite thing to do!</p>
 
 <p>Don&rsquo;t do a &ldquo;<a href=\"https://www.allure.com/story/caspering-new-dating-trend-ghosting\">Casper</a>&rdquo; either (a non-committal friendly message which never follows through). Instead, keep it short, be honest, and give the other person closure.</p>
@@ -692,16 +712,23 @@ seo:
 
 <p>Grieve the waste of your time, maybe take a breather away from the app for some self care, and then move on!</p>
 <a href="#fake-profiles-on-dil-mil"><h2 id="fake-profiles-on-dil-mil">Fake Profiles on Dil Mil</h2></a>
+
 <p>Even though Dil Mil has certain practices in place to discourage fake profiles, it doesn&rsquo;t eliminate them entirely.&nbsp;</p>
 
 <p>Having said that, thanks to the moderation practices and profile and phone number verification procedures, the number of fake profiles on the app is very low. Much lower, in fact, than other dating apps.</p>
 
 <p>If you suspect that you&rsquo;ve stumbled across an unverified fake profile, be sure to report it!</p>
-<a href="#if-im-not-south-asian-can-i-use-dil-mil"><h2 id="if-im-not-south-asian-can-i-use-dil-f I&rsquo;m </a>mil">INot South Asian, Can I Use Dil ></a>
+<a href="#if-im-not-south-asian-can-i-use-dil-mil"><h2 id="if-im-not-south-asian-can-i-use-dil-f I&rsquo;m </a>
+
+mil">INot South Asian, Can I Use Dil ></a>
+
 <p>It doesn&rsquo;t matter what ethnicity you are, anyone can sign up for Dil Mil! Just be aware that the primary audience is South Asians looking for long-term relationships or marriage with other South Asians, so you may find that your profile drops to the bottom of the list.</p>
 
 <p>If you&rsquo;re not South Asian, you&rsquo;re likely to have more luck on other dating apps, such as Tinder, Hinge, or Bumble.</p>
-<a href="#alternative-dating-apps-to-dil-mil"><h2 id="alternative-dating-apps-to-dil-miling Apps to Dil Mil></</a>a>
+<a href="#alternative-dating-apps-to-dil-mil"><h2 id="alternative-dating-apps-to-dil-miling Apps to Dil Mil></</a>
+
+a>
+
 <p>While Dil Mil is a great app for South Asians looking to meet other South Asians overseas, there are a few other apps also offering the same service.&nbsp;</p>
 
 <p>So, if you&rsquo;re not having much luck on Dil Mil, why not check out some of the alternatives?</p>
@@ -730,6 +757,7 @@ seo:
 
 <p>However, as it does have a larger user base, you may meet your ideal match on Aisle more easily than on Dil Mil. Just bear in mind that you <em>will</em> have to pay!</p>
 <a href="#how-does-dil-mil-work-faqs"><h2 id="how-does-dil-mil-work-faqs">How Does Dil Mil Work FAQs</h2></a>
+
 <h3>Can I access Dil Mil from a desktop computer?</h3>
 <p>Yes, you can access Dil Mil from a desktop computer using their web app.&nbsp;</p>
 
@@ -769,6 +797,7 @@ seo:
 
 <p>If you have a specific reason why you have unmatched this user, you can also send a report to the Dil Mil Support Team. Bear in mind that once you&rsquo;ve unmatched someone, this action cannot be undone.</p>
 <a href="#sources"><h2 id="sources">Sources</h2></a>
+
 <ol>
 <li>
 <p><a href=\"https://www.datinggrp.com/\">datinggrp.com</a></p>
