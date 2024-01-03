@@ -78,12 +78,13 @@
                     :key="level_two.title"
                     class="relative"
                   >
+                  <a :href="mainSlug + '/' + level_two.slug + '/'">
                     <button
                       class="px-4 py-2 relative"
                       :class="{
                         activeSubMenuLink: isLevelTwoActive(level_two),
                       }"
-                      @click="navigateLevelTwo(level_two)"
+                      
                     >
                       <!-- INDICATOR -->
                       <div
@@ -92,6 +93,7 @@
                       />
                       {{ level_two.title }}
                     </button>
+                  </a>
 
                     <!-- LEVEL THREE START -->
                     <ul
@@ -166,7 +168,7 @@ export default {
   },
   watch: {
     currentHash: function () {
-      console.log('hash', this.currentHash);
+      // console.log('hash', this.currentHash);
     },
   },
   mounted: function () {
@@ -183,6 +185,7 @@ export default {
       }
     },
     navigateLevelTwo(level_two_object) {
+      console.log(level_two_object)
       window.location.href = level_two_object.slug;
     },
     itemClick(slug) {

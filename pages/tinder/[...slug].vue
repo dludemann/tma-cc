@@ -11,6 +11,7 @@ const changeCurrentHash = (slug) => {
   currentHash.value = slug;
 };
 
+
 const head = generateHead(pageData, route);
 useHead(head);
 
