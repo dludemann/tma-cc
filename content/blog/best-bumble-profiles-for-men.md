@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   These are some photos you need for your online dating profiles to be successful.
-featured_image: images/blog/oQ5ftAZSQa249hYSSSWD
+featured_image: images/blog/oQ5ftAZSQa249hYSSSWD.jpg
 featured_image_alt:
 author: Nick Friesen
 ---

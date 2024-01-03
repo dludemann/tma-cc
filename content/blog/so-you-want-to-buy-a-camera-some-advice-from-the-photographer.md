@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   Buying a camera can be a daunting decision, but many have asked me what to look for in a camera, and beyond that, how to take pictures. In this blog, I'm going to attempt to give some recommendations for camera gear, insight on taking good photos, and how to use all of this for a photo date.
-featured_image: images/blog/WRmRUhggQ3GztIXbhhtM
+featured_image: images/blog/WRmRUhggQ3GztIXbhhtM.jpg
 featured_image_alt: Nick Friesen Shows us how to shop for a camera
 author: Shane White
 ---

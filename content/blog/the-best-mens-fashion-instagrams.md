@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   There are billions of Instagram accounts, and millions of those accounts have to do with men's fashion. It's hard to gauge which accounts you should follow and which accounts you should ignore. After all, not everyone has the same style. I went through the depths of Instagram to find the best men's fashion accounts so you wouldn't have to.
-featured_image: images/blog/Vnbp1F81REGfUVidZyTL
+featured_image: images/blog/Vnbp1F81REGfUVidZyTL.jpg
 featured_image_alt:
 author: Shane White
 ---

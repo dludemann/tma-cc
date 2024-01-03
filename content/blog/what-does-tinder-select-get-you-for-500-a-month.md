@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   Tinder's new offering, Tinder Select, comes at a significant price of $500 a month and is geared toward a highly select audience. Two times a week you can send a message without matching with that particular person. If you like someone and they don't have any premium version of Tinder, ...
-featured_image: images/blog/8I75NVKPTZuNcYi7sr0w
+featured_image: images/blog/8I75NVKPTZuNcYi7sr0w.jpg
 featured_image_alt:
 author: Nick Friesen
 ---

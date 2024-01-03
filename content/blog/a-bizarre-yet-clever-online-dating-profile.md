@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   When we started this company, our dedication was to coach facial expressions and accurately show how fun and interesting our clients are. As we kept shooting, we realized that adding some bizarre humor into the shoots was very effective. We know that our photos look candid, yet professional - but, what if we could also be a bit witty with the photos we take.
-featured_image: /images/blog/dnGwiuOTQxql2irsYF1O
+featured_image: /images/blog/dnGwiuOTQxql2irsYF1O.jpg
 featured_image_alt:
 author: Shane White
 ---

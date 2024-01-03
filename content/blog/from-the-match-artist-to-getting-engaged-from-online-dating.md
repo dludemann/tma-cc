@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   This blog post is definitely going to be photo heavy. I shot individual photos for Karthik a little over two years ago. We had a great time hopping from place to place in San Francisco. We had tea at his place, took some photos on his motorcycle, and got a ...
-featured_image: images/blog/YWLOC7jSD6C4LqeVB9uK
+featured_image: images/blog/YWLOC7jSD6C4LqeVB9uK.jpg
 featured_image_alt:
 author: Nick Friesen
 ---

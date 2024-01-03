@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   Many are surprised that our business exists, others are excited intrigued and tell us it's a brilliant idea. It all started about a year and a half ago, but it had been unknowingly in the making for a number of years prior. Here's a photo of us at our first paid shoot.
-featured_image: images/blog/ziOir4hqQler1YvBg8qw
+featured_image: images/blog/ziOir4hqQler1YvBg8qw.jpg
 featured_image_alt: Shane and Nick Founders of The Match Artist
 author: Shane White
 ---

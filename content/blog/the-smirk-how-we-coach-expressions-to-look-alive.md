@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   By far the most important aspect of our business is that of facial expression coaching. With all of our facial muscles, slight movements can entirely change the implications of what you mean to others. Most haven’t ever thought about facial expressions, but they are crucial for dates, job interviews, and especially every photo you’ll ever take.
-featured_image: images/blog/QIm5OYlMRqyLj1Yhk3Cn
+featured_image: images/blog/QIm5OYlMRqyLj1Yhk3Cn.jpg
 featured_image_alt: Man in striped collared shirt smiling
 author: Shane White
 ---

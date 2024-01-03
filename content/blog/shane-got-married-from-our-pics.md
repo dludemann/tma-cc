@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   A little teaser of my co-founder's wedding. It all started with a few photos years ago.
-featured_image: images/blog/q7joEouATRiuC0MkI06L
+featured_image: images/blog/q7joEouATRiuC0MkI06L.jpg
 featured_image_alt:
 author: Nick Friesen
 ---

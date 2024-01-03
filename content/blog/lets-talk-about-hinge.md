@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   Here's an app I've been really enjoying for a while now. It seems to have surpassed the general 'hookup' apps toward their slogan, "Designed to be Deleted". It's a free app, and allows some interesting features, while still keeping the standard 'Swipe Right, Swipe Left' model. I'll talk a bit ...
-featured_image: images/blog/RipHve2QydE8DkEmnCRA
+featured_image: images/blog/RipHve2QydE8DkEmnCRA.jpg
 featured_image_alt: Man holding glass of wine
 author: Shane White
 ---

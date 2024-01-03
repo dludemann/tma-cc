@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   Where should you go on your first date? There are so many places! But, what if you want to be original? This blog will show you six of the most unique first date spots that are sure to impress the other person you're going out with!
-featured_image: images/blog/XS2ZDxUQShaGIkzvWLm3
+featured_image: images/blog/XS2ZDxUQShaGIkzvWLm3.jpg
 featured_image_alt:
 author: Shane White
 ---

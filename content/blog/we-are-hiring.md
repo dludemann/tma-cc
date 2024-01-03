@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   The Match Artist is seeking a part or full time photographer to join our fast growing company. We are seeking a candidate in Chicago IL, but would consider other locations for the right candidate. The Match Artist transforms online dating profiles through intriguing and artistic photography. We specialize in facial ...
-featured_image: images/blog/WKsWssRCRUe15c8smydG
+featured_image: images/blog/WKsWssRCRUe15c8smydG.jpg
 featured_image_alt: Photographer kneeling on a beach while taking a photo
 author: Shane White
 ---
