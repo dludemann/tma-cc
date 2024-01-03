@@ -2,9 +2,7 @@
 title: Action
 seo:
   page_description: >-
-    We are the only photography company that ONLY specializes in online dating
-    photography. Our photographer has studied exactly how to make your pictures
-    get you more matches.
+    From The Match Artist's portfolio, these \"Action\" shots helped our customers go on more dates, and for many, find the love of their life.
   canonical_url:
   featured_image:
   featured_image_alt:

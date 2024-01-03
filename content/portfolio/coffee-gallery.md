@@ -1,8 +1,7 @@
 ---
 title: Coffee
 seo:
-  page_description: We are the only photography company that ONLY specializes in online dating photography. Our photographer has studied exactly how to make your pictures get you more matches.
-  canonical_url:
+  page_description: 'From The Match Artist's portfolio, these "Coffee" shots helped our customers go on more dates, and for many, find the love of their life.'
   featured_image:
   featured_image_alt:
   author_twitter_handle:
