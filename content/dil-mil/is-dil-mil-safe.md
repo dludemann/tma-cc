@@ -105,9 +105,12 @@ seo:
 
 <p>This courtesy extends to when you delete your account, as well.</p>
 
-<h2 id="can-i-hide-my-dil-mil-profile-from-dangerous-people?"><a href="#can-i-hide-my-dil-mil-profile-from-dangerous-people?">Can I Hide My Dil Mil Profile From Dangerous
+<h2 id="can-i-hide-my-dil-mil-profile-from-dangerous-people?">
+<a href="#can-i-hide-my-dil-mil-profile-from-dangerous-people?">
+Can I Hide My Dil Mil Profile From Dangerous People?
+</a>
+</h2>
 
-People?</a></h2>
 
 <p>If you don&rsquo;t want your profile to be accessible by anyone, you do have the option to hide it from others. To do this:</p>
 

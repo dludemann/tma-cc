@@ -135,8 +135,10 @@ seo:
 </li>
 </ul>
 
-<p>Let&rsquo;s dive straight into it!</p>",
+<p>Let&rsquo;s dive straight into it!</p>
 <a href="#what-is-dil-mil"><h2 id="what-is-dil-mil">What Is Dil Mil</h2></a>
+
+
 
 <p>Dil Mil is a South Asian dating site that was acquired by <a href=\"https://www.datinggrp.com/\">Social Discovery Group</a> in 2010. A few of the other dating sites they own include dating.com, AnatasiaDate.com, AsianDate.com, AmoLatina.com, and ArabianDate.com.</p>
 
@@ -155,7 +157,7 @@ seo:
 <p>Your data and answers, therefore, directly affect your potential matches (and the number of them that you&rsquo;re shown).</p>
 
 <p>This also means that the way in which you swipe on Dil Mil will <em>not</em> affect which accounts you&rsquo;re shown. The only thing to make sure of, then, is that you&rsquo;ve selected as many options as possible in your search filters!</p>
-<a href="#what-does-dil-mil-mean"><h2 id="what-does-dil-mil-mean">What Does &ldquo;Dil-Mil&rdquo; 2n?</h</a>
+<a href="#what-does-dil-mil-mean"><h2 id="what-does-dil-mil-mean">What Does &ldquo;Dil-Mil&rdquo; 2n?</h2></a>
 
 <p>&ldquo;Dil-mil&rdquo; comes from &ldquo;<a href=\"https://www.rekhtadictionary.com/meaning-of-dil-milnaa\">dil milnaa</a>&rdquo;, which in Urdu translates as &ldquo;[to] have mutual love&rdquo; or &ldquo;find [someone] congenial&rdquo;.</p>
 
@@ -261,9 +263,7 @@ seo:
 <p>You can download the Dil Mil app for free from either the App Store (for iOS devices) or the Google Play store (for Android devices).</p>
 
 <p>It is intended to be used as an app, rather than on desktop (though they do have a web app), so you&rsquo;ll need to download it to your device.</p>
-<a href="#how-do-you-get-matches-on-dil-mil"><h2 id="how-do-you-get-matches-on-dil-mil">Get Matches on Dil </a>
-
-How Do You ></a>
+<a href="#how-do-you-get-matches-on-dil-mil"><h2 id="how-do-you-get-matches-on-dil-mil">How Do You Get Matches on Dil </h2></a>
 
 <p>Dil Mil uses the same swipe structure that you&rsquo;ll know from other dating apps, such as Tinder. The steps to get a match are very simple:</p>
 
@@ -499,9 +499,7 @@ How Do You ></a>
 <p>Want to look a little mysterious? That&rsquo;ll all be in how you look at the camera. And, if you want to look like marriage material &mdash; confident, kind, funny, etc &mdash; then that comes down to your facial expression, too!</p>
 
 <p>Don&rsquo;t worry &mdash; we&rsquo;ll not only coach you through it before your photoshoot and set you homework (<em>get practicing in front of that mirror!</em>), we&rsquo;ll also be on hand on the day to help refine your look.</p>
-<a href="#dil-mil-conversation-starters-a-guide-to-get-more-matches"><h2 </a>
-
-id="dil-mil-conversation-starters-a-guide-to-get-more-matches">Dil Mil Conversation re A Guide to Matches</h2></a>
+<a href="#dil-mil-conversation-starters-a-guide-to-get-more-matches"><h2 id="dil-mil-conversation-starters-a-guide-to-get-more-matches">Dil Mil Conversation re A Guide to Matches</h2></a>
 
 <p>Starting a conversation on Dil Mil is much the same as on any other dating app. Thanks to competition from other users, you&rsquo;ll want to make sure that your message stands out from the crowd.</p>
 
