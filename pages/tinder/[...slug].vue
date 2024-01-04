@@ -11,12 +11,15 @@ const changeCurrentHash = (slug) => {
   currentHash.value = slug;
 };
 
-
 const head = generateHead(pageData, route);
 useHead(head);
 
 const collection = page.value._dir;
-const contentQuery = await queryContent(collection).find();
+const contentQuery = await queryContent(collection)
+  .where({
+    _path: { $ne: `/${collection}` },
+  })
+  .find();
 const mainSlug = ['/', collection].join('');
 
 const silo = contentQuery;
