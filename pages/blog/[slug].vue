@@ -65,7 +65,7 @@ useHead(head);
 }
 
 .body-container > div > img {
-  max-height: 50vw;
+  max-height: 50vh;
   margin-inline: auto;
   margin-block: 1rem;
 }
