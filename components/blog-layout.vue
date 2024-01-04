@@ -6,7 +6,7 @@
         <div class="blog-post-thumb">
           <a :href="post._path">
             <nuxt-img
-              class="h-full object-cover"
+              class="h-full object-cover max-h-[550px]"
               :src="post.featured_image"
               :alt="post.featured_image_alt"
               loading="eager" />

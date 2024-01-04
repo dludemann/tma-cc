@@ -64,6 +64,12 @@ useHead(head);
   font-weight: lighter;
 }
 
+.body-container > div > img {
+  max-height: 50vw;
+  margin-inline: auto;
+  margin-block: 1rem;
+}
+
 .body-container > div > h1,
 .body-container > div > h2,
 .body-container > div > h3 {
