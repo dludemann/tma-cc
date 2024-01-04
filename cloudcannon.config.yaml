@@ -45,15 +45,9 @@ collections_config:
       - name: Add Page
         editor: visual
         schema: page
-    # filter:
-    #   base: all
-    #   exclude:
-    #     - content/blog/*.md
-    #     - content/portfolio/*.md
-    #     - content/tinder/*.md
   book:
     path: content/book
-    url: '/[slug]/'
+    url: '/book/[slug]/'
     output: true
     icon: wysiwyg
     _enabled_editors:

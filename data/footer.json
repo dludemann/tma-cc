@@ -12,6 +12,11 @@
           "icon": ""
         },
         {
+          "link": "/a-new-test-page/",
+          "text": "Test page",
+          "icon": ""
+        },
+        {
           "link": "/blog/",
           "text": "Blog",
           "icon": ""
