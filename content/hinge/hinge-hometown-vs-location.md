@@ -1,8 +1,8 @@
 ---
-title: 'Understanding Hinge: Insights into the App's Location Features'
+title: "Understanding Hinge: Insights into the App's Location Features"
 menu_grouping: How to use Hinge (2023 Experts Guide)
 author: Shane White
-featured_image: 
+featured_image:
 seo:
   page_description: >-
     A guide to the Hinge algorithm
