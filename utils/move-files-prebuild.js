@@ -15,14 +15,13 @@ fs.readdir('./content/book', 'utf8', function (err, dir) {
   });
   for (let i = 0; i < dir.length; i++) {
     const file = dir[i];
-    console.log(file);
 
     var oldPath = `content/book/${file}`;
     var newPath = `content/${file}`;
 
     fs.rename(oldPath, newPath, function (err) {
       if (err) throw err;
-      console.log('Successfully renamed - AKA moved!');
+      console.log(`✅ Successfully moved to ${newPath}`);
     });
   }
 });

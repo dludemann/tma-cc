@@ -20,14 +20,12 @@ fs.readdir('./content', 'utf8', function (err, files) {
         const file = files[j];
 
         if (file === bookingPageFile) {
-          // console.log(file, bookingPageFile);
-
           let oldPath = `content/${file}`;
           let newPath = `content/book/${file}`;
 
           fs.rename(oldPath, newPath, function (err) {
             if (err) throw err;
-            console.log(`Successfully moved to ${newPath}`);
+            console.log(`✅ Successfully moved to ${newPath}`);
           });
         }
       }
