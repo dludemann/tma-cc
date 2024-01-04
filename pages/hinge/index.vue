@@ -25,9 +25,9 @@
 </template>
 
 <script setup>
-const posts = await queryContent('tinder')
+const posts = await queryContent('hinge')
   .where({
-    _path: { $ne: '/tinder' },
+    _path: { $ne: '/hinge' },
   })
   .find();
 </script>

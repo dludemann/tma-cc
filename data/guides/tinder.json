@@ -6,5 +6,17 @@
   {
     "heading": "Tinder Profile and Photos",
     "icon": "/icons/black-camera.svg"
+  },
+  {
+    "heading": "Tinder Messaging and Communication",
+    "icon": "/icons/black-camera.svg"
+  },
+  {
+    "heading": "Tinder Etiquette and Behaviour",
+    "icon": "/icons/black-camera.svg"
+  },
+  {
+    "heading": "Tinder Dating and Relationships",
+    "icon": "/icons/black-camera.svg"
   }
 ]

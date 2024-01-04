@@ -1,10 +1,14 @@
 [
   {
-    "heading": "Dil Mil Basics",
+    "heading": "Understanding Dil Mil",
     "icon": "/icons/black-star.svg"
   },
   {
-    "heading": "Dil Mil Profile and Photos",
+    "heading": "Maximizing Success on Dil Mil",
+    "icon": "/icons/black-camera.svg"
+  },
+  {
+    "heading": "User experience on Dil Mil",
     "icon": "/icons/black-camera.svg"
   }
 ]
