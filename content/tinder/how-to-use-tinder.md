@@ -64,7 +64,7 @@ seo:
 <p dir="ltr"><span></span></p>
 <p dir="ltr"><span><img src="https://cdn.buttercms.com/u6c1VHepTMiFDVOpOmPY" alt="undefined" width="739" height="370"></span></p>
 
-<h2 id="to-install-the-tin"a t href="#to-install-the-tin"o Install the Tindeap</h2>
+<h2 id="how-to-install-the-tinder-app"><a href="#how-to-install-the-tinder-app">How to Install the Tinder app</a></h2>
 
 <p dir="ltr"><span>Installing Tinder is really easy, whether you&rsquo;re working off iOS or Android. Here&rsquo;s what you need to do:</span><b></b></p>
 <ul>
