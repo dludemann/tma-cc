@@ -47,7 +47,7 @@ collections_config:
         schema: page
   book:
     path: content/book
-    url: '/book/[slug]/'
+    url: '/{title|lowercase|slugify}'
     output: true
     icon: wysiwyg
     _enabled_editors:
@@ -107,6 +107,8 @@ collections_config:
     icon: burst_mode
     _enabled_editors:
       - visual
+    preview:
+
     schemas:
       portfolio:
         name: New Portfolio Section

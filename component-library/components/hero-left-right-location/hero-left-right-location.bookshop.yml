@@ -45,5 +45,11 @@ _inputs:
     type: number
   city:
     type: select
-    values: data.locations
-    value_key: city
+    options:
+      values: data.locations
+      value_key: city
+  state:
+    type: select
+    options:
+      values: data.locations
+      value_key: state
