@@ -57,11 +57,6 @@
           "icon": ""
         },
         {
-          "link": "/bumble/how-does-bumble-work/",
-          "text": "How to Use Bumble",
-          "icon": ""
-        },
-        {
           "link": "/bumble/",
           "text": "Bumble",
           "icon": ""
@@ -72,18 +67,8 @@
           "icon": ""
         },
         {
-          "link": "/hinge/how-does-hinge-work/",
-          "text": "How to Use Hinge",
-          "icon": ""
-        },
-        {
           "link": "/dil-mil/",
           "text": "Dil Mil",
-          "icon": ""
-        },
-        {
-          "link": "/dil-mil/how-does-dil-mil-work/",
-          "text": "How to Use Dil Mil",
           "icon": ""
         }
       ]
