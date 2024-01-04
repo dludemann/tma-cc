@@ -108,7 +108,11 @@ collections_config:
     _enabled_editors:
       - visual
     preview:
-
+      image:
+        - key: background_image
+      gallery:
+        image:
+          - key: background_image
     schemas:
       portfolio:
         name: New Portfolio Section
