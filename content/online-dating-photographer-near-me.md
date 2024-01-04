@@ -13,8 +13,8 @@ content_blocks:
     background_color: '#090303'
     text_color: '#FFFFFF'
     location:
-      city: a city
-      state: near you
+      city: most major US cities
+      state:
     image:
       src: /images/team/brian.webp
       alt: Photo of Brian on a black background
