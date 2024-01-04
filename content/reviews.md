@@ -199,7 +199,6 @@ content_blocks:
         alt: A glowing testimonial
       - src: /images/reviews/text-2.jpg
         alt: A glowing testimonial
-    column_two:
       - src: /images/reviews/text-3.jpg
         alt: A glowing testimonial
       - src: /images/reviews/text-4.jpg
@@ -208,6 +207,7 @@ content_blocks:
         alt: A glowing testimonial
       - src: /images/reviews/text-6.jpg
         alt: A glowing testimonial
+    column_two:
       - src: /images/reviews/text-7.jpg
         alt: A glowing testimonial
       - src: /images/reviews/text-8.jpg
@@ -244,13 +244,13 @@ content_blocks:
         alt: A glowing testimonial
       - src: /images/reviews/text-24.jpg
         alt: A glowing testimonial
+    column_three:
       - src: /images/reviews/text-25.jpg
         alt: A glowing testimonial
       - src: /images/reviews/text-26.jpg
         alt: A glowing testimonial
       - src: /images/reviews/text-27.jpg
         alt: A glowing testimonial
-    column_three:
       - src: /images/reviews/text-28.jpg
         alt: A glowing testimonial
       - src: /images/reviews/text-29.jpg
