@@ -1,9 +1,18 @@
 <template>
   <section
-    class="w-100 max-w-[1000px] mx-auto font-display"
+    class="w-100 mx-auto font-display"
     :data-cms-bind="dataBinding"
-  >
-    <h1 class="text-center font-bold text-[39px] my-12">More Testimonials</h1>
+    :style="{ maxWidth: block.max_width + 'px' }">
+    <div class="mx-2 mb-8 mt-6" v-if="block.heading_style === 'portfolio'">
+      <h2 class="font-bold text-[1.25rem]">{{ block.title }}</h2>
+      <p v-if="block.subtitle">{{ block.subtitle }}</p>
+    </div>
+    <div class="text-center my-12" v-if="block.heading_style === 'reviews'">
+      <h1 class="font-bold text-[39px]">
+        {{ block.title }}
+      </h1>
+      <p v-if="block.subtitle">{{ block.subtitle }}</p>
+    </div>
     <div class="grid grid-cols-3" :style="{ gap: block.horizontal_gap + 'px' }">
       <div class="flex flex-col" :style="{ gap: block.vertical_gap + 'px' }">
         <div v-for="image in block.column_one">

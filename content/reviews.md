@@ -168,8 +168,12 @@ content_blocks:
         alt:
         max_height:
   - _bookshop_name: card-grid-three-column
+    title: Testimonials
+    subtitle:
+    heading_style: reviews
+    max_width: 1000
     horizontal_gap: 12
-    vertical_gap: 0
+    vertical_gap: 12
     column_one:
       - src: /images/reviews/danny-reviews-grouped.jpeg
         alt: A glowing testimonial
