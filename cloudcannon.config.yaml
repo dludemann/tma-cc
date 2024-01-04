@@ -85,6 +85,8 @@ collections_config:
     preview:
       subtext:
         - key: author
+      image:
+        - key: featured_image
       gallery:
         image:
           - key: featured_image
