@@ -53,7 +53,7 @@ collections_config:
     #     - content/tinder/*.md
   book:
     path: content/book
-    url: '[slug]/'
+    url: '/[slug]/'
     output: true
     icon: wysiwyg
     _enabled_editors:
