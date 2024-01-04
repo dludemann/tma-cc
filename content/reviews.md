@@ -171,34 +171,114 @@ content_blocks:
     horizontal_gap: 12
     vertical_gap: 0
     column_one:
+      - src: /images/reviews/danny-reviews-grouped.jpeg
+        alt: A glowing testimonial
+      - src: /images/reviews/email-2.jpg
+        alt: A glowing testimonial
       - src: /images/reviews/email.jpg
-        alt: A positive email review
-      - src: /images/reviews/text-31.jpg
-        alt: A positive text review
-      - src: /images/reviews/text-26.jpg
-        alt: A positive text review
-      - src: /images/reviews/text-27.jpg
-        alt: A positive text review
-      - src: /images/reviews/text-25.jpg
-        alt: A positive text review
-    column_two:
+        alt: A glowing testimonial
+      - src: /images/reviews/facebook-2.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/facebook-3.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/facebook-4.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/facebook-5.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/facebook.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/google-2.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/google-3.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/google-4.jpg
+        alt: A glowing testimonial
       - src: /images/reviews/google.jpg
-        alt: A positive google review
-      - src: /images/reviews/text-21.jpg
-        alt: A positive text review
-      - src: /images/reviews/text-11.jpg
-        alt: A positive text review
+        alt: A glowing testimonial
+      - src: /images/reviews/rohit-reviews-grouped.jpeg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-2.jpg
+        alt: A glowing testimonial
+    column_two:
+      - src: /images/reviews/text-3.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-4.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-5.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-6.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-7.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-8.jpg
+        alt: A glowing testimonial
       - src: /images/reviews/text-9.jpg
-        alt: A positive text review
-    column_three:
+        alt: A glowing testimonial
+      - src: /images/reviews/text-10.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-11.jpg
+        alt: A glowing testimonial
       - src: /images/reviews/text-12.jpg
-        alt: A positive text review
-      - src: /images/reviews/text-22.jpg
-        alt: A positive text review
+        alt: A glowing testimonial
+      - src: /images/reviews/text-13.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-14.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-15.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-16.jpg
+        alt: A glowing testimonial
       - src: /images/reviews/text-17.jpg
-        alt: A positive text review
+        alt: A glowing testimonial
+      - src: /images/reviews/text-18.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-19.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-20.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-21.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-22.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-23.jpg
+        alt: A glowing testimonial
       - src: /images/reviews/text-24.jpg
-        alt: A positive text review
+        alt: A glowing testimonial
+      - src: /images/reviews/text-25.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-26.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-27.jpg
+        alt: A glowing testimonial
+    column_three:
+      - src: /images/reviews/text-28.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-29.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-30.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-31.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-32.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-33.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-34.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-35.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-36.webp
+        alt: A glowing testimonial
+      - src: /images/reviews/text-37.webp
+        alt: A glowing testimonial
+      - src: /images/reviews/text-38.jpeg
+        alt: A glowing testimonial
+      - src: /images/reviews/text-39.png
+        alt: A glowing testimonial
+      - src: /images/reviews/text.jpg
+        alt: A glowing testimonial
+      - src: /images/reviews/video-screenshot.jpg
+        alt: A glowing testimonial
   - _bookshop_name: banner
     background_color: white
     background_image:
