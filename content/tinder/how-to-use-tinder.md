@@ -52,7 +52,9 @@ seo:
 </ul>
 <p dir="ltr"><span>Phew!&nbsp;</span></p>
 <p><b id="docs-internal-guid-6f732456-7fff-9cdc-07f7-15550395e48d"><br><span>It&rsquo;s a lot, but don&rsquo;t worry &ndash; we&rsquo;re here to help you out with our handy tips so that you can get out there and start swiping! </span><span>Let&rsquo;s get started!</span></b></p>
-<h2 dir="ltr"><span>What is Tinder?</span></h2>
+
+<h2 id="what-is-tinder?"><a href="#what-is-tinder?">What is Tinder?</a></h2>
+
 <p><span><img src="https://cdn.buttercms.com/0eqQd5oSxipM1Y84br4I" alt="undefined"></span></p>
 <p dir="ltr"><span>Tinder is an online dating app that was launched by Sean Rad in Los Angeles, back in 2012. While most users primarily use it on their mobile devices, you can also use it on your laptop or desktop &mdash; really any device that you can access the internet from!</span><b></b></p>
 <p dir="ltr"><span>Tinder works by showing you other profiles within a certain distance of your location, whom you can then either &ldquo;Swipe Right&rdquo; or &ldquo;Swipe Left&rdquo; on. Swiping right indicates that you&rsquo;re interested, whereas swiping left will remove them from your app.</span><b></b></p>
@@ -61,7 +63,9 @@ seo:
 <p dir="ltr"><span>Ultimately, this means you could potentially start a conversation in any country, increasing your chances of meeting a range of people in your area, even when you&rsquo;re away from home!</span></p>
 <p dir="ltr"><span></span></p>
 <p dir="ltr"><span><img src="https://cdn.buttercms.com/u6c1VHepTMiFDVOpOmPY" alt="undefined" width="739" height="370"></span></p>
-<h2 dir="ltr">How to Install the Tinder App</h2>
+
+<h2 id="to-install-the-tin"a t href="#to-install-the-tin"o Install the Tindeap</h2>
+
 <p dir="ltr"><span>Installing Tinder is really easy, whether you&rsquo;re working off iOS or Android. Here&rsquo;s what you need to do:</span><b></b></p>
 <ul>
 <li dir="ltr" aria-level="1">
@@ -78,7 +82,9 @@ seo:
 <p dir="ltr"><span>Signing up through Facebook will allow you to see mutual friends. You can also integrate your Instagram account in your settings, which will automatically pull Instagram images from your feed to your Tinder bio.</span><b></b></p>
 <p dir="ltr"><span>When you create your account, pay special attention to all of the information boxes, as this is what will help Tinder match you with anyone you may be interested in!</span></p>
 <p dir="ltr"></p>
-<h2 dir="ltr"><span>How Tinder Swiping Works</span></h2>
+
+<h2 id="how-tinder-swiping-works"><a href="#how-tinder-swiping-works">How Tinder Swiping Works</a></h2>
+
 <p dir="ltr"><span>As we&rsquo;ve already mentioned, swiping is how you indicate that you&rsquo;re interested in each other on Tinder.</span><b></b></p>
 <p dir="ltr"><span>Once you&rsquo;ve set up your profile, the app will show you a photo of someone. If you like the look of them, you can tap the image to see their full profile (plus more photos).</span><b></b></p>
 <p dir="ltr"><span>If you&rsquo;d then like to talk to them, you have a couple of options &mdash; you can either Swipe Right to tell the app that you&rsquo;re interested or tap on the heart icon at the bottom of the photo.</span><b></b></p>
@@ -87,7 +93,9 @@ seo:
 <p dir="ltr"><span>Bear in mind that with the basic version of Tinder, you only get a certain number of Swipe Rights per day, and will have to wait 12 hours in between. All the more reason to make those Swipes really matter!</span><span></span></p>
 <p dir="ltr"><span></span></p>
 <p dir="ltr"><span><img src="https://cdn.buttercms.com/FhNPccRPS9iunurlG5Pa" alt="undefined" width="753" height="377"></span></p>
-<h2 dir="ltr"><span>How to Set Up a Tinder Profile</span></h2>
+
+<h2 id="how-to-set-up-a-tinder-profile"><a href="#how-to-set-up-a-tinder-profile">How to Set Up a Tinder Profile</a></h2>
+
 <p dir="ltr"><span>While setting up your actual Tinder profile may seem intimidating, don&rsquo;t worry! All you need to start with is your name, a great photo (and The Match Artist can help you with that), and a few words about yourself in your bio.</span><b></b></p>
 <p dir="ltr"><span>We&rsquo;ll talk a bit more about photos later in this guide, so for now let&rsquo;s focus on writing your bio and setting preferences.</span><b></b></p>
 <p dir="ltr"><span>If you&rsquo;ve connected your account with Facebook, then it will automatically transfer some information about you from there. However, you can choose what you want to display, and you&rsquo;ll need to write your own bio.</span><b></b></p>
@@ -97,7 +105,9 @@ seo:
 <p dir="ltr"><span>But, for most of you, we&rsquo;re going to assume that you want to write it in English!</span><b></b></p>
 <p dir="ltr"><span>Once your profile is set up, make sure you edit your preferences (you&rsquo;ll find this in your settings). This is where you can set your location and maximum distance of matches, preferences for matches with men, women, or both, age range, username, and more.</span></p>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>Tinder Features</span></h2>
+
+<h2 id="tinder-features"><a href="#tinder-features">Tinder Features</a></h2>
+
 <h3 dir="ltr"><span>Basic Features</span></h3>
 <p dir="ltr"><span>The absolute basic Tinder features are the ability to set up a profile, add photos, select your preferences, and then start swiping!&nbsp;</span><b></b></p>
 <p dir="ltr"><span>And did we mention that this is all entirely </span><span>free</span><span>?</span><b></b></p>
@@ -214,7 +224,9 @@ seo:
 </li>
 </ul>
 <p><span></span></p>
-<h2 dir="ltr"><span>Tinder Premium Features</span></h2>
+
+<h2 id="tinder-premium-features"><a href="#tinder-premium-features">Tinder Premium Features</a></h2>
+
 <p dir="ltr"><span>If you&rsquo;re willing to pay a little more in order to find a match, Tinder has </span><a href="https://tinder.com/feature/subscription-tiers"><span>three higher-level tiers of membership</span></a><span>.</span></p>
 <h3 dir="ltr"><span></span></h3>
 <h3 dir="ltr"><span>Is Tinder Plus Worth it?</span></h3>
@@ -295,7 +307,9 @@ seo:
 </li>
 </ul>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>What Are the Rules of Tinder?</span></h2>
+
+<h2 id="what-are-the-rules-of-tinder?"><a href="#what-are-the-rules-of-tinder?">What Are the Rules of Tinder?</a></h2>
+
 <p><span><img src="https://cdn.buttercms.com/AKXN7rwhTBGlVhwQmLv1" alt="thematchartist_cartoon_of_two_people_..."></span></p>
 <p dir="ltr"><span>While there are some official rules set by Tinder, there are also some unwritten rules!</span><b></b></p>
 <p dir="ltr"><span>Firstly, the </span><a href="https://policies.tinder.com/summary-of-terms/intl/en"><span>official rules</span></a><span> include:</span><b></b></p>
@@ -364,7 +378,9 @@ seo:
 <p dir="ltr"><span>Not everyone is going to be an instant love connection. But that&rsquo;s okay &mdash; you can still meet new people and potentially make some new friends.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Either way, you&rsquo;ll be better perceived if you&rsquo;re friendly and open-minded than if you&rsquo;re too picky and rude.</span></p>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>What Photos Attract Girls on Tinder (12 Expert Picks)</span></h2>
+
+<h2 id="what-photos-attract-girls-on-tinder-(12-expert-picks)"><a href="#what-photos-attract-girls-on-tinder-(12-expert-picks)">What Photos Attract Girls on Tinder (12 Expert Picks)</a></h2>
+
 <p><span><img src="https://cdn.buttercms.com/IiJeNXgTwyjPH4u3QBqA" alt="thematchartist_photos_of_a_beautiful_..."></span></p>
 <p dir="ltr"><span>Finally, we&rsquo;re going to talk about photos!</span><b></b></p>
 <p dir="ltr"><span>Obviously at The Match Artist, taking the best possible photos of you for your Tinder profile is </span><span>what we excel at</span><span>, and we know what we&rsquo;re doing here!</span><b></b></p>
@@ -420,7 +436,9 @@ seo:
 <p dir="ltr"><span>We recommend all our clients practice facial expressions in the mirror.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Remember, if you need more help, you can always </span><a href="https://thematchartist.com/online-dating-photographer-near-me"><span>get in touch with The Match Artist</span></a><span> &mdash; this is what we do!</span></p>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>How to Get More Matches on Tinder: A Guide</span></h2>
+
+<h2 id="how-to-get-more-matches-on-tinder:-a-guide"><a href="#how-to-get-more-matches-on-tinder:-a-guide">How to Get More Matches on Tinder: A Guide</a></h2>
+
 <p><span><img src="https://cdn.buttercms.com/4DtNw8NeQyuuVXG1URU0" alt="thematchartist_man_giving_a_heart_to_..."></span></p>
 <p dir="ltr"><span>So! You&rsquo;ve set up your account, you&rsquo;ve crafted your profile, you&rsquo;ve taken some bomb photos, and now you&rsquo;re swiping!</span><b></b></p>
 <p dir="ltr"><span>Well, let&rsquo;s start getting into our ultimate guide for how to get more matches on Tinder.</span><b></b></p>
@@ -475,7 +493,9 @@ seo:
 <p dir="ltr"><span></span></p>
 <p dir="ltr"><span>There&rsquo;s nothing more attractive than someone who is genuine and authentic. Remember to be yourself and someone who matches with you will know that they&rsquo;re getting exactly what they&rsquo;re looking for!</span></p>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>What is the Best First Text on Tinder?</span></h2>
+
+<h2 id="what-is-the-best-first-text-on-tinder?"><a href="#what-is-the-best-first-text-on-tinder?">What is the Best First Text on Tinder?</a></h2>
+
 <p><span><img src="https://cdn.buttercms.com/B5glfKDUQw6rNimfXmPg" alt="thematchartist_sea_of_people_on_their..."></span></p>
 <p dir="ltr"><span>The best first text to send on Tinder is always going to be one that will </span><span>get you a response!</span><b></b></p>
 <p dir="ltr"><span>Keep it short and sweet, show your sense of humor if possible, and give them an opening to reply.</span></p>
@@ -499,7 +519,9 @@ seo:
 <p dir="ltr"><b>&nbsp;</b></p>
 <p dir="ltr"><span>There are plenty of ways to start a conversation &mdash; just remember to keep it simple!</span></p>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>What You Should Do on Tinder</span></h2>
+
+<h2 id="what-you-should-do-on-tinder"><a href="#what-you-should-do-on-tinder">What You Should Do on Tinder</a></h2>
+
 <p><span><img src="https://cdn.buttercms.com/YHdundRQzy1Dhz4M4mg4" alt="thematchartist_hearts_in_a_big_city_a..."></span></p>
 <p dir="ltr"><span>There are plenty of Dos for your Tinder profile, but here are our top ones!</span><b></b></p>
 <p dir="ltr"><span>Do:</span><b></b></p>
@@ -530,7 +552,9 @@ seo:
 </li>
 </ul>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>What You Should Not Do on Tinder</span></h2>
+
+<h2 id="what-you-should-not-do-on-tinder"><a href="#what-you-should-not-do-on-tinder">What You Should Not Do on Tinder</a></h2>
+
 <p dir="ltr"><span>Likewise, there are lots of Don&rsquo;ts for Tinder!</span></p>
 <p dir="ltr"><b>&nbsp;</b></p>
 <p dir="ltr"><span>Don&rsquo;t:</span><b></b></p>
@@ -567,21 +591,29 @@ seo:
 </li>
 </ul>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>Are Tinder Dates Just for Hookups?</span></h2>
+
+<h2 id="are-tinder-dates-just-for-hookups?"><a href="#are-tinder-dates-just-for-hookups?">Are Tinder Dates Just for Hookups?</a></h2>
+
 <p><span><img src="https://cdn.buttercms.com/5HnCj39RleOw4oG1xEdV" alt="thematchartist_photo_of_a_first_date_..."></span></p>
 <p dir="ltr"><span>While Tinder may have initially encouraged people to hook up, these days it&rsquo;s evolved far beyond that. So many people meet their partners on Tinder, and Tinder has even </span><a href="https://mashable.com/article/tinder-weddings-swipe-right-decor"><span>sponsored weddings</span></a><span> in the past!</span></p>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>Why Do Guys Not Message First on Tinder?</span></h2>
+
+<h2 id="why-do-guys-not-message-first-on-tinder?"><a href="#why-do-guys-not-message-first-on-tinder?">Why Do Guys Not Message First on Tinder?</a></h2>
+
 <p dir="ltr"><span>Would you believe it, it&rsquo;s a question that has actually been </span><a href="https://arxiv.org/abs/1607.01952"><span>studied by researchers</span></a><span>. In it, they found that only 7% of men sent a message first, in contrast to 21% of women.</span><b></b></p>
 <p dir="ltr"><span>Why? Well, according to the research, men (who tend to swipe more indiscriminately) were more likely to feel satisfied with the match itself, and then not feel the need to follow up with a message.</span><b></b></p>
 <p dir="ltr"><span>Of course, this isn&rsquo;t helpful for either party, as it actually leads to women being overwhelmed with potential matches, which leads to them being pickier with their Swipe Rights in return.</span></p>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>Do Girls Get More Matches on Tinder?</span></h2>
+
+<h2 id="do-girls-get-more-matches-on-tinder?"><a href="#do-girls-get-more-matches-on-tinder?">Do Girls Get More Matches on Tinder?</a></h2>
+
 <p dir="ltr"><span>There are exponentially more male users on Tinder than female, meaning that more girls are likely to have potential matches than men.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>And, as we&rsquo;ve already discussed, </span><a href="https://medium.com/@CharlyM/the-unspoken-rules-of-tinder-a15bb52828cc"><span>men&rsquo;s Tinder behavioral habits</span></a><span> tend to show that they Swipe Right on more girls, then weed out the ones that they really want to match with.</span><b></b></p>
 <p dir="ltr"><span>So what&rsquo;s the takeaway with all this? Only Swipe and message people you&rsquo;re genuinely interested in!</span></p>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>What is Tinder U?</span></h2>
+
+<h2 id="what-is-tinder-u?"><a href="#what-is-tinder-u?">What is Tinder U?</a></h2>
+
 <p dir="ltr"><a href="https://www.help.tinder.com/hc/en-us/articles/360015516052-Tinder-U-"><span>Tinder U</span></a><span> (also known as Tinder Uni in the UK) is Tinder aimed at undergrads at certain schools in both the U.S. and the UK. You can only enroll if:</span><b></b></p>
 <ul>
 <li dir="ltr" aria-level="1">
@@ -596,7 +628,9 @@ seo:
 </ul>
 <p dir="ltr"><span>You&rsquo;ll be able to see other students from your university (and beyond) in your Explore feed.</span></p>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>Key Takeaways</span></h2>
+
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
+
 <p dir="ltr"><span>If you&rsquo;ve made it all the way through this guide then congrats! You now know everything you need to know about Tinder and how to use it!</span></p>
 <p dir="ltr"><span>Let&rsquo;s recap some of our key takeaways:</span><b></b></p>
 <ul>
@@ -637,7 +671,9 @@ seo:
 <p dir="ltr"><span>Getting your Tinder profile right isn&rsquo;t as intimidating as it seems. Just follow the steps and you&rsquo;ll find yourself with matches in no time.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Lastly, if you really want to stand out from the crowd, why not talk to The Match Artist and let us help you take the ultimate photos for your Tinder profile? Just head over to our website to </span><a href="https://thematchartist.com/online-dating-photographer-near-me"><span>book your shoot</span></a><span>!</span></p>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>How to Use Tinder FAQs</span></h2>
+
+<h2 id="how-to-use-tinder-faqs"><a href="#how-to-use-tinder-faqs">How to Use Tinder FAQs</a></h2>
+
 <p><span><img src="https://cdn.buttercms.com/AbmfkDWQ8aSYTUxiW5tE" alt="thematchartist_photo_of_a_first_date_..."></span></p>
 <h3 dir="ltr"><span>Is there a way to reset matches on Tinder?</span></h3>
 <p dir="ltr"><span>Unfortunately, the only </span><span>real</span><span> way to reset your matches is by going nuclear: delete your account and start all over again.</span><b></b></p>
@@ -703,7 +739,9 @@ seo:
 <p dir="ltr"><span>Don&rsquo;t worry! Unless they&rsquo;ve upgraded their account, or you&rsquo;ve used a Super Like, nobody will know if you&rsquo;ve liked them or not.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>And besides, if you&rsquo;ve Swiped Right on someone and they haven&rsquo;t on you that&rsquo;s okay! Move on &mdash; there are plenty more potential matches out there!</span></p>
 <p dir="ltr"><span></span></p>
-<h2 dir="ltr"><span>Sources</span></h2>
+
+<h2 id="sources"><a href="#sources">Sources</a></h2>
+
 <ol>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://www.statista.com/topics/10082/tinder"><span>statista.com</span></a></p>
