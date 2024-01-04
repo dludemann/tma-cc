@@ -1,8 +1,8 @@
 ---
-title: 'Up Your Game with Dil Mil's Premium Features'
+title: "Up Your Game with Dil Mil's Premium Features"
 menu_grouping: Maximizing Success on Dil Mil
 author: Shane White
-featured_image: 
+featured_image:
 seo:
   page_description: >-
     A guide to the Dil Mil algorithm
@@ -11,7 +11,7 @@ seo:
   featured_image_alt:
   author_twitter_handle:
   open_graph_type:
-  no_index: false   
+  no_index: false
 ---
 
 <p>Dil Mil, the app specifically for the South Asian expat community looking for that special someone for love and marriage, has some great features &mdash; as long as you&rsquo;re willing to pay for them.</p>
