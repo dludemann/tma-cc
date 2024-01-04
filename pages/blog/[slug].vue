@@ -64,10 +64,9 @@ useHead(head);
   font-weight: lighter;
 }
 
-.body-container > div > img {
-  max-height: 50vh;
-  margin-inline: auto;
-  margin-block: 1rem;
+.body-container div > table > tbody > tr > td > img {
+  margin-block: 1.25rem;
+  max-height: 840px;
 }
 
 .body-container > div > h1,
