@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   We took your photos, you had a great experience, now you're wondering what to do with the pics you just got? Some of this you may know, but I'm going to segment some key things to do with your photos as far as dating apps and social media are concerned. This is a lengthier blog, but it should be helpful in maximizing your success.
-featured_image: images/blog/sezM0iLSiORzBBBbRieQ
+featured_image: images/blog/sezM0iLSiORzBBBbRieQ.jpg
 featured_image_alt: The Match Artist Behind The Scenes
 author: Shane White
 ---
