@@ -31,7 +31,7 @@ seo:
 </ul>
 <p><b>&nbsp;</b></p>
 <p dir="ltr"><span>Ready to step up your Tinder game? Let&rsquo;s get into it!</span></p>
-<h2 dir="ltr"><span>Why Am I Not Getting Matches on Tinder?</span><span></span></h2>
+<h2 id="why-am-i-not-getting-matches-on-tinder" dir="ltr"><a href="#why-am-i-not-getting-matches-on-tinder">why am i not getting matches on tinder?</a></h2>
 <p dir="ltr"><span>The first thing to understand about Tinder is how exactly it works.</span><b></b></p>
 <p dir="ltr"><a href="https://www.fastcompany.com/3054871/whats-your-tinder-score-inside-the-apps-internal-ranking-system"><span>Back in 2016</span></a><span>, a journalist with Fast Company researching how the Tinder algorithm worked was given an inside look into the company. Essentially, every user was assigned an &ldquo;Elo score&rdquo; (Chess players will be familiar with the term) which helps match users.</span><b></b></p>
 <p dir="ltr"><span>Tinder claimed that it didn&rsquo;t just measure how attractive you were but how &ldquo;desirable&rdquo; you were to others. And this wasn&rsquo;t just a matter of how many Swipes you had, either, but a variety of factors.</span><b></b></p>
@@ -63,7 +63,7 @@ seo:
 <p dir="ltr"><span>And, let&rsquo;s be honest, Tinder is all about whether or not you </span><span>look</span><span> appealing or &ldquo;desirable&rdquo; to start, before we even start talking about anything in the actual online profiles!</span><b></b></p>
 <p dir="ltr"><span>But don&rsquo;t be discouraged!</span><b></b></p>
 <p dir="ltr"><span>We&rsquo;ve got the lowdown on what&rsquo;s going to get you more matches and opportunities to send a message, start a conversation and get chatting to a potential match. And, maybe even find love!</span></p>
-<h2 dir="ltr"><span>Our Top 12 Tips for More Matches</span></h2>
+<h2 id="why-am-i-not-getting-matches-on-tinder" dir="ltr"><a href="#why-am-i-not-getting-matches-on-tinder">why am i not getting matches on tinder?</a></h2>
 <h3 dir="ltr"><span>1. Fully Optimize Your Tinder Profile</span></h3>
 <p dir="ltr"><span>Filling out your profile is one thing, but have you actually </span><span>optimized</span><span> it?&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Making sure you optimize your profile could account for a lot of Swipes on your profile, or be the difference between a Yes or a Nope, so it&rsquo;s important to pay close attention.</span><b></b></p>
@@ -219,7 +219,7 @@ seo:
 <h3 dir="ltr"><span>14. Avoid Displaying Too Much &ldquo;Risky Behavior&rdquo; on Your Profile</span></h3>
 <p><b>&nbsp;</b></p>
 <h3 dir="ltr"><span>15. Don&rsquo;t Include Pictures of Your Children on Tinder</span></h3>
-<h2 dir="ltr"><span>Key Takeaways</span></h2>
+<h2 id="why-am-i-not-getting-matches-on-tinder" dir="ltr"><a href="#why-am-i-not-getting-matches-on-tinder">why am i not getting matches on tinder?</a></h2>
 <p dir="ltr"><span>If you&rsquo;re stuck in a bit of a rut and haven&rsquo;t been getting as many matches on your Tinder profile, it may be time to switch things up!</span><b></b></p>
 <p dir="ltr"><span></span></p>
 <p dir="ltr"><span>To recap, make sure that you:</span><b></b></p>
@@ -249,7 +249,7 @@ seo:
 <p><b>&nbsp;</b></p>
 <p dir="ltr"><span>And, of course, when you&rsquo;re ready to </span><span>really</span><span> level up your Tinder profile, </span><a href="https://thematchartist.com/online-dating-photographer-near-me"><span>get in touch with The Match Artist</span></a><span>!&nbsp;</span></p>
 <p dir="ltr"><span>We&rsquo;ll work with you every step of the way to help your Tinder profile shine, and before you know it, you&rsquo;ll have matches galore.</span></p>
-<h2 dir="ltr"><span>How to Get More Matches on Tinder FAQs</span></h2>
+<h2 id="why-am-i-not-getting-matches-on-tinder" dir="ltr"><a href="#why-am-i-not-getting-matches-on-tinder">why am i not getting matches on tinder?</a></h2>
 <h3 dir="ltr"><span>Why am I not getting matches on Tinder?</span></h3>
 <p dir="ltr"><span>If you aren&rsquo;t getting any matches on Tinder then you may need to update your profile and optimize it! Make sure that you&rsquo;ve got a good, snappy bio, and a few high-quality photos that show you in your best light.</span><b></b></p>
 <p dir="ltr"><span>Connecting your Instagram and Spotify will also allow other users to learn more about you and your personality. Additionally, the Smart Photos feature can automatically rearrange your photos for you, so that your most winning photo is always first!</span></p>
@@ -261,7 +261,7 @@ seo:
 <p dir="ltr"><span>On average, guys match at a rate of about 1 in 10 on Tinder. That means that if you max out your Swipe Rights and hit 100, you&rsquo;ll receive about 10 in return.</span><b></b></p>
 <p dir="ltr"><span>Typically, our clients get between </span><span>20&ndash;40 matches every day</span><span>, and that&rsquo;s all because of the work we&rsquo;ve done with them.</span><b></b></p>
 <p dir="ltr"><span>Proof that the single most important factor on your Tinder profile is high-quality photos of you!</span></p>
-<h2 dir="ltr"><span>Sources</span></h2>
+<h2 id="why-am-i-not-getting-matches-on-tinder" dir="ltr"><a href="#why-am-i-not-getting-matches-on-tinder">why am i not getting matches on tinder?</a></h2>
 <ol>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://datingzest.com/tinder-statistics"><span>datingzest.com</span></a></p>

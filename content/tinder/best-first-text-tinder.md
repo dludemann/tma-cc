@@ -43,7 +43,7 @@ seo:
 <p dir="ltr"><span>Whether you&rsquo;re looking for compliments, conversations, a pick-up line, or any other inspiration for an icebreaker to ask someone you matched with: we&rsquo;ll cover it all.</span><b></b></p>
 <p dir="ltr"><span>Let&rsquo;s get straight into it so that you can start matching with people and getting dates!</span></p>
 <p></p>
-<h2 dir="ltr"><span>What Makes a Good First Message on Tinder?</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <p dir="ltr"><span>When it comes to your first message on Tinder, the best are short, sweet, and show that you have a sense of humor.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>It&rsquo;s hard to show your personality in a first message, but it&rsquo;s easier to find a connection if you ask questions that your match will need to answer about themselves and their life.</span><b></b></p>
 <p dir="ltr"><span>This could be anything! Just give them a reason to respond and talk to you, as you would in a normal face-to-face conversation.</span><b></b></p>
@@ -76,13 +76,13 @@ seo:
 <div style="display: flex; align-items: center;"><form action="https://www.getdrip.com/forms/21599629/submissions" data-drip-embedded-form="21599629" method="post" class="drip-form plausible-event-name=NewsLetterFormSignup"><input type="email" name="fields[email]" value="" placeholder="Email" required="required" style="width: 80%; padding: 10px; margin: 10px 0; border: none; border-radius: 4px;"> <input type="text" name="fields[first_name]" placeholder="First Name" required="required" style="width: 80%; padding: 10px; margin: 10px 0; border: none; border-radius: 4px;"> <button type="submit" style="padding: 10px 20px; background-color: #fff; color: #000; border: none; border-radius: 4px;" onmouseover="this.style.backgroundColor='#444'; this.style.color='#FFF';" onmouseout="this.style.backgroundColor='#FFF'; this.style.color='#000';">Send it to me.</button></form><img src="https://cdn.buttercms.com/GAumtSyRQgeNGLdLesYY" style="margin-left: 20px; margin-top: -69px; max-width: 30%;"></div>
 </div>
 <p></p>
-<h2 dir="ltr"><span>Tips for Starting a Tinder Conversation</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <p dir="ltr"><span>Our best tips for starting a Tinder conversation are to somehow make your match react to your first message. Even something as simple as reacting with GIFs or emojis will mean that they&rsquo;re engaged!</span><b></b></p>
 <p dir="ltr"><span>If you can make them laugh with bad pick-up lines (as long as you know that they&rsquo;re bad) can make you seem more interesting and give you an advantage.</span><b></b></p>
 <p dir="ltr"><span>It doesn&rsquo;t always have to be clever but it does have to be interesting enough to get them to smile and respond.</span><b></b></p>
 <p dir="ltr"><span>In fact, there&rsquo;s even </span><a href="https://www.psychologytoday.com/us/blog/let-their-words-do-the-talking/201608/people-will-you-if-you-make-them-laugh"><span>research</span></a><span> to show that people (especially women) are more attracted to people who are able to make them laugh or smile. So, as you might imagine, the best Tinder message examples are ones that incorporate humor.</span><b></b></p>
 <p dir="ltr"><span>However, bear in mind that lots of people have a whole bunch of different ideas about what&rsquo;s funny, so keep the tone light and don&rsquo;t stray into too heavy news stories, information dumps, or offensive material.</span></p>
-<h2 dir="ltr"><span>How Do You Flirt Over Text on Tinder?</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <p dir="ltr"><span>In many cases, flirting takes a huge amount of effort, and not everything will be on point. However, it&rsquo;s definitely possible to flirt over text!</span><b></b></p>
 <p dir="ltr"><span>The first point to mention is that going straight to complimenting someone on their pictures is maybe not the best move.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>And while you could tease them a little &mdash;</span><span> it is fun, after all </span><span>&mdash; you should probably get a bit of a rapport going before you take your chances.</span><b></b></p>
@@ -90,13 +90,13 @@ seo:
 <p dir="ltr"><span>Instead, talk to them about their interests or their name (if it&rsquo;s particularly interesting), music taste and style, or their accomplishments.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Maybe ask them about their favorite hobby or pets &ndash; or if they&rsquo;re into going to the cinema, what their all-time top movie is.</span><b></b></p>
 <p dir="ltr"><span>You could even throw in </span><span>extra cheesy</span><span> pick-up lines, such as, </span><span>&ldquo;Did it hurt when you fell from heaven?&rdquo;</span><span>&nbsp; That way you can both laugh about it, and could be a fun story for later down the line.</span></p>
-<h2 dir="ltr"><span>Is It Weird for a Girl to Text First on Tinder?</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <p dir="ltr"><span>The very simple answer to this question is: no! It isn&rsquo;t at all weird for a girl to text first on Tinder.</span><b></b></p>
 <p dir="ltr"><span>However, </span><a href="https://www.elitedaily.com/p/should-women-message-first-on-dating-apps-the-answer-may-surprise-you-12254031"><span>according to Tinder</span></a><span>, a mere 1.4% of women think they should send a message first.</span><b></b></p>
 <p dir="ltr"><span>Now, we know that there are all types of people in the world, and some are going to be more confident than others. Maybe you&rsquo;ve matched with a really amazing-seeming girl, but you&rsquo;re not sure if she&rsquo;s feeling the same way that you are.</span><b></b></p>
 <p dir="ltr"><span>Well, one way you can get a clue is if she messages you first!</span><b></b></p>
 <p dir="ltr"><span>If the end goal is to make a new friend, make plans, and start new relationships, then a girl messaging you first should hardly be a problem.</span></p>
-<h2 dir="ltr"><span>Easy Tinder Conversation Starters</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <p dir="ltr"><span>So now that we&rsquo;ve covered the basics, here are a few conversation starters that you can use on Tinder:</span></p>
 <h3 dir="ltr"><span>1. I&rsquo;ve always wanted to meet someone who [activity listed on their profile]. How&rsquo;d you get into that?</span></h3>
 <p dir="ltr"><span>Perhaps you&rsquo;ve seen a hiking photo on their profile. Using their interests as a way into a conversation is a great way to get someone talking about themselves &ndash; and talking to you.</span></p>
@@ -121,7 +121,7 @@ seo:
 <p dir="ltr"><span>However, it&rsquo;s a great way to get a bit more of a flirty response &ndash; if the person you&rsquo;re talking to is interested, that is.</span></p>
 <h3 dir="ltr"><span>10. What&rsquo;s something surprising about you that most people wouldn&rsquo;t guess?</span></h3>
 <p dir="ltr"><span>This is another great Tinder message example, as it straight away puts the ball in their court and encourages them to talk about themselves.</span></p>
-<h2 dir="ltr"><span>Our Best Tinder Conversation Starters for Guys</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <h3 dir="ltr"><span>1. What&rsquo;s your idea of a perfect first date?</span></h3>
 <p dir="ltr"><span>This one&rsquo;s a twofer &mdash; not only do you get them to talk about themselves, but you could also get some pre-approved ideas of where to take them on a first date!</span></p>
 <h3 dir="ltr"><span>2. If you had one extra hour every day, how would you spend it?</span></h3>
@@ -133,7 +133,7 @@ seo:
 <p dir="ltr"><span>This is another one of those great openers that encourage your match to tell you about their life and story.</span></p>
 <h3 dir="ltr"><span>5. Tinder says my lonely days are over.</span></h3>
 <p dir="ltr"><span>Like the above pick-up line, this is one you&rsquo;re going to have to use sparingly and hope they get your sense of humor! Along these lines, &ldquo;Are you spontaneous?&rdquo; can be good. They feel the need to say yes, and when they do, you have a better chance at getting them out for drinks.</span></p>
-<h2 dir="ltr"><span>Our Best Tinder Conversation Starters for Girls</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <h3 dir="ltr"><span>1. What&rsquo;s your favorite sports team?</span></h3>
 <p dir="ltr"><span>Maybe you&rsquo;ve seen some pictures of them at a game, or you&rsquo;ve read something in their hobbies. Either way: if they mention that they&rsquo;re into sports, this is a great way to start a conversation!</span></p>
 <h3 dir="ltr"><span>2. Do you consider yourself competitive?</span></h3>
@@ -142,7 +142,7 @@ seo:
 <p dir="ltr"><span>It may not seem like going deep on a first message is a good tactic, but doing so can lead to some really interesting stories and conversations.</span></p>
 <h3 dir="ltr"><span>4. So, do you have any good pickup lines?</span></h3>
 <p dir="ltr"><span>Shared humor is always the best, and if you can both laugh over a few pick-up lines &ndash; why not!</span></p>
-<h2 dir="ltr"><span>Our Best Flirty Tinder Conversation Starters</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <h3 dir="ltr"><span>1. You are way too cute to be on Tinder.</span></h3>
 <p dir="ltr"><span>This one shows that you&rsquo;ve looked through their photos and you like what you see. Why not let them know?</span></p>
 <h3 dir="ltr"><span>2. Hey, you&rsquo;re super cute. Why haven&rsquo;t we met sooner?</span></h3>
@@ -151,7 +151,7 @@ seo:
 <p dir="ltr"><span>While this one&rsquo;s a little on the cheesy side, sometimes you&rsquo;ve just got to go for it and hope for the best.</span></p>
 <h3 dir="ltr"><span>4. I&rsquo;m no scientist, but I think we&rsquo;re going to have pretty good chemistry.</span></h3>
 <p dir="ltr"><span>Bad pick-up line? </span><span>Check.</span><span> Sense of humor? </span><span>Check.</span><span> Honestly, sometimes a terrible pickup line is </span><span>exactly </span><span>what you need to break the ice.</span></p>
-<h2 dir="ltr"><span>Our Best Funny Tinder Conversation Starters</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <h3 dir="ltr"><span>1. Obviously, we&rsquo;d meet on an app &mdash; because you&rsquo;re a total snack.</span></h3>
 <p dir="ltr"><span>This one may be best sent to a foodie &mdash; don&rsquo;t be afraid to add a few emojis of GIFs to emphasize that you&rsquo;re joking!</span></p>
 <h3 dir="ltr"><span>2. Does swiping through this dating app count as &ldquo;exercise&rdquo;?</span></h3>
@@ -163,7 +163,7 @@ seo:
 <p dir="ltr"><span>This is another one that can show your personality and create a good first impression. Keeping it light with a teasing tone could help you get more responses!</span></p>
 <h3 dir="ltr"><span>5. So, come here often?</span></h3>
 <p dir="ltr"><span>This is a great first message to send, and it&rsquo;s bound to at least get a smile out of your match.</span></p>
-<h2 dir="ltr"><span>Our Best First Tinder Messages That Get You More Matches</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <h3 dir="ltr"><span>1. What&rsquo;s your biggest &ldquo;damn, why haven&rsquo;t I done this sooner?&rdquo; moment?</span></h3>
 <p dir="ltr"><span>While this message may seem a little bit deeper in meaning, that&rsquo;s not necessarily a bad thing.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>It can really give your match the opportunity to reveal themselves a bit more, and is infinitely more interesting than just a &ldquo;hello&rdquo;.</span></p>
@@ -173,15 +173,15 @@ seo:
 <h3 dir="ltr"><span>3. What is a weird food combination that you really enjoy?</span></h3>
 <p dir="ltr"><span>Again, this may be one for the foodies, but you can really get to know someone through the kind of food they like (</span><span>or don&rsquo;t like</span><span>) to eat!</span></p>
 <p><b><br><br></b></p>
-<h2 dir="ltr"><span>Best First Texts on Tinder IRL</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <p dir="ltr"><span><img src="https://cdn.buttercms.com/rhADOQznSf64Er4veV9B" width="624" height="461"></span></p>
 <p><b><br><br></b></p>
-<h2 dir="ltr"><span>Key Takeaways</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <p dir="ltr"><span>You don&rsquo;t need to be intimidated by sending your first message out on Tinder to a potential match.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>While it may seem a little daunting, hopefully some of these Tinder message examples have given you a bit of an idea about what to ask someone you&rsquo;ve matched with &ndash; whether they&rsquo;re guys or girls.</span><b></b></p>
 <p dir="ltr"><span>Just remember to inject a bit of humor into it, keep it short and sweet, and give them the opportunity to talk about themselves. They&rsquo;re bound to reply if you give them something worthwhile to respond to, even if it&rsquo;s the worst pick-up line you can imagine!</span><b></b></p>
 <p dir="ltr"><span>And, if you&rsquo;re looking for a great photo for your Tinder profile, you can </span><a href="https://thematchartist.com/online-dating-photographer-near-me"><span>book your shoot today</span></a><span>! We can help you get more matches so that you get to send out more of these first messages!</span></p>
-<h2 dir="ltr"><span>What is the Best First Text on Tinder FAQs</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <h3 dir="ltr"><span>How do you say hello first on Tinder?</span></h3>
 <p dir="ltr"><span>However you do it, keep it short, sweet, and humorous if you can. Don&rsquo;t forget to ask them a question! That way, you give them a reason to respond to you.</span><b></b></p>
 <p dir="ltr"><span>And if they don&rsquo;t &mdash; don&rsquo;t worry about it. Just keep trying!</span></p>
@@ -200,7 +200,7 @@ seo:
 </ul>
 <p><b>&nbsp;</b></p>
 <p dir="ltr"><span>Whatever you send, make it about them, and give them the opportunity to start a natural conversation with you!</span></p>
-<h2 dir="ltr"><span>Sources</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder" dir="ltr"><a href="#what-makes-a-good-first-message-on-tinder">what makes a good first message on tinder?</a></h2>
 <ol>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://www.scienceofpeople.com/tinder-conversation-starters"><span>scienceofpeople.com</span></a></p>
