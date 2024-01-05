@@ -193,7 +193,7 @@ seo:
 <p>Another simple strategy is to ask mutual friends if they know whether someone is on Bumble. This is effective for finding a cheat, or for finding love.&nbsp;</p>
 <p></p>
 <p>If you know that someone you are into is on Bumble, get on the app and swipe on their profile. However, if you know them already, then perhaps consider asking them out &mdash; <em>off the app!</em></p>
-<h2>Tactics to Find Somebody on Bumble</h2>
+<h2 id="tactics-to-find-somebody-on-bumble"><a href="#tactics-to-find-somebody-on-bumble">Tactics to Find Somebody on Bumble</a></h2>
 <p>Once you know someone is on Bumble, how do you go about finding them? And how do you do that without them knowing you&rsquo;re looking?&nbsp;</p>
 <p></p>
 <p>Well, here are our top three tactics.</p>
@@ -223,7 +223,7 @@ seo:
 <p>Just be aware that any of these options could get a little messy! If confronting someone about their Bumble profile could lead to you being in an unsafe situation, make sure that you have a safe place to go <em>before</em> you start playing detective.</p>
 <p></p>
 <p>Remember: it&rsquo;s much easier to break something than it is to fix it!</p>
-<h2>Tips to Consider to Not Get Caught Searching for Somebody on Bumble</h2>
+<h2 id="tips-to-consider-to-not-get-caught-searching-for-somebody-on-bumble"><a href="#tips-to-consider-to-not-get-caught-searching-for-somebody-on-bumble">Tips to Consider to Not Get Caught Searching for Somebody on Bumble</a></h2>
 <p>While we&rsquo;re definitely more in the &ldquo;honesty is the best policy&rdquo; camp, your situation may need you to be especially careful if you&rsquo;re trying to suss out if someone is on Bumble.</p>
 <p></p>
 <p>In that case, here are our top four tips for how to covertly search for a Bumble user.</p>
@@ -259,7 +259,7 @@ seo:
 <p>When the search is over, do your best to scrub your account from existence. This requires a <a href="https://bumble.com/en/help/how-do-i-delete-my-profile">complete deletion</a> of your account and your account data.&nbsp;</p>
 <p></p>
 <p>Once your account is deleted, get the app off your phone. If possible, clear it from your Google Play or App Store downloads too.&nbsp;</p>
-<h2>Can Girls Find Guy Friends on Bumble?</h2>
+<h2 id="can-girls-find-guy-friends-on-bumble"><a href="#can-girls-find-guy-friends-on-bumble">Can Girls Find Guy Friends on Bumble?</a></h2>
 <p>Girls can make friends with whoever they want to on Bumble, guys included. <a href="https://bumble.com/en/the-buzz/what-exactly-is-bumble-bff">Bumble BFF</a> is a function of the Bumble app that helps people make friends.&nbsp;</p>
 <p></p>
 <p>It&rsquo;s not romantic, and the user decides what kind of people they are looking to make friends with. That means girls can meet guys, non-binary people, or other women.</p>
@@ -267,14 +267,14 @@ seo:
 <p>Of course, there are situations where friendships can develop into romantic relationships. But that&rsquo;s just a normal part of life, and it happens on or off Bumble.</p>
 <p></p>
 <p><a href="https://bumble.com/bizz">Bumble Bizz</a> is another aromantic function of the Bumble app. Bizz connects professionals and encourages career-focused networking.</p>
-<h2>How Do You Know If Someone Deleted Bumble?</h2>
+<h2 id="how-do-you-know-if-someone-deleted-bumble"><a href="#how-do-you-know-if-someone-deleted-bumble">How Do You Know If Someone Deleted Bumble?</a></h2>
 <p><img src="https://cdn.buttercms.com/T4SqnKAxTVi01PgsgI2j"></p>
 <p>If someone deletes their Bumble account, any conversations you had with them will remain in your chat log. Where their name used to be, it will simply say &ldquo;deleted profile&rdquo;.&nbsp;</p>
 <p></p>
 <p>However, if someone unmatches or blocks you, your conversations will completely disappear.</p>
 <p></p>
 <p>If you can&rsquo;t find a person&rsquo;s profile at all, this probably means they have either blocked you, or deleted their account.</p>
-<h2>Key Takeaways</h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p>The short report on this article is: there are no easy methods for directly searching someone on Bumble. There are, however, several difficult methods.</p>
 <p></p>
 <p>If you decide it&rsquo;s worth it, borrow an account, or set up a (fake)profile. And get swiping.</p>
@@ -288,7 +288,7 @@ seo:
 <p>Our professional photographers will work with you to level up your profile game, so that any potential future matches <em>won&rsquo;t be able to resist</em> dropping you a like or a message.&nbsp;</p>
 <p></p>
 <p>And, really, rather than searching for people you <em>maybe</em> shouldn&rsquo;t be searching for, this way you can meet someone better suited to you and <em>let them come to you!</em></p>
-<h2>Bumble Search FAQs</h2>
+<h2 id="bumble-search-faqs"><a href="#bumble-search-faqs">Bumble Search FAQs</a></h2>
 <h3>Can a guy see you on Bumble?</h3>
 <p>Guys can see you when you are on Bumble, if you are interested in men. People who want to meet men will be visible to men.&nbsp;</p>
 <p></p>
@@ -305,7 +305,7 @@ seo:
 <p>Also, if you want to intermittently hide your profile, you can activate the Snooze feature when you are not swiping.</p>
 <p></p>
 <p>The truth is: neither Snoozing nor going Incognito will allow you to perform direct searches on Bumble. Either way, you will still have to swipe through many profiles to find the person you&rsquo;re searching for.</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://bumble.com/en/help/can-i-search-for-a-specific-person-on-bumble">bumble.com</a></p>

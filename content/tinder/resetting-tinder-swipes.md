@@ -175,7 +175,7 @@ seo:
 <p dir="ltr"><span>And, during those three months, this is a great time to get in touch with The Match Artist and organize getting some new photos taken for your profile! That way, when you </span><span>do</span><span> restart your Tinder account, you&rsquo;ll have top-notch images and a snappy bio to help you get more Swipes Right and matches!</span><b></b></p>
 <p dir="ltr"><span>Not sure why you should </span><a href="https://thematchartist.com/online-dating-photographer-near-me"><span>work with us</span></a><span>? Well, the average guy on Tinder gets around 5 matches a day (if they&rsquo;re lucky). Our clients get around </span><span>20&ndash;40 every day</span><span>.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Proof that it really is all about how you present yourself!</span></p>
-<h2 dir="ltr"><span>How to Reset Tinder While Connected to Facebook?</span></h2>
+<h2 id="how-to-reset-tinder-while-connected-to-facebook"><a href="#how-to-reset-tinder-while-connected-to-facebook">How to Reset Tinder While Connected to Facebook?</a></h2>
 <p dir="ltr"><span>If you&rsquo;ve connected your Tinder to Facebook, you&rsquo;ll need to remove it from your list of linked apps and websites on Tinder.</span><b></b></p>
 <p dir="ltr"><span></span></p>
 <p dir="ltr"><span>To do this:</span><b></b></p>
@@ -193,7 +193,7 @@ seo:
 <p dir="ltr"><span><img src="https://cdn.buttercms.com/aSMuQ4igQka4XUhYh220" width="624" height="319"></span></p>
 <p><b>&nbsp;</b></p>
 <p dir="ltr"><span>Now you can either wait three months for your account details to be removed from Tinder&rsquo;s system, or start a new Facebook account and use this to create a new Tinder account!</span></p>
-<h2 dir="ltr"><span>Key Takeaways</span></h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p dir="ltr"><span>So now you know how to reset your Tinder, if necessary!</span></p>
 <p><b>&nbsp;</b></p>
 <p dir="ltr"><span>Let&rsquo;s recap:</span><b></b></p>
@@ -228,7 +228,7 @@ seo:
 <p><b>&nbsp;</b></p>
 <p dir="ltr"><span>Ultimately, you should only reset your Tinder if you </span><span>really</span><span> have to, and use it as an opportunity to better your profile!</span><b></b></p>
 <p dir="ltr"><span>So, are you ready to start afresh with the best possible photos on your profile? </span><a href="https://thematchartist.com/online-dating-photographer-near-me"><span>Get in touch with The Match Artist</span></a><span> and let&rsquo;s start your journey today!</span></p>
-<h2 dir="ltr"><span>Is There a Way to Reset Matches on Tinder FAQs</span></h2>
+<h2 id="is-there-a-way-to-reset-matches-on-tinder-faqs"><a href="#is-there-a-way-to-reset-matches-on-tinder-faqs">Is There a Way to Reset Matches on Tinder FAQs</a></h2>
 <h3 dir="ltr"><span>Can you reset your Tinder account?</span></h3>
 <p dir="ltr"><span>While technically there&rsquo;s no way to &ldquo;reset&rdquo; your Tinder account, what you can do is either delete your account and start over immediately (this requires you to have a different phone number, email, and Facebook account), or delete your account and wait three months before starting a new account.</span></p>
 <h3 dir="ltr"><span>Can you reset Tinder without deleting the account?</span></h3>
@@ -237,7 +237,7 @@ seo:
 <h3 dir="ltr"><span>Is there a way to reset Tinder swipes?</span></h3>
 <p dir="ltr"><span>Unfortunately, the only real way to reset your Tinder swipes is by deleting your account and starting afresh.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>However, if you made a mistake and just need to undo your last Swipe, Tinder Rewind (only available with Tinder Plus, Gold, or Platinum) will allow you to do this, for a price.</span></p>
-<h2 dir="ltr"><span>Sources</span></h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://www.help.tinder.com/hc/en-us/articles/115004493323-Rewind-"><span>help.tinder.com</span></a></p>

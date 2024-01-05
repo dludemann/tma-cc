@@ -249,7 +249,7 @@ seo:
 <p><b>&nbsp;</b></p>
 <p dir="ltr"><span>And, of course, when you&rsquo;re ready to </span><span>really</span><span> level up your Tinder profile, </span><a href="https://thematchartist.com/online-dating-photographer-near-me"><span>get in touch with The Match Artist</span></a><span>!&nbsp;</span></p>
 <p dir="ltr"><span>We&rsquo;ll work with you every step of the way to help your Tinder profile shine, and before you know it, you&rsquo;ll have matches galore.</span></p>
-<h2 dir="ltr"><span>How to Get More Matches on Tinder FAQs</span></h2>
+<h2 id="how-to-get-more-matches-on-tinder-faqs"><a href="#how-to-get-more-matches-on-tinder-faqs">How to Get More Matches on Tinder FAQs</a></h2>
 <h3 dir="ltr"><span>Why am I not getting matches on Tinder?</span></h3>
 <p dir="ltr"><span>If you aren&rsquo;t getting any matches on Tinder then you may need to update your profile and optimize it! Make sure that you&rsquo;ve got a good, snappy bio, and a few high-quality photos that show you in your best light.</span><b></b></p>
 <p dir="ltr"><span>Connecting your Instagram and Spotify will also allow other users to learn more about you and your personality. Additionally, the Smart Photos feature can automatically rearrange your photos for you, so that your most winning photo is always first!</span></p>
@@ -261,7 +261,7 @@ seo:
 <p dir="ltr"><span>On average, guys match at a rate of about 1 in 10 on Tinder. That means that if you max out your Swipe Rights and hit 100, you&rsquo;ll receive about 10 in return.</span><b></b></p>
 <p dir="ltr"><span>Typically, our clients get between </span><span>20&ndash;40 matches every day</span><span>, and that&rsquo;s all because of the work we&rsquo;ve done with them.</span><b></b></p>
 <p dir="ltr"><span>Proof that the single most important factor on your Tinder profile is high-quality photos of you!</span></p>
-<h2 dir="ltr"><span>Sources</span></h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://datingzest.com/tinder-statistics"><span>datingzest.com</span></a></p>

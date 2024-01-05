@@ -212,7 +212,7 @@ seo:
 <h3 dir="ltr"><span>What photos do girls want to see on Tinder?</span></h3>
 <p dir="ltr"><span>While we&rsquo;ve covered a lot of the essentials already in this guide, the key thing that girls will want to see from your Tinder pics is someone who is attractive, looks happy and friendly, as well as kind and safe.</span><b></b></p>
 <p dir="ltr"><span>Women want to know that you&rsquo;re someone who&rsquo;s fun to be around and not a threat. Remember: be approachable and genuine, and you&rsquo;re bound to get more matches!</span></p>
-<h2 dir="ltr"><span>Sources</span></h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://www.refinery29.com/en-us/how-to-get-more-right-swipes-on-tinder-dating-profile"><span>refinery29.com</span></a></p>

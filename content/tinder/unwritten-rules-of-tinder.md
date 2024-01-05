@@ -93,15 +93,15 @@ seo:
 <p dir="ltr"><span>After all, Tinder is all about meeting new people and seeing if there&rsquo;s a spark&hellip; and sometimes there just isn&rsquo;t anything there.</span><b></b></p>
 <h2 dir="ltr"><span>6. Meet up with your Matches Eventually, or Stop Wasting Your Matches Time</span></h2>
 <p><span>It's not fair to your date's time to go on and on messaging with no actual intention of meeting. If you're not interested, let them know&ndash; or just unmatch to be respectful.</span></p>
-<h2 dir="ltr"><span>7. Never Send Money To Your Matches</span><span></span></h2>
+<h2 id="-never-send-money-to-your-matches"><a href="#-never-send-money-to-your-matches">7. Never Send Money To Your Matches</a></h2>
 <p><span>This should be pretty obvious, but there are many scammers online looking to take advantage of vulnerable people online. Even if they do meet up with you, it may start with them having you request an uber, then paying for dinner. It can escalate where they "forget" their wallet, and slowly grow to more expensive emergencies they are having that they need help with. Be careful.&nbsp;</span></p>
-<h2 dir="ltr"><span>Key Takeaways</span></h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p dir="ltr"><span>So there you have it! Now that you know the unwritten rules of Tinder, you can get out there, hopefully increasing your chances of getting matches and meeting someone compatible.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Better still, you can also avoid common mistakes and pitfalls that may lead to rejection or disappointment.</span><b></b></p>
 <p dir="ltr"><span>However, while it may be tempting to study all of the above and implement them to a T, don&rsquo;t forget to have fun! There&rsquo;s a reason you&rsquo;re looking to meet someone new on Tinder, after all! Yes, there may be some mystery and uncertainty involved, but that&rsquo;s all part of the excitement.</span><b></b></p>
 <p dir="ltr"><span>Use Tinder as an opportunity to meet new people, try new things, and maybe even discover some unexpected connections and stories along the way.</span><b></b></p>
 <p dir="ltr"><span>And when you&rsquo;re ready to really level-up your profile and take some amazing photos to go along with your profile, </span><a href="https://thematchartist.com/online-dating-photographer-near-me"><span>get in touch with The Match Artist</span></a><span> and we&rsquo;ll help you along your way!</span></p>
-<h2 dir="ltr"><span>Unwritten Rules of Tinder FAQs</span></h2>
+<h2 id="unwritten-rules-of-tinder-faqs"><a href="#unwritten-rules-of-tinder-faqs">Unwritten Rules of Tinder FAQs</a></h2>
 <h3 dir="ltr"><span>What is the 24-hour rule on Tinder?</span><span></span></h3>
 <p dir="ltr"><span>The </span><a href="https://www.thehealthyjournal.com/faq/what-is-the-24-hour-rule-on-tinder"><span>24-hour rule</span></a><span> on Tinder is pretty straightforward &mdash; when you match with someone online, you have 24 hours to message them before the match expires. If you don&rsquo;t message them within that time frame, the match will disappear.</span></p>
 <h3 dir="ltr"><span>What is not allowed on Tinder?</span></h3>
@@ -166,7 +166,7 @@ seo:
 <p dir="ltr"><span>If you&rsquo;re a parent or have kids in your life, it&rsquo;s especially important to be mindful of the information you reveal on your profile. Avoid including personal details like your address or phone number, and be aware of any potential risks to your safety or that of your family.</span><b></b></p>
 <p dir="ltr"><span>On the other hand, if there are some things that are a dealbreaker for you, you should declare that upfront.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>For example, if you only want to date someone who believes in God, or only want to match with someone in a similar place in life as you, make it clear so you don&rsquo;t waste anyone&rsquo;s time.&nbsp;</span></p>
-<h2 dir="ltr"><span>Sources</span></h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://edition.cnn.com/2016/03/14/living/okcupid-womens-research-feat/index.html"><span>edition.cnn.com</span></a></p>

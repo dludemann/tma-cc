@@ -65,7 +65,7 @@ seo:
 </ul>
 <p></p>
 <p>Let&rsquo;s get right into it so that you can test out some of these ideas!</p>
-<h2>Why Your First Message on Bumble Is Important</h2>
+<h2 id="why-your-first-message-on-bumble-is-important"><a href="#why-your-first-message-on-bumble-is-important">Why Your First Message on Bumble Is Important</a></h2>
 <p>The same as with any relationship, how you present yourself at the start sets the tone for the conversation and following interactions, as well as determines whether or not you&rsquo;re someone spellbinding enough to continue conversing with.</p>
 <p></p>
 <p>According to <a href="https://www.psychologicalscience.org/observer/how-many-seconds-to-a-first-impression">psychological research</a>, it takes only <em>a tenth of a second</em> for someone to make a decision about you &mdash; and that&rsquo;s just based on how you look (and a <em>great</em> reason to make sure that you use this opportunity to <a href="https://thematchartist.com/online-dating-photographer-near-me">make sure that your profile photos are amazing</a>).</p>
@@ -77,7 +77,7 @@ seo:
 <p>And when we say &ldquo;first message&rdquo;, it&rsquo;s not just the message you send if you have First Move privileges, but also the message you send once you&rsquo;ve received an initial message!</p>
 <p></p>
 <p>After all, it takes two to tango, and once that first message is a go, it&rsquo;s anyone&rsquo;s game!</p>
-<h2>Who Texts First on Bumble?</h2>
+<h2 id="who-texts-first-on-bumble"><a href="#who-texts-first-on-bumble">Who Texts First on Bumble?</a></h2>
 <p>On Bumble, if you&rsquo;re a woman, then you&rsquo;ll have First Move privileges. That&rsquo;s how the app was set up, in order to encourage women to take the initiative, as well as empower them.</p>
 <p></p>
 <p>It&rsquo;s a refreshing approach, especially when compared with other dating apps. In fact, <a href="https://www.theguardian.com/commentisfree/2021/may/17/apps-tinder-dating-women">one of the biggest complaints women have on dating apps</a> is all to do with the normalization of abusive behavior, such as harassment and being sent unsolicited inappropriate pictures.</p>
@@ -87,7 +87,7 @@ seo:
 <p>So, Bumble&rsquo;s first message policy helps to promote a more balanced dynamic between users, and means that the way conversation topics begin and progress can be more acceptable to both parties.</p>
 <p></p>
 <p>In non-heterosexual matches, both parties have First Move privileges, as with non-binary users.</p>
-<h2>How Do Girls Start Conversations on Bumble?</h2>
+<h2 id="how-do-girls-start-conversations-on-bumble"><a href="#how-do-girls-start-conversations-on-bumble">How Do Girls Start Conversations on Bumble?</a></h2>
 <p>If you&rsquo;re a girl on the app and a bit on the shy side, it can be a little intimidating to make the first move. Luckily, you have 24 hours to send that first message, so if you need a bit of time to figure out what you want to say, you do have it.</p>
 <p></p>
 <p>Having said that, we&rsquo;d advise not waiting for too long! After all, there&rsquo;s likely a bit of an anxious guy on the other end, waiting for you to contact them, so be mindful and kind!</p>
@@ -125,7 +125,7 @@ seo:
 <p>Remember, the key to a great first message is to keep it short and invite the other person to want to respond. It shouldn&rsquo;t be an information dump about your life, but instead a way to get the conversation rolling!&nbsp;</p>
 <p></p>
 <p>Keep the focus on the other person and you&rsquo;ll be off to a great start!</p>
-<h2>How Do I Keep My Bumble Chats Interesting?</h2>
+<h2 id="how-do-i-keep-my-bumble-chats-interesting"><a href="#how-do-i-keep-my-bumble-chats-interesting">How Do I Keep My Bumble Chats Interesting?</a></h2>
 <p>We&rsquo;ve all been there &mdash; things seem like they&rsquo;re going well, and then suddenly the conversation halts.</p>
 <p></p>
 <p>Well, firstly &mdash; <em>don&rsquo;t panic!</em> With messaging, a natural break in the conversation sometimes comes, and not everyone is conversing in real time, anyway.&nbsp;</p>
@@ -141,7 +141,7 @@ seo:
 <p><a href="https://www.sciencedaily.com/releases/2017/02/170217160940.htm">Research has found</a> that bonding between humans actually releases dopamine in the brain, which is why forming close connections <em>feels so good</em>.&nbsp;</p>
 <p></p>
 <p>All the more reason to get out there and <em>make those connections!</em></p>
-<h2>What Is the Best First Move on Bumble?</h2>
+<h2 id="what-is-the-best-first-move-on-bumble"><a href="#what-is-the-best-first-move-on-bumble">What Is the Best First Move on Bumble?</a></h2>
 <p>The best first move on Bumble is always going to be a personalized opener, showing your genuine interest in the other person. Use the information that they&rsquo;ve given you in their profile to ask engaging questions which promote conversation.</p>
 <p></p>
 <p>This is also something to think about when you&rsquo;re crafting your own profile &mdash; give the other person a helping hand and plant conversation starters in you bio, prompts, and photos!</p>
@@ -149,7 +149,7 @@ seo:
 <p>While pick-up lines have their place, generic and overused ones <em>do not</em>. If you are going to go down this route, then make sure it&rsquo;s obvious that you&rsquo;re joking! Nothing will make someone cringe and unmatch faster than a bad pick-up line, delivered poorly.</p>
 <p></p>
 <p>And please, ditch the first message solo &ldquo;Hey&rdquo;! <em>We know you can do better than that!</em></p>
-<h2>Easy First Messages You Can Try on Bumble</h2>
+<h2 id="easy-first-messages-you-can-try-on-bumble"><a href="#easy-first-messages-you-can-try-on-bumble">Easy First Messages You Can Try on Bumble</a></h2>
 <p>Not every first message needs to be as tricky to craft as the first line of a novel! It&rsquo;s okay to take it a little easy on yourself and your expectations. After all, you&rsquo;re just trying to get to know the other person, not immediately walk them down the aisle!</p>
 <p></p>
 <p>If you&rsquo;re still feeling a little stuck on how to send that first message, here are some of our top tips!</p>
@@ -211,7 +211,7 @@ seo:
 <p>Going deep and meaningful on the first question is a bit of a bold move, but if it&rsquo;s thought provoking, the other person may appreciate the effort.</p>
 <h3>Send a GIF</h3>
 <p>And, of course, when all else fails, a funny GIF, emoji, or meme is always an option! Especially if it&rsquo;s particularly relevant to something the other person has alluded to on their profile!</p>
-<h2>Funny Bumble Conversation Starters</h2>
+<h2 id="funny-bumble-conversation-starters"><a href="#funny-bumble-conversation-starters">Funny Bumble Conversation Starters</a></h2>
 <p>So, how about some examples of funny conversation starters? Now, just remember, while some of these are a <em>tad</em> on the cheesy side, it&rsquo;s all about not taking things too seriously.&nbsp;</p>
 <p></p>
 <p>So, be sure to make it clear to your match that you&rsquo;re kidding &mdash; throw in a few emojis or GIFs, and see where the conversation leads!</p>
@@ -231,7 +231,7 @@ seo:
 <p>This line is the perfect example of when cheesy lines can cross over into the realm of ridiculous humor. After all, if you&rsquo;re looking for a reaction, this is going to get one!</p>
 <h3>&ldquo;I must be a snowflake, because I&rsquo;ve fallen for you and I can&rsquo;t get up.&rdquo;</h3>
 <p>Another good line to send in the winter months, though you may want to check your match&rsquo;s political leanings before you call yourself a snowflake&hellip;!</p>
-<h2>Cute Bumble Conversation Starters</h2>
+<h2 id="cute-bumble-conversation-starters"><a href="#cute-bumble-conversation-starters">Cute Bumble Conversation Starters</a></h2>
 <p>Of course, while funny lines are a good way to start off a conversation, even better are genuine messages that can lead to <em>real</em> talk.</p>
 <p></p>
 <p>Here are a couple of examples.</p>
@@ -241,7 +241,7 @@ seo:
 <p>We&rsquo;ve said it before, we&rsquo;ll say it again: <em>everybody loves dogs!</em></p>
 <p></p>
 <p>If animals are going to be what brings you together, then you&rsquo;ll have plenty to talk about!</p>
-<h2>What Openers Do Guys Like on Bumble</h2>
+<h2 id="what-openers-do-guys-like-on-bumble"><a href="#what-openers-do-guys-like-on-bumble">What Openers Do Guys Like on Bumble</a></h2>
 <p>When it comes to the kinds of openers that could be effective for guys, keep it short and simple. Start with a compliment, but make sure it feels genuine and specific &mdash; use something from their profile that you <em>really</em> do like!</p>
 <p></p>
 <p>A follow-up question, again, showing a genuine interest in their life is a great way to get a response, and witty or funny openers that make them laugh is a great approach, too.</p>
@@ -289,7 +289,7 @@ seo:
 <p>And, of course &mdash; the way to everyone&rsquo;s heart &mdash; their dog!</p>
 <p></p>
 <p>Everyone loves dogs, and if his furry best pal is the apple of his eye, getting him waxing lyrical about them is a guaranteed way in. After all, the dog has to like you, too!</p>
-<h2>What Openers Do Girls Like on Bumble</h2>
+<h2 id="what-openers-do-girls-like-on-bumble"><a href="#what-openers-do-girls-like-on-bumble">What Openers Do Girls Like on Bumble</a></h2>
 <p>For girls, the techniques we&rsquo;ve discussed aren&rsquo;t all that different! Just remember that on Bumble, if you&rsquo;re a guy looking for a heterosexual match, you won&rsquo;t be able to send that first message.</p>
 <p></p>
 <p>However, that doesn&rsquo;t mean that the first message you <em>do</em> send in return shouldn&rsquo;t be just as well thought out.</p>
@@ -325,7 +325,7 @@ seo:
 <p>There&rsquo;s a lot to be said for just diving in and asking someone out on a date early on, especially if you&rsquo;re not much of a messaging guy.&nbsp;</p>
 <p></p>
 <p>Just be aware that not everyone will be comfortable meeting IRL so quickly, so you could always turn it into a video chat date to begin with, and build some trust.</p>
-<h2>Flirty Bumble Conversation Starters</h2>
+<h2 id="flirty-bumble-conversation-starters"><a href="#flirty-bumble-conversation-starters">Flirty Bumble Conversation Starters</a></h2>
 <p>When it comes to flirty conversation starters, there&rsquo;s a fine line between flirty and sleazy.&nbsp;</p>
 <p></p>
 <p>Be sure that you&rsquo;re following the vibe of the other person &mdash; has their profile indicated that they might be up for a fun and flirty conversation? If not, stick to the more basic getting-to-know-you questions!</p>
@@ -354,7 +354,7 @@ seo:
 <p>Hitting them with a <em>double compliment</em>, a challenge, <em>and</em> an invitation? It&rsquo;s a doozy of a first message!</p>
 <h3>&ldquo;I have a feeling you&rsquo;re going to be my lucky charm. Want to grab a drink and test my theory?&rdquo;</h3>
 <p>And, last on our list, a great opener that&rsquo;s flirty, a compliment, and follows up with a question that invites the other person to meet IRL. This one would be especially good in the lead up to St Patrick&rsquo;s Day!</p>
-<h2>Witty Bumble Conversation Starters</h2>
+<h2 id="witty-bumble-conversation-starters"><a href="#witty-bumble-conversation-starters">Witty Bumble Conversation Starters</a></h2>
 <p>A truly witty conversation starter can be a great way to break the ice. But what sorts of things are we talking about here?</p>
 <p></p>
 <p>Well, it could be a playful pun or wordplay, a joke that&rsquo;s related to their profile or interests, or even clever questions that prompt the other person to think about their response.</p>
@@ -384,7 +384,7 @@ seo:
 <p>And last on our list, this conversation starter hits all the boxes.&nbsp;</p>
 <p></p>
 <p>It&rsquo;s short, to the point, shows that you&rsquo;ve paid attention to their profile, gives them a compliment, and then invites them out, with a final kicker that&rsquo;s bound to get a smile out of them!</p>
-<h2>Key Takeaways&nbsp;</h2>
+<h2 id="key-takeaways&nbsp;"><a href="#key-takeaways&nbsp;">Key Takeaways&nbsp;</a></h2>
 <p>Your first message to your match on Bumble shouldn&rsquo;t be a throw away &mdash; first impressions matter! Make it count by making it both personal and engaging.</p>
 <p></p>
 <p>Once the conversation is under way, you can keep things going by asking the other person questions about themselves, and really digging into your shared interests. Humans <em>crave</em> connection, so the more that you can find in common with each other, the better!</p>
@@ -396,7 +396,7 @@ seo:
 <p>Get in touch with us today and one of our professional photographers will work with you to take the best photos of yourself you&rsquo;ve ever seen! After that, all you&rsquo;ll have to do is upload them to your Bumble profile, and watch the likes come pouring in!</p>
 <p></p>
 <p>Pretty soon, it won&rsquo;t just be a case of which first message to send, but <em>who you want to send it to!</em></p>
-<h2>Bumble Conversation Starters FAQs</h2>
+<h2 id="bumble-conversation-starters-faqs"><a href="#bumble-conversation-starters-faqs">Bumble Conversation Starters FAQs</a></h2>
 <h3>What can I text my match instead of &ldquo;hey&rdquo;?</h3>
 <p>&ldquo;Hey&rdquo; is one of the <em>worst</em> first messages you can send on a dating app! It says nothing about you, shows no creativity or effort, and forces the other person to do all the work.&nbsp;</p>
 <p></p>
@@ -433,7 +433,7 @@ seo:
 <p>While it&rsquo;s a good idea to keep the conversation light and engaging to begin with &mdash; which you can do with humor, fun facts, memes, GIFs, and emojis &mdash; if the conversation heads in that direction, don&rsquo;t shy away from sharing something about yourself, as long as it relates to their message.</p>
 <p></p>
 <p>Honesty and openness is a great way to get to know someone better and form a close bond, so when you eventually ask them out on a date, they&rsquo;re bound to say yes!</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://www.psychologicalscience.org/observer/how-many-seconds-to-a-first-impression">psychologicalscience.org</a></p>

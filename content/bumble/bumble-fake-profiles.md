@@ -61,7 +61,7 @@ seo:
 <p>The truth is that on sites like Bumble, Tinder, or otherwise, anyone can create an account as long as they have a phone number and a Facebook account. And that means that the person you&rsquo;ve been chatting to for the last couple of weeks and who&rsquo;s been asking an awful lot of questions about how much you earn, <em>could</em> well be a catfish.</p>
 <p></p>
 <p>Remember, this is the Wild West of the internet, where Fake News reigns, and anything goes!</p>
-<h2>How Many Bumble User Profiles Are Actually Fake?</h2>
+<h2 id="how-many-bumble-user-profiles-are-actually-fake"><a href="#how-many-bumble-user-profiles-are-actually-fake">How Many Bumble User Profiles Are Actually Fake?</a></h2>
 <p>While it&rsquo;s difficult to put an exact number on it, <a href="https://blog.gitnux.com/fake-online-dating-profiles-statistics/#:~:text=According%20to%20statistics%20from%20various%20sources%2C%20approximately%2053%25%20of%20all%20online%20dating%20profiles%20contain%20false%20information%20while%20around%2010%25%20are%20completely%20fake">some statistics show</a> that roughly 10% of online dating profiles could be completely fake, and the data says that around 53% contain false information.</p>
 <p></p>
 <p>What kind of false information? Well, while it may be as harmless as their exact height or weight, it could also be what they do for work, what city they live in, or any number of other problematic statements.</p>
@@ -81,7 +81,7 @@ seo:
 <p>Thanks to these safety features, Bumble has a significantly lower number of fake users when compared to other dating apps.&nbsp;</p>
 <p></p>
 <p>Tinder, for example, allegedly has <a href="https://trendlor.com/blogs/life-tips/what-percentage-of-tinder-profiles-are-fake-avoid-fake-tinder-profiles#:~:text=According%20to%20some%20experienced%20users%2C%20close%20to%2030%2D50%25%20of%20all%20Tinder%20profiles%20are%20fake">roughly 30&ndash;50% of fake profiles</a> on the service. <a href="https://www.wired.com/story/i-uncovered-an-army-of-fake-men-on-hinge">According to this user&rsquo;s experience</a>, she encountered numerous bots and fake profiles on Hinge. With a suspected 4 in 15 profiles fake, that&rsquo;s roughly 26% of the app&rsquo;s users.</p>
-<h2>What Is a Catfish on Bumble?</h2>
+<h2 id="what-is-a-catfish-on-bumble"><a href="#what-is-a-catfish-on-bumble">What Is a Catfish on Bumble?</a></h2>
 <p><a href="https://bumble.com/en/help/catfishing">Bumble determines catfishing</a> as &ldquo;a person on the app [who] pretends to be someone they&rsquo;re not.&rdquo;&nbsp;</p>
 <p></p>
 <p>In fact, the term stems from a <a href="https://en.wikipedia.org/wiki/Catfish_(film)">documentary made by Ariel Schulman</a>, looking at how his brother Nev Schulman (host of the popular MTV reality show of the same name) was catfished by a woman in Michigan (interestingly, <a href="https://www.freep.com/story/news/local/michigan/2019/06/04/what-is-catfishing-on-internet/1338007001">the top 10 states with the most catfish victims</a> are Texas, Florida, New York, Pennsylvania, Washington, Virginia, Michigan, Illinois, and North Carolina).</p>
@@ -127,7 +127,7 @@ seo:
 <p>For some folks, they may have mental health issues that make it difficult to connect with people in real life, so they subconsciously try to keep any potential matches from getting too close.&nbsp;</p>
 <p></p>
 <p><a href="https://www.researchgate.net/publication/338864555_Adult_attachment_and_online_dating_deception_A_theory_modernized">One study published in 2020 in Sexual and Relationship Theory</a> makes for interesting reading. Of those surveyed who admitted to being catfished, a tendency towards an anxious attachment style was common, as well as both high anxiety and high avoidance traits.</p>
-<h2>Is it Possible to Make a Fake Bumble Profile?</h2>
+<h2 id="is-it-possible-to-make-a-fake-bumble-profile"><a href="#is-it-possible-to-make-a-fake-bumble-profile">Is it Possible to Make a Fake Bumble Profile?</a></h2>
 <p>While Bumble does its best to prevent fake accounts from popping up on the app, it isn&rsquo;t <em>entirely</em> impossible to create a fake profile. After all, if it was, there wouldn&rsquo;t be stories and revealing posts from those who&rsquo;ve been catfished on it!</p>
 <p></p>
 <p>However, it&rsquo;s not necessarily <em>easy</em>, either, and the Bumble rules and policy around fake accounts means that if you get caught, you will have your account removed.</p>
@@ -171,7 +171,7 @@ seo:
 <p>Honestly, the likelihood of encountering a fake profile on Bumble is relatively low, especially when compared to other dating apps.&nbsp;</p>
 <p></p>
 <p>Partially this is because of the verification process and security checks Bumble utilizes, but partially it&rsquo;s also because Bumble has a somewhat lower user base than, for example, Tinder.</p>
-<h2>Tips for Spotting a Fake Bumble Profile</h2>
+<h2 id="tips-for-spotting-a-fake-bumble-profile"><a href="#tips-for-spotting-a-fake-bumble-profile">Tips for Spotting a Fake Bumble Profile</a></h2>
 <p>While it can be a little tricky to spot a fake Bumble profile, it isn&rsquo;t impossible. And, in some cases, it&rsquo;s a little <em>too</em> obvious.</p>
 <p></p>
 <p>Look out for either incomplete or inconsistent information in their profile, as well as photos that look like they&rsquo;ve been stolen from stock images, or are just <em>far</em> too attractive.&nbsp;</p>
@@ -207,7 +207,7 @@ seo:
 <p>Unfortunately, it&rsquo;s also a common tactic used by catfishers in order to get you to a point where they can more easily manipulate or deceive you.</p>
 <p></p>
 <p>If all of this is paired with the fact that they won&rsquo;t reveal any personal information about themselves, or the information they have revealed doesn&rsquo;t seem to add up: beware!</p>
-<h2>Justifiable Reasons to Report a User</h2>
+<h2 id="justifiable-reasons-to-report-a-user"><a href="#justifiable-reasons-to-report-a-user">Justifiable Reasons to Report a User</a></h2>
 <p>While it can be tempting to report anybody who crosses you, you should be aware that there are certain justifiable reasons.</p>
 <p></p>
 <p>These include:</p>
@@ -273,7 +273,7 @@ seo:
 <p>Not only can <a href="https://securityforeveryone.com/blog/unknown-danger-clicking-unknown-links">clicking on unknown and unverified links</a> put your device at risk with malware, at worst you could open yourself up to hackers and those who want to steal your personal information.</p>
 <p></p>
 <p>If you receive messages from a match that seem a bit spammy, be sure to block and report them.</p>
-<h2>How to Report a Fake Bumble Profile That You Haven&rsquo;t Chatted With</h2>
+<h2 id="how-to-report-a-fake-bumble-profile-that-you-haven&rsquo;t-chatted-with"><a href="#how-to-report-a-fake-bumble-profile-that-you-haven&rsquo;t-chatted-with">How to Report a Fake Bumble Profile That You Haven&rsquo;t Chatted With</a></h2>
 <p>Even if you haven&rsquo;t chatted with someone but you suspect that they may be a fake (ie, they exhibit any of the behaviors we&rsquo;ve discussed in this article, or have any other red flags), you can still <a href="https://bumble.com/en/help/how-can-i-report-a-fake-profile">report them</a>.</p>
 <p></p>
 <p>But why report someone you&rsquo;ve had no contact with? Well, Bumble is designed as a space for a community, whether that&rsquo;s for Bumble Date, Bumble BFF, or Bumble Bizz. And in order to keep the community safe, it&rsquo;s important that all users are actively involved in taking action against those who may seek to harm the rest.</p>
@@ -289,7 +289,7 @@ seo:
 <p>If you have any additional comments for red flags you&rsquo;ve seen on their profile (or screenshots), you can add this here.</p>
 <h3>4. Tap &ldquo;Submit Report&rdquo; Once You Are Satisfied With Your Claim</h3>
 <p>Submitting will then send the report to the human moderation team, who will investigate and take action. If they need any further information, they&rsquo;ll email you.</p>
-<h2>How to Report a Fake Bumble Profile That You Have Matched &amp; Started a Conversation With</h2>
+<h2 id="how-to-report-a-fake-bumble-profile-that-you-have-matched-&amp;-started-a-conversation-with"><a href="#how-to-report-a-fake-bumble-profile-that-you-have-matched-&amp;-started-a-conversation-with">How to Report a Fake Bumble Profile That You Have Matched &amp; Started a Conversation With</a></h2>
 <p>If you have started chatting with a user and then suspect that they may not be who they say they are, it&rsquo;s just as easy to block and report them.</p>
 <h3>1. In the Conversation Window, Tap the Three Dots in the Top Right-Hand Corner</h3>
 <p>This will start the process to block and report a user.</p>
@@ -305,7 +305,7 @@ seo:
 <p>While Bumble won&rsquo;t be able to share report statuses, due to privacy issues, if you have a legitimate concern, you can always try <a href="https://bumble.com/help-search#contact-us">contacting Bumble directly</a>.</p>
 <p></p>
 <p>If the person you&rsquo;ve reported is found to be in violation of community guidelines, Bumble policies, or otherwise, they may receive a warning or even a ban from the app entirely.</p>
-<h2>Key Takeaway</h2>
+<h2 id="key-takeaway"><a href="#key-takeaway">Key Takeaway</a></h2>
 <p>While you can&rsquo;t stop a catfish from joining Bumble &mdash; not entirely, at least &mdash; by being aware of their behaviors, tendencies, and red flags, you can protect yourself.</p>
 <p></p>
 <p>Remember, scammers and catfish are usually nothing to do with you personally, but often to do with the person who made the fake profile. Perhaps they&rsquo;re lacking something in their real lives, and feel that the only validation they can find is through pretending to be someone they&rsquo;re not online.</p>
@@ -346,7 +346,7 @@ seo:
 <p>Our professional photographers will be all too happy to work with you to take amazing photos that will get you more likes and matches &mdash; guaranteed! And, fingers crossed, no catfish in sight!</p>
 <p></p>
 <p><em>You can never be too careful, so be sure to online date responsibly!</em></p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://www.cbsnews.com/news/why-would-someone-create-a-fake-online-personality">cbsnews.com</a></p>

@@ -331,7 +331,7 @@ seo:
 <p>If you have absolute deal breakers &mdash; maybe around religion, smoking, or drinking &mdash; then by all means, be specific. But if you only want to meet an Ivy-league educated, 6 ft. tall, super-model-slash-cancer-researcher, who enjoys hiking with their rescue dog every Sunday, you may be out of luck!</p>
 <p></p>
 <p>Remember to be open minded! Your ideal partner could be just outside of your preferences settings!</p>
-<h2>Your App Options</h2>
+<h2 id="your-app-options"><a href="#your-app-options">Your App Options</a></h2>
 <p><img src="https://cdn.buttercms.com/jSQLXa8ZR1iuzNcbSwjN"></p>
 <p>There are three main options for Bumble. These are the basic version of Bumble, Bumble Premium, and Bumble Boost. Only the basic version is free, and you&rsquo;ll have a limit of 25 swipes per day.</p>
 <p></p>
@@ -347,7 +347,7 @@ seo:
 <p></p>
 <p>You can purchase all subscription upgrades by tapping the grey silhouette in the left corner of your screen.</p>
 <h3></h3>
-<h2>Bumble Premium Guide</h2>
+<h2 id="bumble-premium-guide"><a href="#bumble-premium-guide">Bumble Premium Guide</a></h2>
 <p>Bumble Premium is the most expensive option. You can pay for:</p>
 <p></p>
 <ul>
@@ -408,7 +408,7 @@ seo:
 <p></p>
 <p>If you don&rsquo;t want to commit to a lengthy time frame, the daily upgrade is a good way to test out the advanced features and see if it makes much of a difference to your matches.</p>
 <p></p>
-<h2>Bumble Boost</h2>
+<h2 id="bumble-boost"><a href="#bumble-boost">Bumble Boost</a></h2>
 <p>With Bumble Boost, you can pay for:</p>
 <p></p>
 <ul>
@@ -453,7 +453,7 @@ seo:
 </ul>
 <p></p>
 <p>You may find that this is all you need, however!</p>
-<h2>How Does Bumble Look For Guys?</h2>
+<h2 id="how-does-bumble-look-for-guys"><a href="#how-does-bumble-look-for-guys">How Does Bumble Look For Guys?</a></h2>
 <p><img src="https://cdn.buttercms.com/R9AiOlqnSbOIh4Vom7xZ"></p>
 <p>The user experience whether you&rsquo;re a guy or girl on the app is, for the most part, extremely similar, with only one main difference: if you&rsquo;re a guy, you can&rsquo;t send the first message.</p>
 <p></p>
@@ -512,7 +512,7 @@ seo:
 <p>If you make a match <em>and</em> she sends a message within 24 hours, don&rsquo;t keep her waiting for a reply for too long! As they say, strike while the iron is hot and keep the interest and momentum going.</p>
 <p></p>
 <p>And, if you&rsquo;re both feeling the vibe, don&rsquo;t wait too long to make a date &mdash; even a virtual one!</p>
-<h2>How Does Bumble Look For Girls?</h2>
+<h2 id="how-does-bumble-look-for-girls"><a href="#how-does-bumble-look-for-girls">How Does Bumble Look For Girls?</a></h2>
 <p>As mentioned, the way the app actually <em>looks</em> for girls, is exactly the same as for guys. When you open the app and begin to swipe through profiles, you&rsquo;ll be able to see:</p>
 <p></p>
 <ul>
@@ -559,7 +559,7 @@ seo:
 <p></p>
 <h3><strong>Be confident and positive</strong></h3>
 <p>Confidence is a <em>huge</em> turn on, so show that off in your profile! Trust us &mdash; you&rsquo;ll have likes coming at you from all corners in no time!</p>
-<h2>How Bumble Chats Works</h2>
+<h2 id="how-bumble-chats-works"><a href="#how-bumble-chats-works">How Bumble Chats Works</a></h2>
 <p>Once you&rsquo;re in a chat and the woman has already initiated the conversation, you can chat as normal, without your conversation expiring.</p>
 <p></p>
 <p>If you&rsquo;re feeling a little shy and need a bit of help with your conversation, you can use Bumble&rsquo;s <a href="https://bumble.com/help/question-game">Question Game</a> to help kick things off. You&rsquo;ll find this on the right of your text box, and they work very much like prompts.</p>
@@ -599,7 +599,7 @@ seo:
 <p>Don&rsquo;t stay in the talking phase for too long.</p>
 </li>
 </ul>
-<h2>What Happens When You Match With Someone on Bumble?</h2>
+<h2 id="what-happens-when-you-match-with-someone-on-bumble"><a href="#what-happens-when-you-match-with-someone-on-bumble">What Happens When You Match With Someone on Bumble?</a></h2>
 <p>Once you&rsquo;ve made a match, if you&rsquo;re a guy, you&rsquo;ll see a pop-up telling you that you&rsquo;ve matched, and an option to go to the chat room.</p>
 <p></p>
 <p>If you&rsquo;re a girl, you&rsquo;ll see a pop-up telling you that you&rsquo;ve matched, and a text box so that you can send the first message.</p>
@@ -611,7 +611,7 @@ seo:
 <p>Our best advice? Only swipe right on people you&rsquo;re actually interested in, and once you&rsquo;ve made a match, don&rsquo;t wait too long to send that first message.</p>
 <p></p>
 <p>Equally, once you&rsquo;ve received a first message, don&rsquo;t play games and wait too long to reply!</p>
-<h2>Bumble Conversation Starters: Useful Tips</h2>
+<h2 id="bumble-conversation-starters:-useful-tips"><a href="#bumble-conversation-starters:-useful-tips">Bumble Conversation Starters: Useful Tips</a></h2>
 <p>If you&rsquo;re having difficulty thinking how to start your conversation, don&rsquo;t worry! <em>You&rsquo;re not alone!</em></p>
 <p></p>
 <p>Not only are there a few virtual dating tools available to you, Bumble also has a <a href="https://thebeehive.bumble.com/conversation-starters-generator">Conversation Starter Generator</a> which could help inspire you!</p>
@@ -646,7 +646,7 @@ seo:
 <p></p>
 <h3><strong>Don&rsquo;t wait too long to make your move</strong></h3>
 <p>Finally, if the vibe is right, ask them on a date!</p>
-<h2>Bumble Search: Can You Find Someone on Bumble For Free?</h2>
+<h2 id="bumble-search:-can-you-find-someone-on-bumble-for-free"><a href="#bumble-search:-can-you-find-someone-on-bumble-for-free">Bumble Search: Can You Find Someone on Bumble For Free?</a></h2>
 <p>While there is no search function on Bumble, and <a href="https://bumble.com/en/help/can-i-search-for-a-specific-person-on-bumble">you can&rsquo;t find a specific user</a>, there are ways to find out if someone is using the app.</p>
 <p></p>
 <p>However, a word of caution! If you&rsquo;re in a relationship and suspect that your partner is on Bumble, the best option is always to talk to them first.</p>
@@ -666,7 +666,7 @@ seo:
 </ul>
 <p></p>
 <p>There are a handful of other options, too, but those are a little more morally dubious, so we won&rsquo;t go into them here.</p>
-<h2>Screenshots on Bumble (What to Know)</h2>
+<h2 id="screenshots-on-bumble-(what-to-know)"><a href="#screenshots-on-bumble-(what-to-know)">Screenshots on Bumble (What to Know)</a></h2>
 <p>Bumble does not inform you if someone takes a screenshot of any part of your profile. This includes chats, photos, and whatever else they may want to screenshot.</p>
 <p></p>
 <p>That means that you&rsquo;re free to take a screenshot of other people&rsquo;s profiles, but bear in mind that they can also do the same to you.</p>
@@ -690,7 +690,7 @@ seo:
 <p>Avoid photos of yourself in specific locations close to home, or mentioning places you like to frequent.</p>
 </li>
 </ul>
-<h2>How to Avoid Getting No Matches on Bumble&nbsp;</h2>
+<h2 id="how-to-avoid-getting-no-matches-on-bumble&nbsp;"><a href="#how-to-avoid-getting-no-matches-on-bumble&nbsp;">How to Avoid Getting No Matches on Bumble&nbsp;</a></h2>
 <p>If you aren&rsquo;t getting very many matches on Bumble, this could be for a variety of reasons. The most common are:</p>
 <p></p>
 <ul>
@@ -724,7 +724,7 @@ seo:
 <p>In fact, this could actually signal to the algorithm that you may be a bot and get you shadowbanned! It could also mean that you blast through your 25 daily swipe limit too quickly, leaving you with no swipes left for people you may actually be interested in.</p>
 <p></p>
 <p>Lastly, verify your profile! That helps show other users that you aren&rsquo;t a catfish and that you&rsquo;re <em>really</em> looking for a genuine connection.</p>
-<h2>How to Spot a Fake Bumble Profile</h2>
+<h2 id="how-to-spot-a-fake-bumble-profile"><a href="#how-to-spot-a-fake-bumble-profile">How to Spot a Fake Bumble Profile</a></h2>
 <p>Generally, when it comes to a fake profile, if it looks too good to be true, <em>it probably is!</em></p>
 <p></p>
 <p>Look out for the following red flags:</p>
@@ -753,7 +753,7 @@ seo:
 <p>If all of the signs are adding up to a catfish, don&rsquo;t hesitate to block and report the individual, and you can always contact the support team.</p>
 <p></p>
 <p>Remember to keep yourself safe by not giving out too much personal information early on, and <em>never</em> send someone you don&rsquo;t know any money!</p>
-<h2>Is Bumble a Hookup App or For Serious Dating?</h2>
+<h2 id="is-bumble-a-hookup-app-or-for-serious-dating"><a href="#is-bumble-a-hookup-app-or-for-serious-dating">Is Bumble a Hookup App or For Serious Dating?</a></h2>
 <p>Bumble&rsquo;s focus on genuine connection means that it tends to attract more serious daters than those looking for hookups. Additionally, the fact that women hold the upper hand when it comes to messaging means that it&rsquo;s really up to them how interactions proceed.</p>
 <p></p>
 <p>That&rsquo;s not to say that you <em>couldn&rsquo;t</em> find a hookup on Bumble, rather than a serious relationship, but it&rsquo;s not what the reputation of the app tends to lean towards.</p>
@@ -774,7 +774,7 @@ seo:
 <p>Look beyond first impressions and be open minded!</p>
 </li>
 </ul>
-<h2>Ghosting on Bumble</h2>
+<h2 id="ghosting-on-bumble"><a href="#ghosting-on-bumble">Ghosting on Bumble</a></h2>
 <p>Ghosting &mdash; ie, when you don&rsquo;t respond to someone&rsquo;s messages, unmatch, and disappear <em>like a ghost</em> &mdash; is a huge problem on dating apps. It&rsquo;s an easy way to step away from a match you may not be feeling, but it can also cause lasting hurt and psychological damage.</p>
 <p></p>
 <p>Usually it&rsquo;s got nothing to do with you, the person who&rsquo;s been ghosted, and everything to do with the person who ghosted you.</p>
@@ -792,7 +792,7 @@ seo:
 <p>Don&rsquo;t bottle it up either &mdash; talk it out with a friend, loved one, or therapist, and write down how it makes you feel so that you have a record of this time and can get it out of your system.</p>
 <p></p>
 <p>And then? <em>Don&rsquo;t be afraid to get back out there and try again!</em></p>
-<h2>Key Takeaways</h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p>Bumble is a great dating app for those looking for a serious relationship. Thanks to its female founder, the app does a lot more to empower women in the dating world, and offers plenty of support when it comes to safety and privacy.</p>
 <p></p>
 <p>Additionally, Bumble isn&rsquo;t just for dating! With Bumble BFF and Bumble Bizz, you could use the app to meet your new best friend, or even business partner.</p>
@@ -841,7 +841,7 @@ seo:
 <p>And, when you&rsquo;re ready to do just that, <a href="https://thematchartist.com/online-dating-photographer-near-me">get in touch with The Match Artist</a> and we&rsquo;ll be able to help you!</p>
 <p></p>
 <p>So, now you know how it all works, get out there, explore Bumble and all of its features, and make the most of it! Happy dating!</p>
-<h2>How Does Bumble Work FAQs</h2>
+<h2 id="how-does-bumble-work-faqs"><a href="#how-does-bumble-work-faqs">How Does Bumble Work FAQs</a></h2>
 <h3>How do you get matches on Bumble?</h3>
 <p>While we can&rsquo;t give you an exact formula for how to get matches on Bumble, here are some tips that will help:</p>
 <p></p>
@@ -936,7 +936,7 @@ seo:
 <p>While we&rsquo;re not saying that you can&rsquo;t find that on Bumble, its focus as a female empowered app and rejection of the toxic Tinder culture, means that you&rsquo;re much more likely to meet <em>the one</em> on Bumble than <em>someone</em> on Tinder.</p>
 <p></p>
 <p>At the end of the day, whichever app is better for you will depend on what it is you&rsquo;re looking for from your dating life.</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://www.lifewire.com/how-to-make-a-bumble-profile-4800089">lifewire.com</a></p>
