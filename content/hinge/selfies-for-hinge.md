@@ -197,14 +197,14 @@ seo:
 <p>Remember, confidence is attractive, so <em>let that be what draws someone else in!</em></p>
 <p></p>
 <p>Ready to upgrade your selfies with professional photos? <a href="https://thematchartist.com/online-dating-photographer-near-me">Book with The Match Artist</a> and we can take care of that for you!</p>
-<h2>Are Selfies Okay For Hinge FAQs</h2>
+<h2 id="are-selfies-okay-for-hinge-faqs"><a href="#are-selfies-okay-for-hinge-faqs">Are Selfies Okay For Hinge FAQs</a></h2>
 <h3>Should you put selfies on Hinge?</h3>
 <p>Yes, you can put selfies on Hinge! Selfies can be a great way to show off your personality and style, as long as you mix them up with other types of photos to give potential matches a well-rounded view of who you are.</p>
 <h3>What photo should I use on Hinge?</h3>
 <p>Ideally, your leading photo should be one that shows your face clearly, smiling, and facing the camera. <a href="https://www.narcity.com/best-photos-to-use-on-hinge-according-to-a-dating-app-expert#:~:text=She%20says%20that%20your%20first,doing%20an%20activity%20you%20love.%22">Studies</a> have shown that photos like these will get you the best results. Additionally, open body language (ie, facing the camera) can make you seem more approachable and friendly.</p>
 <h3>Do you need all six photos on Hinge?</h3>
 <p>Yes, you need to have six photos or videos, according to <a href="https://hingeapp.zendesk.com/hc/en-us/articles/360011053094-How-do-I-edit-my-profile-#:~:text=All%20Hinge%20members%20are%20required,to%20know%20the%20real%20you.">Hinge policy</a>. This is in order to give potential matches a sense of who you are and what you&rsquo;re all about.</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://holrmagazine.com/dos-and-donts-of-online-dating-by-hinge/#:~:text=Don't%20Post%20That%20Mirror,clearly%20see%20the%20person's%20face">holrmagazine.com</a></p>

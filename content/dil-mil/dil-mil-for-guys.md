@@ -113,13 +113,13 @@ seo:
 <p>Accounts with compatible preferences are shown to one another &mdash; which leads to matches, dates, and relationships.&nbsp;</p>
 <p></p>
 <p>The exact ins and outs of the Dil Mil algorithm&rsquo;s process is a trade secret. Fortunately, you don&rsquo;t need to know the math to make the most of Dil Mil!</p>
-<h2>What Is the Average Age of Female Users on Dil Mil?</h2>
+<h2 id="what-is-the-average-age-of-female-users-on-dil-mil"><a href="#what-is-the-average-age-of-female-users-on-dil-mil">What Is the Average Age of Female Users on Dil Mil?</a></h2>
 <p>Dil Mil is a site built with a specific age group and population in mind. It&rsquo;s geared towards helping a South Asian &ldquo;<a href="https://indiacurrents.com/the-dil-mil-lennials/">20-something-year-old find someone who Mummy and Papa will approve of</a>&rdquo;.</p>
 <p></p>
 <p>A reliable source for user statistics isn&rsquo;t currently available for Dil Mil. However, if we look at the way the app is marketed and designed, we can begin to form a picture.&nbsp;</p>
 <p></p>
 <p>Most of the women on Dil Mil are likely younger Millennials and older Gen Zs, with ages ranging from 20&ndash;30.</p>
-<h2>Common Issues You May Encounter on Dil Mil as a Guy</h2>
+<h2 id="common-issues-you-may-encounter-on-dil-mil-as-a-guy"><a href="#common-issues-you-may-encounter-on-dil-mil-as-a-guy">Common Issues You May Encounter on Dil Mil as a Guy</a></h2>
 <p>Guys on dating sites tend to match less. If you&rsquo;re a guy, don&rsquo;t let that discourage you. Let's have a look at a few examples of problems guys often run into when dating online.</p>
 <h3>Lack of Matches in Your Area</h3>
 <p>If you don&rsquo;t have many compatible users near the place you live, you won&rsquo;t get lots of matches! You can either travel for love, or adjust your location settings.</p>
@@ -163,7 +163,7 @@ seo:
 </ol>
 <p></p>
 <p>Any one of these behaviors is a little suspicious. If you&rsquo;re answering yes to two or more of these questions, chances are you&rsquo;ve caught a catfish.&nbsp;</p>
-<h2>How to Get More Matches on Dil Mil</h2>
+<h2 id="how-to-get-more-matches-on-dil-mil"><a href="#how-to-get-more-matches-on-dil-mil">How to Get More Matches on Dil Mil</a></h2>
 <p>If you want more matches on Dil Mil, you need to optimize your profile. That means an interesting bio, accurate statistics, and social media links.&nbsp;</p>
 <p></p>
 <p>You should also consider broadening your search. Consider switching up your location, age, gender, and relationship preferences.&nbsp;</p>
@@ -183,7 +183,7 @@ seo:
 <p>But don&rsquo;t just take out word for it &mdash; <a href="https://thematchartist.com/case-studies">check out our case studies</a> from real clients!</p>
 <p></p>
 <p>And don&rsquo;t worry, we won&rsquo;t just take six photos &mdash; we&rsquo;ll take a whole heap in your four to five hour personal photoshoot, in different outfits, locations, and times of the day. So, if one photo isn&rsquo;t doing it for you or your profile, you can switch it up with any number of the others we&rsquo;ll provide you with (<em>perfectly edited by our team, of course!</em>).</p>
-<h2>Final Thoughts</h2>
+<h2 id="final-thoughts"><a href="#final-thoughts">Final Thoughts</a></h2>
 <p>While Dil Mil is optimized for a South Asian userbase, it&rsquo;s not that different to any other dating service. If you want matches, you either have to:&nbsp;</p>
 <p></p>
 <ul>
@@ -207,7 +207,7 @@ seo:
 <p>It&rsquo;s really that simple.&nbsp;</p>
 <p></p>
 <p>And, if you&rsquo;re ready to take your profile up a notch, <a href="https://thematchartist.com/online-dating-photographer-near-me">get in touch with The Match Artist</a>!</p>
-<h2>How Does Dil Mil Work for Guys FAQs</h2>
+<h2 id="how-does-dil-mil-work-for-guys-faqs"><a href="#how-does-dil-mil-work-for-guys-faqs">How Does Dil Mil Work for Guys FAQs</a></h2>
 <h3>How many users are active on Dil Mil?</h3>
 <p>Currently, there are over two million users on Dil Mil, and roughly <a href="https://healthyframework.com/dating/review/dil-mil">1,000 new members daily</a>. Of these members, roughly <a href="https://www.datingscout.com/dil-mil/review">600,000</a> are active weekly.</p>
 <h3>Where is Dil Mil available?</h3>
@@ -216,7 +216,7 @@ seo:
 <p>You can only tell if someone&rsquo;s read your messages on Dil Mil if you&rsquo;ve <a href="https://dilmil.helpshift.com/hc/en/3-dil-mil/faq/200-how-do-i-know-if-a-message-has-been-read">subscribed for Dil Mil VIP Elite or bought them as an in-app purchase</a>. VIP Elite members receive one free read receipt monthly.</p>
 <p></p>
 <p>If you&rsquo;ve unlocked read receipts on your conversation, a single check mark will show that your message has been delivered, while two check marks will show that it was both delivered and read. You can also see what time it was read by tapping on the message.&nbsp;</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://blog.dilmil.co/how-does-dil-mil-work/">blog.dilmil.co</a></p>

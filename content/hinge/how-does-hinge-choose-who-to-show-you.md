@@ -98,7 +98,7 @@ seo:
 <p>One of our top things we do with all of our clients is <a href="https://nyweekly.com/dating/photos-that-help-you-find-love-introducing-the-match-artist/">facial expression coaching</a> &mdash; little things that will really help to make you look the best in all of your photos.&nbsp;</p>
 <p></p>
 <p>Whether you&rsquo;re looking directly into the camera, or away from it, smiling, or not, we&rsquo;ll work with you to make sure you look intentional, sexy, fun, or whatever else you want to show potential matches!</p>
-<h2>Does Hinge Match You With People in Your League?</h2>
+<h2 id="does-hinge-match-you-with-people-in-your-league"><a href="#does-hinge-match-you-with-people-in-your-league">Does Hinge Match You With People in Your League?</a></h2>
 <p>In sports, there is such a thing as an ideal athlete. Striving to mold yourself into that athlete is a common strategy for improvement.</p>
 <p></p>
 <p>But the fact is: <em>dating isn&rsquo;t a sport</em>. And there are no leagues!&nbsp;</p>
@@ -112,7 +112,7 @@ seo:
 <p>Success comes from deciding what features of your physical/social image you are proud of, and focusing on accentuating those.&nbsp;</p>
 <p></p>
 <p>That&rsquo;s the content that will get you responses and messages from people you actually want attention from!</p>
-<h2>How Can I Increase My Chances on Hinge?</h2>
+<h2 id="how-can-i-increase-my-chances-on-hinge"><a href="#how-can-i-increase-my-chances-on-hinge">How Can I Increase My Chances on Hinge?</a></h2>
 <p>To increase your chances on Hinge, you need to understand the algorithm.&nbsp;</p>
 <p></p>
 <p>The algorithm analyzes everything you have on your profile, plus the comments or Likes that you give to other profiles. Hinge develops a sense of the factors that you find attractive, as well as what makes you attractive to others.&nbsp;</p>
@@ -136,7 +136,7 @@ seo:
 <p>The good news is, anyone can learn how to display positive attitudes when they&rsquo;re being photographed! This is basically the core skill that models use to be successful.&nbsp;</p>
 <p></p>
 <p>If you are not photogenic now, with <a href="https://thematchartist.com/blog/photo-tips-1">the right coaching</a>, you can absolutely learn to be.</p>
-<h2>Why Does Hinge Keep Showing Me the Same Person?</h2>
+<h2 id="why-does-hinge-keep-showing-me-the-same-person"><a href="#why-does-hinge-keep-showing-me-the-same-person">Why Does Hinge Keep Showing Me the Same Person?</a></h2>
 <p>This is a pretty common query. It&rsquo;s natural to assume that if you have rejected someone, Hinge won&rsquo;t show that profile to you again.&nbsp;</p>
 <p></p>
 <p>Now, if you&rsquo;ve spent any time on Hinge, you&rsquo;ll know it&rsquo;s fairly normal to see the same profile twice, or get a notification that a profile you&rsquo;ve previously rejected has Liked you. So what&rsquo;s going on?</p>
@@ -146,11 +146,11 @@ seo:
 <p>Behavioral scientist Logan Ury believes that the second chance feature can be a nudge in the right direction from Hinge&rsquo;s algorithm. <a href="https://www.vice.com/en/aarticle/z3e3bw/how-does-the-hinge-algorithm-work">Ury reckons</a>, &ldquo;If Hinge seems to think that this person and I might work well together, why don&rsquo;t I give them a chance?&rdquo;</p>
 <p></p>
 <p><em>Sometimes, you just have to place your trust in the algorithm!</em></p>
-<h2>Does Hinge Pull Matches From Your Friends?</h2>
+<h2 id="does-hinge-pull-matches-from-your-friends"><a href="#does-hinge-pull-matches-from-your-friends">Does Hinge Pull Matches From Your Friends?</a></h2>
 <p>Hinge once had a feature that allowed your friends on Facebook to match you with their friends. <a href="https://hingeapp.zendesk.com/hc/en-us/articles/360005824554-Is-Hinge-no-longer-Friends-of-Friends-">Well, those days are gone</a>.</p>
 <p></p>
 <p>At this time, Hinge doesn&rsquo;t access Facebook&rsquo;s social data to match you with any other profiles. Hinge relies on the information you provide and create (such as your name, date of birth, and location) to find you matches.&nbsp;</p>
-<h2>Does Hinge Show You Everyone?</h2>
+<h2 id="does-hinge-show-you-everyone"><a href="#does-hinge-show-you-everyone">Does Hinge Show You Everyone?</a></h2>
 <p>As you have probably noticed, Hinge doesn&rsquo;t show you every user in the world that is signed up to their dating network.&nbsp;</p>
 <p></p>
 <p>Some measures of compatibility are fairly complicated (personality, interests, worldview). Other measures are pretty basic.&nbsp;</p>
@@ -160,7 +160,7 @@ seo:
 <p>Even if another user meets all your requirements, you might not meet all of theirs. This isn&rsquo;t a bad thing. It&rsquo;s a great thing, in fact!</p>
 <p></p>
 <p>The whole point of Hinge is to save you from wasting time on people that just aren&rsquo;t right for you. That&rsquo;s why Hinge only shows you the profiles of users it considers to be compatible.</p>
-<h2>Does Hinge Ever Glitch and Delete Your Matches?</h2>
+<h2 id="does-hinge-ever-glitch-and-delete-your-matches"><a href="#does-hinge-ever-glitch-and-delete-your-matches">Does Hinge Ever Glitch and Delete Your Matches?</a></h2>
 <p>While back in August 2020 <a href="https://www.yahoo.com/lifestyle/hinge-went-down-everyone-lost-181544240.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAABYkbF8-yt1Zajf5_ZbaJenqf3ebN7uqc3OwjT5LpzFj8lcc6K_mJ1M0sI38OakSWN7VwsEMWsQAsviIQv8FrNmMZEvc2bxtJZL20LoqkGEbj-eAQ8H20ojA918jwDpHiq26KE8n-vtBSALUvN1BXQJfoydQrgZKwz6r7Y0GTOuy">Hinge did suffer from a technical glitch</a> due to too many users attempting to log on (<em>we wonder why!</em>), these are not likely a regular occurrence.</p>
 <p></p>
 <p>In fact, Hinge will <em>never</em> delete your matches for you &mdash; the only people who can do that are the two users who have matched!</p>
@@ -198,7 +198,7 @@ seo:
 <p>And finally, if you haven&rsquo;t talked to your match in over 14 days &mdash; well! <em>That one&rsquo;s on you, too!</em></p>
 <p></p>
 <p>The solution? <em>Don&rsquo;t wait too long to message your match!</em></p>
-<h2>Key Takeaways</h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p>Hinge is designed to connect users who are both attractive and attracted to one another. These matches are based on your profile and usage data.</p>
 <p></p>
 <p>Initial matches are data driven. Whether those matches turn into dates is heavily influenced by the content on your profile &mdash; especially your pictures.</p>
@@ -216,14 +216,14 @@ seo:
 <p>Crucially, our modeling tips and <a href="https://nyweekly.com/dating/photos-that-help-you-find-love-introducing-the-match-artist/">facial expression coaching</a> leading up to and during your shoot are the real key to improving your online dating experience! We can guarantee that the next time someone is swiping through their phone, with our help, they&rsquo;ll stop for a moment longer at your profile.</p>
 <p></p>
 <p>If you&rsquo;re ready to take online dating seriously, <a href="https://thematchartist.com/online-dating-photographer-near-me">get in touch with the team at The Match Artist</a>!</p>
-<h2>How Does Hinge Choose Who To Show You: FAQs</h2>
+<h2 id="how-does-hinge-choose-who-to-show-you:-faqs"><a href="#how-does-hinge-choose-who-to-show-you:-faqs">How Does Hinge Choose Who To Show You: FAQs</a></h2>
 <h3>How does Hinge choose people?</h3>
 <p>Hinge uses a Nobel Award-winning algorithm to match its users. The Hinge algorithm collects profile and usage data to understand user preferences. User preferences are then analyzed and compared to match users who are likely to share a mutual attraction.&nbsp;</p>
 <h3>What order does Hinge show profiles?</h3>
 <p>It has been speculated that Hinge shows you the profiles it considers most compatible first. Hinge developers have neither confirmed nor denied this.</p>
 <p></p>
 <p>What we do know is that any profiles you may have seen or rejected before are almost always shown last.</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://www.nature.com/articles/nature.2012.11607">nature.com</a>&nbsp;</p>

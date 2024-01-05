@@ -120,7 +120,7 @@ seo:
 <p></p>
 <p>Let&rsquo;s get into it!</p>
 <p><br><br></p>
-<h2>What is a Hinge Prompt?</h2>
+<h2 id="what-is-a-hinge-prompt"><a href="#what-is-a-hinge-prompt">What is a Hinge Prompt?</a></h2>
 <p>Hinge Prompts are a series of questions which everyone on the app can choose from to answer and display on their profile. It&rsquo;s a way of showcasing who you are, your opinions on certain topics or hobbies, as well as your personality, heart, and mind.</p>
 <p></p>
 <p>While Prompts can be answered in many different ways (with varying degrees of success), the best Prompts are conversation starters &mdash; a way into beginning a line of communication with a potential match.</p>
@@ -130,7 +130,7 @@ seo:
 <p>You&rsquo;ll need to answer three Prompts when you set up your profile initially, and can choose from a variety that the app will show you. You can change these later and swap them out for new Prompts that better show off your skills and ideas.</p>
 <p></p>
 <p>For example, maybe you have an amazing travel story about the time you bought your favorite jeans, know where the best coffee spot in your city is, or have a fun bucket list. Either way, if it&rsquo;ll get you a few more matches and messages, choose a Prompt that&rsquo;ll allow you to show it off!</p>
-<h2>How Does a Hinge Prompt Work?</h2>
+<h2 id="how-does-a-hinge-prompt-work"><a href="#how-does-a-hinge-prompt-work">How Does a Hinge Prompt Work?</a></h2>
 <p>When you sign up for an account, as part of your bio creation process, you&rsquo;ll need to choose three Prompts to answer. These will be shown to you on your screen. If you don&rsquo;t like the Prompt, you can dismiss it and you&rsquo;ll be shown a new one.</p>
 <p></p>
 <p>There are over 100 different Prompts on Hinge, so the chances that you&rsquo;ll get through all of them is pretty slim-to-none. However, that shouldn&rsquo;t be your goal with Prompts, anyway!</p>
@@ -142,7 +142,7 @@ seo:
 <p>If someone does respond to your Prompts (either by Liking it, sending a comment, or both), then you&rsquo;ll receive a notification and be given three options: reply, dismiss, or match.</p>
 <p></p>
 <p>If you choose to match, you&rsquo;ll automatically be placed in a private chat room, where you can begin to connect with one another!</p>
-<h2>Do Hinge Prompts Matter?</h2>
+<h2 id="do-hinge-prompts-matter"><a href="#do-hinge-prompts-matter">Do Hinge Prompts Matter?</a></h2>
 <p>As instead of traditional bios Hinge chooses to use Prompts, they&rsquo;re <em>incredibly</em> important!</p>
 <p></p>
 <p>Prompts are the only initial way you have to tell potential matches about the things that are important to you, as well as display your personality on a deeper level.</p>
@@ -196,7 +196,7 @@ seo:
 <p>As they say: <em>the devil&rsquo;s in the details!</em></p>
 <p></p>
 <p>Just don&rsquo;t go telling any tall tales! Remember, Hinge is trying to help you make <em>genuine</em> connections, so start from a place of honesty, make an effort, and be real!</p>
-<h2>How Do I Improve My Hinge Prompts</h2>
+<h2 id="how-do-i-improve-my-hinge-prompts"><a href="#how-do-i-improve-my-hinge-prompts">How Do I Improve My Hinge Prompts</a></h2>
 <p>Of course, we all know there&rsquo;s a lot of pressure when it comes to crafting your online dating profile.&nbsp;</p>
 <p></p>
 <p>There are so many unwritten rules &mdash; don&rsquo;t be too pushy, but don&rsquo;t be too aloof; express yourself, but don&rsquo;t be too controversial; make sure you show that you have a friend group, but don&rsquo;t show them off too much; be funny, but don&rsquo;t be a class clown; be your true self, but make sure you appear to be genuine and approachable.</p>
@@ -210,7 +210,7 @@ seo:
 <p>The best way to do that? <em>Be honest, be yourself, and be patient!</em></p>
 <p></p>
 <p>Lay it all out on the table, and the right person will see you for who you are, and want to get to know you better!</p>
-<h2>What Makes a Good Hinge Prompt Question?</h2>
+<h2 id="what-makes-a-good-hinge-prompt-question"><a href="#what-makes-a-good-hinge-prompt-question">What Makes a Good Hinge Prompt Question?</a></h2>
 <p>The best Hinge Prompt questions are ones that allow you to share not only about yourself but also about the type of person you&rsquo;re looking for.</p>
 <p></p>
 <p>Have you heard of the <a href="https://www.businessinsider.com/science-of-dating-relationships-2016-7#4-use-the-7030-rule-in-your-online-profile-4">70:30 rule</a>? The idea is that the best dating profiles are ones that talk about yourself for 70%, and about your ideal match for 30%.</p>
@@ -220,7 +220,7 @@ seo:
 <p>Whether you&rsquo;re talking about your favorite books, restaurant dishes, wine, or religion, make sure that you include a little about how your ideal match fits into that!</p>
 <p></p>
 <p>Questions that dig into your life views &mdash; for example your history as well as your future &mdash; are also a great way to highlight both who you are and the type of person you&rsquo;re looking for.</p>
-<h2>Hinge Prompt Mistakes to Avoid</h2>
+<h2 id="hinge-prompt-mistakes-to-avoid"><a href="#hinge-prompt-mistakes-to-avoid">Hinge Prompt Mistakes to Avoid</a></h2>
 <p>While there&rsquo;s plenty of things you <em>should</em> include in your Prompt responses (your love of dogs, for example), there&rsquo;s also plenty you should absolutely avoid.</p>
 <p></p>
 <p>Here&rsquo;s our ultimate list of <em>what not to do</em> in your Hinge Prompts!</p>
@@ -259,7 +259,7 @@ seo:
 </li>
 </ol>
 <p>We see this all the time: asking for generalized recommendations, being sarcastic in your responses, or turning the question back around. Look: it&rsquo;s lazy and it shows that you can&rsquo;t be bothered to put the effort in to meet someone you&rsquo;ll really connect with. So why <em>should</em> others show interest in you? Exactly.</p>
-<h2>Which Hinge Prompts Get the Most Responses?</h2>
+<h2 id="which-hinge-prompts-get-the-most-responses"><a href="#which-hinge-prompts-get-the-most-responses">Which Hinge Prompts Get the Most Responses?</a></h2>
 <p>According to <a href="https://thetab.com/uk/2020/06/01/hinge-reveal-which-questions-get-the-most-responses-159309">The Tab</a>, some of the Hinge Prompts which garnered most responses included:</p>
 <p></p>
 <ul>
@@ -295,7 +295,7 @@ seo:
 <p>This makes sense, as all of these Hinge Prompts are ones that a potential partner could chime in on, as it&rsquo;s not just about <em>you</em>, but also about <em>your ideal match</em>.&nbsp;</p>
 <p></p>
 <p><em>All the more important, then, to make sure that you use the 70:30 rule!</em></p>
-<h2>How to Answer Hinge&rsquo;s Most Popular Prompts</h2>
+<h2 id="how-to-answer-hinge&rsquo;s-most-popular-prompts"><a href="#how-to-answer-hinge&rsquo;s-most-popular-prompts">How to Answer Hinge&rsquo;s Most Popular Prompts</a></h2>
 <p>While there&rsquo;s a million and one ways to answer the most popular Hinge Prompts, there are certain things you should do to really show yourself in the best light possible.</p>
 <p></p>
 <ol>
@@ -334,7 +334,7 @@ seo:
 <p>This one relates back to being authentic &mdash; too often we see incredibly sanitized profiles, ones where people are afraid to toe the line or let their freak flag fly. And, honestly? <em>It&rsquo;s kind of boring!</em>&nbsp;</p>
 <p></p>
 <p>So don&rsquo;t worry about being <em>too</em> weird, and just be yourself &mdash; just be careful about being creepy or dishonest!</p>
-<h2>Common Hinge Prompts</h2>
+<h2 id="common-hinge-prompts"><a href="#common-hinge-prompts">Common Hinge Prompts</a></h2>
 <p>So now that we&rsquo;ve covered the ins and outs or Prompts, how about some examples? Here are some of the most common Hinge Prompts you may find on the app!</p>
 <h3>&ldquo;Dating Me Is Like&hellip;&rdquo;</h3>
 <p>This Prompt is a great opportunity for you to add a little humor into your profile, show off your personality, and insert the idea that you could be dateable material. Don&rsquo;t forget the 70:30 rule on this one, for sure!</p>
@@ -376,7 +376,7 @@ seo:
 <p>This Prompt is another great way to be a little quirky, especially if your tastes aren&rsquo;t super mainstream.</p>
 <h3>&ldquo;Together, We Could&hellip;&rdquo;</h3>
 <p>We love this Prompt &mdash; not only does it allow you to show yourself off, it also includes the other party, making them see the two of you as a potential couple. That&rsquo;s a great seed to plant!</p>
-<h2>The Best Hinge Prompts for Men</h2>
+<h2 id="the-best-hinge-prompts-for-men"><a href="#the-best-hinge-prompts-for-men">The Best Hinge Prompts for Men</a></h2>
 <h3>&ldquo;What&rsquo;s Your Favorite Way to Unwind After a Long Day?&rdquo;</h3>
 <p>More interesting than what people do in their job is how they choose to spend their free time. And if someone can envision spending your free time <em>with</em> you, all the better!</p>
 <h3>&ldquo;What&rsquo;s the Most Spontaneous Thing You&rsquo;ve Ever Done?&rdquo;</h3>
@@ -407,7 +407,7 @@ seo:
 <p>This Prompt allows you to use the 70:30 rule really efficiently. Not only does it turn the Prompt around into a great conversation starter, it can also help you weed through people you wouldn&rsquo;t be interested in.</p>
 <h3>&ldquo;I Bet You Can&rsquo;t&hellip;&rdquo;</h3>
 <p>And, again, a little bit of friendly competition is a great way to get some responses! It&rsquo;s cheeky, it&rsquo;s flirty, and it&rsquo;s likely to trigger a comment!</p>
-<h2>The Best Hinge Prompts for Women</h2>
+<h2 id="the-best-hinge-prompts-for-women"><a href="#the-best-hinge-prompts-for-women">The Best Hinge Prompts for Women</a></h2>
 <h3>&ldquo;What&rsquo;s Your Idea of a Perfect Weekend?&rdquo;</h3>
 <p>Just as this is a great Prompt for guys, this is also a great prompt for women to show their personality in a more rounded light. It&rsquo;s important for others to be able to see how they could fit into your life, and vice versa.</p>
 <h3>&ldquo;What&rsquo;s Your Go-to Happy Hour Drink?&rdquo;</h3>
@@ -428,7 +428,7 @@ seo:
 <p>While not everyone is going to be up for a 10 mile hike, or 3 hours at the gym, knowing that you&rsquo;re keen to move your body could help you start a conversation with someone who&rsquo;s the same! And, if you aren&rsquo;t a super active person, you can always answer this question with a tongue-in-cheek tone!</p>
 <h3>&ldquo;What&rsquo;s Your Favorite Thing to Do When You Have Free Time?&rdquo;</h3>
 <p>Again, we would recommend only answering one of these questions, but it&rsquo;s another great Prompt to show off who you are in your <em>you time!</em></p>
-<h2>Funny Hinge Prompts You Can Try</h2>
+<h2 id="funny-hinge-prompts-you-can-try"><a href="#funny-hinge-prompts-you-can-try">Funny Hinge Prompts You Can Try</a></h2>
 <p>Injecting a little humor into the situation is always a good idea! Here are some Prompts which could help you get a smile out of your potential match and, crucially, a response.</p>
 <h3>&ldquo;If We Were Characters in a Sitcom, Who Would We Be?&rdquo;</h3>
 <p>Of course, the obvious go-to here is <em>Friends</em>, but it doesn&rsquo;t have to be! Why not try something a little more off-beat that shows that you aren&rsquo;t just &ldquo;one of those guys&rdquo;, and show your taste at the same time?</p>
@@ -450,7 +450,7 @@ seo:
 <p>In a similar fashion to the emoji question, we&rsquo;d pick one out of the two.</p>
 <h3>&ldquo;What&rsquo;s Your Weirdest Talent?&rdquo;</h3>
 <p>This is a real opportunity to make the other person laugh, and potentially start a conversation. So go ahead, tell them all about your weird and wonderful!</p>
-<h2>Flirty Hinge Prompts You Can Use to Spice Up the Conversation</h2>
+<h2 id="flirty-hinge-prompts-you-can-use-to-spice-up-the-conversation"><a href="#flirty-hinge-prompts-you-can-use-to-spice-up-the-conversation">Flirty Hinge Prompts You Can Use to Spice Up the Conversation</a></h2>
 <p>Remember, you can use Prompts in video chats as well as on your profile. So if you&rsquo;re beginning to vibe with someone, schedule a call, and then check out some of these Prompt suggestions!</p>
 <h3>&ldquo;What&rsquo;s Your Favorite Type of Date Night?&rdquo;</h3>
 <p>A space where you can potentially tell your future match what sort of date they could expect with you, is a great move! Just be sure not to get <em>too</em> spicy.</p>
@@ -470,7 +470,7 @@ seo:
 <p>When you answer this question, just remember that you don&rsquo;t want your future match to think they&rsquo;re potentially signing on to become your servant!</p>
 <h3>&ldquo;What&rsquo;s the Most Attractive Quality Someone Can Have?&rdquo;</h3>
 <p>This question is very similar to the &ldquo;sexiest quality&rdquo; one, so choose one.</p>
-<h2>Hinge Prompts to Filter Matches More Effectively</h2>
+<h2 id="hinge-prompts-to-filter-matches-more-effectively"><a href="#hinge-prompts-to-filter-matches-more-effectively">Hinge Prompts to Filter Matches More Effectively</a></h2>
 <p>Some of these Prompts head into slightly more controversial territory. While we wouldn&rsquo;t normally recommend going too hard, too fast, if you&rsquo;re looking to hone in on a specific person, these can be a good way to weed out those who don&rsquo;t fit your criteria.</p>
 <p></p>
 <p>However, a word of caution! Be open minded, when it comes to dating. Your perfect match may be just outside of what you consider to be your &ldquo;ideal&rdquo; traits!</p>
@@ -494,7 +494,7 @@ seo:
 <p>Similar to the above Prompt, we&rsquo;d recommend choosing one.</p>
 <h3>&ldquo;What&rsquo;s Your Biggest Guilty Pleasure?&rdquo;</h3>
 <p>You never know &mdash; your guilty pleasure could also be your perfect match&rsquo;s!</p>
-<h2>Unique Hinge Prompts You Can Test</h2>
+<h2 id="unique-hinge-prompts-you-can-test"><a href="#unique-hinge-prompts-you-can-test">Unique Hinge Prompts You Can Test</a></h2>
 <h3>&ldquo;Describe Your Dream Adventure&hellip;&rdquo;</h3>
 <p>If you&rsquo;re an adventurous sort and are looking for someone similar, this is a cool Prompt to use. Remember to use the 70:30 rule!</p>
 <h3>&ldquo;What Would You Do With an Extra Hour Every Day?&rdquo;</h3>
@@ -513,7 +513,7 @@ seo:
 <p>This is a really interesting Prompt, and you can choose how you&rsquo;d like to answer it. Maybe you want to be funny, or go deep into your values. Whichever you go for, back up your reasoning!</p>
 <h3>&ldquo;What&rsquo;s Your Favorite Childhood Memory?&rdquo;</h3>
 <p>This is another opportunity for you to get vulnerable and show your potential match that you&rsquo;re an open-hearted soul!</p>
-<h2>Best Hinge Prompts for Extroverts</h2>
+<h2 id="best-hinge-prompts-for-extroverts"><a href="#best-hinge-prompts-for-extroverts">Best Hinge Prompts for Extroverts</a></h2>
 <h3>&ldquo;What&rsquo;s Your Favorite Way to Meet New People?&rdquo;</h3>
 <p>Remember: meeting new people doesn&rsquo;t necessarily have to be in a romantic setting. Maybe use this opportunity to talk about how you met some of your closest buddies.</p>
 <h3>&ldquo;What&rsquo;s Your Favorite Type of Social Gathering?&rdquo;</h3>
@@ -534,7 +534,7 @@ seo:
 <p>Again, similar to some of the other questions on this list, so don&rsquo;t overload on the responses!</p>
 <h3>&ldquo;What&rsquo;s Your Favorite Way to Celebrate?&rdquo;</h3>
 <p>Are you a big blow-out celebration guy, or more low-key with a few close friends and family? Spill and use the 70:30 rule!</p>
-<h2>Best Hinge Prompts for Introverts</h2>
+<h2 id="best-hinge-prompts-for-introverts"><a href="#best-hinge-prompts-for-introverts">Best Hinge Prompts for Introverts</a></h2>
 <h3>&ldquo;What&rsquo;s Your Favorite Book to Get Lost in?&rdquo;</h3>
 <p>If you&rsquo;re a big reader, books can be a great way to bring people together. So wax lyrical about your fave reads and you never know! You could meet a fellow bookworm.</p>
 <h3>&ldquo;What&rsquo;s the Best Gift You&rsquo;ve Ever Received?&rdquo;</h3>
@@ -549,7 +549,7 @@ seo:
 <p>Again, this is all about setting expectations. There&rsquo;s a bit of a common misconception that if you&rsquo;re not living your life at 1,000 miles an hour 24/7, you&rsquo;re not living right. Sometimes it&rsquo;s okay to just chill out and do nothing!</p>
 <h3>&ldquo;What&rsquo;s Your Favorite Cozy Spot at Home?&rdquo;</h3>
 <p>If you&rsquo;ve got a favorite go-to spot, share it &mdash; just remember to use the 70:30 rule on this one, and keep it charming, rather than sleazy!</p>
-<h2>Key Takeaways</h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p>Prompts on Hinge are an easy way to show off who you are and allow others to get to know you better, in short-form 250-word bites.&nbsp;</p>
 <p></p>
 <p>Not only are they essential for your actual profile creation, with so many different Prompts out there, you can really tailor your bio to find your ideal match with them.</p>

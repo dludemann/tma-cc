@@ -289,7 +289,7 @@ seo:
 <p>It stunts communication skills.</p>
 </li>
 </ul>
-<h2>Example of Ghosting Someone</h2>
+<h2 id="example-of-ghosting-someone"><a href="#example-of-ghosting-someone">Example of Ghosting Someone</a></h2>
 <p>Ghosting can have a significant impact on the person who&rsquo;s been ghosted. Here&rsquo;s a <a href="https://www.washingtonpost.com/lifestyle/2020/02/21/ghosting-stories-dating">real life ghosting example</a>.</p>
 <p></p>
 <p>Laura met someone who ghosted her not once, but <em>twice</em>.</p>
@@ -303,7 +303,7 @@ seo:
 <p>In this case, the ghost was using dating apps to hide their infidelity. One could assume that their periods of ghosting were related to their relationship with their girlfriend, which left Laura feeling heartbroken, worried, hurt, and betrayed.</p>
 <p></p>
 <p>However, this is a happy ending to this particular story! Laura eventually reached out to her ghost&rsquo;s &ldquo;ex-girlfriend&rdquo;, had an &ldquo;amazing, healthy conversation&rdquo;, and became friends!</p>
-<h2>Ghosting Statistics</h2>
+<h2 id="ghosting-statistics"><a href="#ghosting-statistics">Ghosting Statistics</a></h2>
 <p><a href="https://journals.sagepub.com/doi/10.1177/0265407517748791">A 2018 study on ghosting</a> found that those who were more likely to believe in destiny were also more likely to ghost a match. However, aside from this study, there have been very few done on the phenomenon of ghosting.</p>
 <p></p>
 <p>That&rsquo;s why <a href="https://www.girlschase.com/article/dating-rules/ghosting-part-1-who-gets-ghosted-most-guys-or-girls">Girls Chase conducted a survey of 294 participants</a> to collect a little more data, and these were some of their findings.</p>
@@ -357,7 +357,7 @@ seo:
 <p>The data seemed to suggest that a woman&rsquo;s &ldquo;peak dateability&rdquo; coincides with her &ldquo;peak fertility&rdquo; (18&ndash;25 years old).</p>
 </li>
 </ul>
-<h2>Impacts of Ghosting a Match on Dil Mil</h2>
+<h2 id="impacts-of-ghosting-a-match-on-dil-mil"><a href="#impacts-of-ghosting-a-match-on-dil-mil">Impacts of Ghosting a Match on Dil Mil</a></h2>
 <p>While ghosting may seem like the easiest way to end a relationship or communication with a match, you should consider how it&rsquo;ll affect the other person.</p>
 <h3>Short-Term Effects</h3>
 <p>Short-term effects of ghosting may include:</p>
@@ -425,7 +425,7 @@ seo:
 <p>Users with &ldquo;self-protective tendencies&rdquo; who were rejected (ghosted) were more likely to be coerced into sexual acts, and potentially more likely to experience sexual violence.</p>
 </li>
 </ul>
-<h2>Can You Report People for Ghosting on Dil Mil?</h2>
+<h2 id="can-you-report-people-for-ghosting-on-dil-mil"><a href="#can-you-report-people-for-ghosting-on-dil-mil">Can You Report People for Ghosting on Dil Mil?</a></h2>
 <p>Technically, ghosting does not go against Dil Mil&rsquo;s <a href="https://cdn.dilmil.co/static/terms-of-use/terms-2022-12-16.pdf">user policy</a>, so you wouldn&rsquo;t be able to report a ghost.</p>
 <p></p>
 <p>However, <a href="https://blog.dilmil.co/is-dil-mil-safe">Dil Mil does have a zero-tolerance harassment policy</a>. If any of your connections are being abusive, threatening, or harassing you in another way, Dil Mil strongly advises that you block and report them to the moderation team.</p>
@@ -433,13 +433,13 @@ seo:
 <p>Remember to take screenshots so that you have evidence!</p>
 <p></p>
 <p>As for ghosting, if you don&rsquo;t want to have anything more to do with your ghost (<em>and we&rsquo;d strongly advise that you don&rsquo;t!</em>), you may not be able to report them, but you can unmatch or block them, then move on!</p>
-<h2>How Do You Know If Someone Is Ghosting You?</h2>
+<h2 id="how-do-you-know-if-someone-is-ghosting-you"><a href="#how-do-you-know-if-someone-is-ghosting-you">How Do You Know If Someone Is Ghosting You?</a></h2>
 <p>Unfortunately, if someone is ghosting you, you&rsquo;ll more than likely know.</p>
 <p></p>
 <p>Your messages will go unanswered, calls unreturned, and they may even unmatch or block you. If you were linked on social media, they may have also blocked you from seeing their account.</p>
 <p></p>
 <p>In the worst possible case, they may even stand you up on your IRL date.</p>
-<h2>How to Deal With Being Ghosted on Dil Mil</h2>
+<h2 id="how-to-deal-with-being-ghosted-on-dil-mil"><a href="#how-to-deal-with-being-ghosted-on-dil-mil">How to Deal With Being Ghosted on Dil Mil</a></h2>
 <p>Honestly? Being ghosted sucks &mdash; there&rsquo;s no two ways about it. But here are some ways that you can begin to move on:</p>
 <p></p>
 <ul>
@@ -486,7 +486,7 @@ seo:
 <p>Once you&rsquo;re paired with your professional photographer, they&rsquo;ll work with you to get the most out of your four to five hour photoshoot, edit them beautifully, and get them back to you within two weeks, so you can jump back in the dating pool!</p>
 <p></p>
 <p>Trust us: with the amount of likes and matches you&rsquo;ll be receiving, you won&rsquo;t even have a chance to think about your ghost!</p>
-<h2>How to Avoid Being Ghosted on Dil Mil</h2>
+<h2 id="how-to-avoid-being-ghosted-on-dil-mil"><a href="#how-to-avoid-being-ghosted-on-dil-mil">How to Avoid Being Ghosted on Dil Mil</a></h2>
 <p>Ghosting is always the other person&rsquo;s choice, but not always for reasons that aren&rsquo;t valid. While nobody can 100% guarantee that they won&rsquo;t be ghosted, here are a few of our tips for how to avoid major red flags:</p>
 <p></p>
 <ul>
@@ -530,7 +530,7 @@ seo:
 <p>Don&rsquo;t scare off your date by trying to back them into a relationship before they&rsquo;re ready.</p>
 </li>
 </ul>
-<h2>Alternatives to Ghosting a Match on Dil Mil</h2>
+<h2 id="alternatives-to-ghosting-a-match-on-dil-mil"><a href="#alternatives-to-ghosting-a-match-on-dil-mil">Alternatives to Ghosting a Match on Dil Mil</a></h2>
 <p>If you&rsquo;re ready to leave the underworld behind for good and vow not to ghost your matches in the future, here are some alternative ways to end a relationship:</p>
 <p></p>
 <ul>
@@ -566,7 +566,7 @@ seo:
 <p>While you could also unmatch the person, we&rsquo;d recommend being honest about your feelings first, otherwise you&rsquo;re just unmatching them out of the blue for no reason!</p>
 <p></p>
 <p>And please, don&rsquo;t &ldquo;<a href="https://www.allure.com/story/caspering-new-dating-trend-ghosting">casper</a>&rdquo; your match, either! If you don&rsquo;t want to be friends, better to be polite and go your separate ways!</p>
-<h2>Key Takeaways</h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p>Ghosting is an unfortunate part of online dating that most people will run into at some stage during their dating life, and on Dil Mil is no different.&nbsp;</p>
 <p></p>
 <p>While you can&rsquo;t stop a ghost in their tracks, there are some ways to help protect yourself against ghosts:</p>
@@ -598,7 +598,7 @@ seo:
 <p>If you are ghosted, remember that it&rsquo;s more often than not a reflection on the other person, and not on you. Take some time to grieve the end of the relationship, do some self-care and self-reflection, and then jump back into the dating pool with both feet!</p>
 <p></p>
 <p>Ready to get going again and want to make sure your profile matches your new positive outlook? <a href="https://thematchartist.com/online-dating-photographer-near-me">Get in touch with The Match Artist</a> &mdash; we&rsquo;ll get your profile pictures swimming in likes, and you&rsquo;ll be haunted by ghosts no more!</p>
-<h2>Ghosting on Dil Mil FAQs</h2>
+<h2 id="ghosting-on-dil-mil-faqs"><a href="#ghosting-on-dil-mil-faqs">Ghosting on Dil Mil FAQs</a></h2>
 <h3>Is being ghosted a red flag?</h3>
 <p>While ghosting could be considered a red flag and indication that your ghost is unable to communicate maturely and effectively, it&rsquo;s important to remember that everyone has different circumstances and reasons for their actions.</p>
 <p></p>
@@ -635,7 +635,7 @@ seo:
 <p>While some ghosters may feel guilt (<a href="https://www.courant.com/2021/12/20/ghosting-the-silent-unexplained-method-to-ending-relationships-has-negative-impact-on-both-parties-and-can-stunt-emotional-growth-wesleyan-study-finds">one study</a> found that 65% of those polled felt &ldquo;anxiety, awkwardness, and guilt&rdquo;), others may not. It depends on the ghost&rsquo;s background, personal values, and their connection with their match.</p>
 <p></p>
 <p>Ultimately, whether or not the ghost feels guilty is irrelevant, as you can&rsquo;t change their actions, and they&rsquo;re unlikely to change their mind. All you can do is learn from the past and move forward!</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://blog.dilmil.co/5-warning-signs-that-make-it-socially-acceptable-to-ghost-someone">blog.dilmil.co</a></p>

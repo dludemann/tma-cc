@@ -131,7 +131,7 @@ seo:
 <p>Bear in mind there is a free trial available for VIP Elite, but if you don&rsquo;t cancel 24 hours before the end date, you&rsquo;ll find that the money will be taken from your account.</p>
 <p></p>
 <p>However, if the free version of Dil Mil doesn&rsquo;t have enough functionality for you, you may be able to connect with others better on VIP Elite, anyway!</p>
-<h2>Is It Worth Upgrading My Account to Dil Mil VIP Elite?</h2>
+<h2 id="is-it-worth-upgrading-my-account-to-dil-mil-vip-elite"><a href="#is-it-worth-upgrading-my-account-to-dil-mil-vip-elite">Is It Worth Upgrading My Account to Dil Mil VIP Elite?</a></h2>
 <p>If you&rsquo;re a woman on the app, you have the advantage. This is clear for a variety of online dating and social networking sites, including Tinder (where women tend to have more interest), Bumble (where women send the first message), and the Gleeden app (where women can use the app for free).</p>
 <p></p>
 <p>With Dil Mil, it&rsquo;s much the same. As a woman, you don&rsquo;t <em>need</em> to upgrade your subscription in the app in order to get chatting to matches. The chances are that most people, especially men, will like and match with your profile, and those conversations may lead to dates.</p>
@@ -151,7 +151,7 @@ seo:
 <p>We specialize in dating profile pictures, and our professional photographers will take amazing pictures of you, guaranteed to get more matches!</p>
 <p></p>
 <p>Don&rsquo;t believe us? <a href="https://thematchartist.com/case-studies">Check out our case studies and reviews</a>!</p>
-<h2>How Much Is Dil Mil Premium?</h2>
+<h2 id="how-much-is-dil-mil-premium"><a href="#how-much-is-dil-mil-premium">How Much Is Dil Mil Premium?</a></h2>
 <p>If you purchase <a href="https://dilmil.co/vip-elite">Dil Mil VIP Elite</a>, the app&rsquo;s premium subscription service, there are a few different tiers of membership. These include:</p>
 <p></p>
 <ul>
@@ -177,7 +177,7 @@ seo:
 <p>Bear in mind that once you&rsquo;ve purchased, you won&rsquo;t be able to get a refund, and if you use the free trial and don&rsquo;t cancel 24 hours before it ends, you will be charged.&nbsp;</p>
 <p></p>
 <p>Renewals will also happen automatically, unless you cancel through your app store (or by <a href="https://dilmil.helpshift.com/hc/en/3-dil-mil/faq/213-how-do-i-cancel-or-manage-my-subscription">contacting Dil Mil&rsquo;s support team directly</a>).</p>
-<h2>Key Takeaways</h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p>If you&rsquo;re reluctant to upgrade to Dil Mil VIP Elite, the good news is that you <em>don&rsquo;t have to</em>. While VIP Elite will give you access to more features, those aren&rsquo;t necessarily going to get you more matches (though they could).</p>
 <p></p>
 <p>The free version of Dil Mil will still get you:</p>
@@ -217,7 +217,7 @@ seo:
 <p>Instead of paying for the premium app subscription, why not focus instead on leveling up your dating profile so that your potential matches come to you? If that sounds like a good idea (<em>and why wouldn&rsquo;t it?</em>), <a href="https://thematchartist.com/online-dating-photographer-near-me">get in touch with The Match Artist</a>!</p>
 <p></p>
 <p>With our expertise, professional photographers, and facial expression coaching, we&rsquo;ll help you make sure that your dating profile stands out from the crowd so that you&rsquo;ll never have to pay for a premium subscription again!</p>
-<h2>Dil Mil Free App Features FAQs</h2>
+<h2 id="dil-mil-free-app-features-faqs"><a href="#dil-mil-free-app-features-faqs">Dil Mil Free App Features FAQs</a></h2>
 <h3>Do you have to pay for Dil Mil?</h3>
 <p>No, you don&rsquo;t have to pay for Dil Mil on the basic version of the app. However, the free version is a little limited and you don&rsquo;t have a lot of swipes available to you.</p>
 <p></p>
@@ -228,7 +228,7 @@ seo:
 <p>If you&rsquo;re a free user on the app, you will be able to view some of the Elite Picks and won&rsquo;t be able to interact with any of them.</p>
 <p></p>
 <p>If you&rsquo;re a VIP Elite user, you&rsquo;ll be able to view all 12 profiles and can swipe on them.</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://blog.dilmil.co/is-dil-mil-safe">blog.dilmil.co</a></p>

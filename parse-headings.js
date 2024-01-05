@@ -1,6 +1,6 @@
 const fs = require('fs');
 // read theme color from _data/site.json
-fs.readdir('./content/bumble/', 'utf8', function (err, files) {
+fs.readdir('./content/dil-mil/', 'utf8', function (err, files) {
   if (err) {
     console.log(err);
     return;
@@ -10,7 +10,7 @@ fs.readdir('./content/bumble/', 'utf8', function (err, files) {
     const file = files[i];
 
     fs.readFile(
-      `./content/bumble/${file}`,
+      `./content/dil-mil/${file}`,
       'utf8',
       function (err, fileContents) {
         if (err) {
@@ -39,7 +39,7 @@ fs.readdir('./content/bumble/', 'utf8', function (err, files) {
           `<h2 id="${headerStringSlug}"><a href="#${headerStringSlug}">${headerString}</a></h2>`
         );
 
-        fs.writeFile(`./content/bumble/${file}`, newFileContents, (err) => {
+        fs.writeFile(`./content/dil-mil/${file}`, newFileContents, (err) => {
           if (err) {
             console.log(err);
             return;

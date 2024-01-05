@@ -108,7 +108,7 @@ seo:
 <p>Not sure you believe us? Just <a href="https://thematchartist.com/case-studies">check out what some of our past clients have had to say</a>!</p>
 <p></p>
 <p>Improving your photos is not only easy (<em>all you have to do is look at the camera, while we click the shutter</em>), it&rsquo;s also <em>a must</em> if you want to make sure your profile gets noticed!</p>
-<h2>How Do You Like a Match in the Standout Tab?</h2>
+<h2 id="how-do-you-like-a-match-in-the-standout-tab"><a href="#how-do-you-like-a-match-in-the-standout-tab">How Do You Like a Match in the Standout Tab?</a></h2>
 <p>Liking a match in the Standout tab is a simple and user-friendly process.&nbsp;</p>
 <p></p>
 <p>First, navigate to the Standouts feed by tapping the Star icon located in the app&rsquo;s bottom menu bar panel.&nbsp;</p>
@@ -116,7 +116,7 @@ seo:
 <p>Once there, you can browse the curated list of profiles and engage with those that pique your interest.&nbsp;</p>
 <p></p>
 <p>Note that you can <em>only</em> Like someone on your Standouts list by sending them a Rose.&nbsp;</p>
-<h2>Using Roses on Hinge</h2>
+<h2 id="using-roses-on-hinge"><a href="#using-roses-on-hinge">Using Roses on Hinge</a></h2>
 <p>Roses on Hinge operate in much the same way that Super Likes do on Tinder. While you can send a Rose to any profile, you should bear in mind that:</p>
 <p></p>
 <ul>
@@ -142,13 +142,13 @@ seo:
 <p>Hinge (and we) recommend also sending a comment along with your Rose. Not only is it a great way to break the ice, <a href="https://hingeapp.zendesk.com/hc/en-us/articles/360007906593-Liking-and-Commenting-in-Discover">according to Hinge</a> it could even increase your response rate by up to three times!</p>
 <p></p>
 <p>To use a Rose when browsing your Standouts feed, simply tap on the Rose icon next to the Heart icon, and watch as your Like blooms into a memorable gesture!</p>
-<h2>Does Hinge Tell You If You&rsquo;re on Standouts?</h2>
+<h2 id="does-hinge-tell-you-if-you&rsquo;re-on-standouts"><a href="#does-hinge-tell-you-if-you&rsquo;re-on-standouts">Does Hinge Tell You If You&rsquo;re on Standouts?</a></h2>
 <p>Hinge <a href="https://techzillo.com/am-i-on-hinge-standouts/">does not</a> directly notify you when your profile is featured on Standouts on someone else&rsquo;s feed.&nbsp;</p>
 <p></p>
 <p>However, if you suddenly start receiving a bunch of Roses and comments, you more than likely have made it onto people&rsquo;s Standouts feeds!</p>
 <p></p>
 <p>Keep in mind that the more captivating and genuine your profile appears, the more likely it is to be featured.</p>
-<h2>Is Using This Feature Worth the Cost?</h2>
+<h2 id="is-using-this-feature-worth-the-cost"><a href="#is-using-this-feature-worth-the-cost">Is Using This Feature Worth the Cost?</a></h2>
 <p>Standouts is a free feature, but with only one free Rose a week, you may find yourself spending a fair amount, especially if you see more than one person who&rsquo;s just your type on it!</p>
 <p></p>
 <p>The issue is that the folks you see on your Standouts feed may never make it onto your Discover feed. So, unless you have really good self control and a sixth sense when it comes to knowing who&rsquo;s likely to match with you, it could all get a little out of hand.</p>
@@ -166,7 +166,7 @@ seo:
 <p>Spending on Roses could not only be costly, but also ultimately fruitless, as there&rsquo;s no guarantee that it&rsquo;ll lead to anything!&nbsp;</p>
 <p></p>
 <p>On the other hand, making sure that you have incredible professional photos could mean that <em>you&rsquo;re</em> the recipient of more Roses than you can shake a stick at!</p>
-<h2>Final Thoughts</h2>
+<h2 id="final-thoughts"><a href="#final-thoughts">Final Thoughts</a></h2>
 <p>Standouts is more than just a showcase of attractive profiles, it&rsquo;s a carefully curated list of suggestions that considers various factors. These include location, shared hobbies, and compatibility, all which could help you find a genuine connection with someone who shares your interests and values.</p>
 <p></p>
 <p>Your profile is your virtual window, door, and threshold to potential matches, so it&rsquo;s important to make sure that your profile is one that a potential match wouldn&rsquo;t be able to say no to!</p>
@@ -212,7 +212,7 @@ seo:
 <p>All you&rsquo;ll have to do is trust us, we&rsquo;ll make sure you&rsquo;re in frame, and in under two weeks you&rsquo;ll have your images back!</p>
 <p></p>
 <p>It honestly couldn&rsquo;t be easier, and we promise that your new images will have others smashing their Like button and sending you more messages than you can handle!</p>
-<h2>Hinge Standouts FAQs</h2>
+<h2 id="hinge-standouts-faqs"><a href="#hinge-standouts-faqs">Hinge Standouts FAQs</a></h2>
 <h3>Does Hinge show most attractive first?</h3>
 <p>Hinge doesn&rsquo;t show the dating profiles it deems to be &ldquo;most attractive&rdquo; first in your feed. Instead, it has a somewhat more personalized approach, rather than focusing just on your appearance.&nbsp;</p>
 <p></p>
@@ -273,7 +273,7 @@ seo:
 <p>However, if you want to increase your chances of making a meaningful connection, you could consider purchasing extra Roses, or upgrading your account to either Hinge+ or HingeX.&nbsp;</p>
 <p></p>
 <p>Upgrading unlocks additional features, such as the ability to send unlimited Likes, Boosts, advanced preferences, and the ability to see who has already Liked you.</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://hingeapp.zendesk.com/hc/en-us/articles/360057625534-What-is-Standouts-">hingeapp.zendesk.com</a></p>

@@ -310,7 +310,7 @@ seo:
 <p>To avoid future bans, be sure to adhere to Hinge&rsquo;s terms of service by engaging in respectful behavior and not sharing inappropriate content or spamming.&nbsp;</p>
 <p></p>
 <p>Additionally, measures such as using a VPN to change your IP address could offer an extra layer of protection, helping to increase your chances of success!</p>
-<h2>Frequently Asked Questions&nbsp;</h2>
+<h2 id="frequently-asked-questions&nbsp;"><a href="#frequently-asked-questions&nbsp;">Frequently Asked Questions&nbsp;</a></h2>
 <h3>Are all Hinge bans permanent?</h3>
 <p>Typically, yes, most Hinge bans are permanent. This means once a user has been banned, they are permanently excluded from using the app.&nbsp;</p>
 <p></p>
@@ -323,7 +323,7 @@ seo:
 <p>Technically, creating a new account after being banned is against Hinge&rsquo;s rules. However, some users have found ways around this, such as using new phones, new phone numbers, and different photos for the new account.&nbsp;</p>
 <p></p>
 <p>This should be done carefully, however, to avoid being detected by Hinge&rsquo;s algorithm which could risk a further ban.</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="http://www.hinge.co/">hinge.co</a></p>

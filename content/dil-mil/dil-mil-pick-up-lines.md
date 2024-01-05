@@ -466,7 +466,7 @@ seo:
 <p>&ldquo;Are you as beautiful on the inside as you are on the outside?&rdquo;</p>
 </li>
 </ul>
-<h2>Key Takeaways</h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p>If you&rsquo;re looking for someone who could potentially be &ldquo;the one,&rdquo; then you need to pay attention to the first message that you send.</p>
 <p></p>
 <p>Whether you choose to go flirty or deep, dating on Dil Mil is all about getting to know and finding a link, so that you can hopefully take your journey off the page and into real life!</p>
@@ -500,7 +500,7 @@ seo:
 <p>While we can&rsquo;t write your first message for you, we can help when it comes to your profile pics! If you need to upgrade your profile photo game, <a href="https://thematchartist.com/online-dating-photographer-near-me">book your shoot with The Match Artist today</a>!</p>
 <p></p>
 <p>Our professional photographers will take amazing photos that not only you&rsquo;ll love, but your matches will too!</p>
-<h2>FAQs</h2>
+<h2 id="faqs"><a href="#faqs">FAQs</a></h2>
 <h3>Does Dil Mil really work?</h3>
 <p>According to Dil Mil, they have <a href="https://dilmil.co/blog/successstories">heaps of success stories</a> from people who met on the app, fell in love, and even got married!</p>
 <p></p>
@@ -557,7 +557,7 @@ seo:
 <p>Be yourself and be honest!</p>
 </li>
 </ul>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://blog.dilmil.co/is-dil-mil-safe/">blog.dilmil.co</a></p>

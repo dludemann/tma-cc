@@ -204,7 +204,7 @@ seo:
 <p>If you&rsquo;re a VIP Elite member, you&rsquo;ll be able to view all of these profiles and interact with them (ie, swipe on them). If you match, you&rsquo;ll then be able to chat with them as usual.</p>
 <p></p>
 <p>Free users can only see a portion of daily Elite Picks and won&rsquo;t have the ability to interact with them.</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://blog.dilmil.co/how-to-get-10x-more-matches-with-dil-mil-vip-elite">blog.dilmil.co</a></p>

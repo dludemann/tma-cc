@@ -119,7 +119,7 @@ seo:
 </ul>
 <p></p>
 <p>Your mission, therefore (after making sure that your profile is interesting enough for someone to want to match with you), should be to make sure that your first message gives you a great shot at connecting with the other person!</p>
-<h2>Who Texts First on Dil Mil?</h2>
+<h2 id="who-texts-first-on-dil-mil"><a href="#who-texts-first-on-dil-mil">Who Texts First on Dil Mil?</a></h2>
 <p>On Dil Mil, unlike with other dating apps such as Bumble, anyone has the ability to slide into their matches&rsquo; inbox first.</p>
 <p></p>
 <p>The process of matching on Dil Mil is the same as most other apps:</p>
@@ -147,7 +147,7 @@ seo:
 <p>In our opinion, though both of you can message first, if you&rsquo;ve matched with someone, don&rsquo;t delay in sending that first message! As they say: strike while the iron is hot!</p>
 <p></p>
 <p>Sending that first message quickly shows that you&rsquo;re interested in the other person and you&rsquo;re bringing the right energy to your conversation!</p>
-<h2>How Do Girls Start Conversations on Dil Mil?</h2>
+<h2 id="how-do-girls-start-conversations-on-dil-mil"><a href="#how-do-girls-start-conversations-on-dil-mil">How Do Girls Start Conversations on Dil Mil?</a></h2>
 <p>While, to a certain extent, the way girls can start conversations is very similar to how guys can, there are a few hints and tips that could make it a little easier!&nbsp;</p>
 <p></p>
 <p>We know that sending the first message can often be intimidating, especially if you&rsquo;re not used to putting yourself out there.</p>
@@ -189,7 +189,7 @@ seo:
 <p>Of course, many of these tips are applicable whether you&rsquo;re a girl looking to meet a guy, a guy looking to meet a girl, or any other version of &ldquo;person meets person&rdquo; you can think of!</p>
 <p></p>
 <p>Dil Mil is primarily aimed at South Asian heterosexual couples, but they do also have an active LGBTQIA+ user base.</p>
-<h2>How Do I Keep My Dil Mil Chats Interesting?</h2>
+<h2 id="how-do-i-keep-my-dil-mil-chats-interesting"><a href="#how-do-i-keep-my-dil-mil-chats-interesting">How Do I Keep My Dil Mil Chats Interesting?</a></h2>
 <p>When it comes to keeping your conversations interesting, focus on getting to know the other person first and becoming friends.&nbsp;</p>
 <p></p>
 <p>People who become friends make great couples, and if you&rsquo;re looking for someone who you could potentially marry, share a life together, and one day have a family with, it&rsquo;s a great idea to get to know them deeply and intimately.</p>
@@ -241,7 +241,7 @@ seo:
 <p>Keeping the conversation going is all about making sure that you&rsquo;re keeping the other person engaged enough to want to keep talking to you, and that you&rsquo;re able to find a connection so the conversation becomes easy and natural!</p>
 <p></p>
 <p>And, if you&rsquo;re both feeling it, move things off the app and IRL quickly! That way you can begin to build on what you&rsquo;ve already started and see if the spark is there in person.</p>
-<h2>Easy First Messages You Can Try on Dil Mil</h2>
+<h2 id="easy-first-messages-you-can-try-on-dil-mil"><a href="#easy-first-messages-you-can-try-on-dil-mil">Easy First Messages You Can Try on Dil Mil</a></h2>
 <p>So, with all that said, let&rsquo;s get into some examples! Here are our top nine easy first messages you can try out.</p>
 <h3>Mention Something You Liked From Their Profile</h3>
 <p>It goes without saying, but showing that you&rsquo;ve actually paid attention to information that&rsquo;s been given to you is a good way to begin to connect with someone! And it doesn&rsquo;t have to be a physical trait, either &mdash; in fact, it&rsquo;s better if it isn&rsquo;t.</p>
@@ -275,7 +275,7 @@ seo:
 <p>For example, &ldquo;<em>Who would you say has had the most impact in your life and why?</em>&rdquo;</p>
 <h3>Send a GIF</h3>
 <p>Finally, don&rsquo;t underestimate the power of GIFs, emojis, and memes! Sometimes a picture really <em>is</em> worth a thousand words!</p>
-<h2>Funny Dil Mil Conversation Starters</h2>
+<h2 id="funny-dil-mil-conversation-starters"><a href="#funny-dil-mil-conversation-starters">Funny Dil Mil Conversation Starters</a></h2>
 <p>Looking to show off your sense of humor? We&rsquo;ve got you with our best funny conversation starters to try on Dil Mil.</p>
 <h3>&ldquo;Can I have your picture so I can show Santa what I want for Christmas?&rdquo;</h3>
 <p>Yes, it&rsquo;s a little cheesy, but it&rsquo;s also bound to get a smile out of the other person and a response. Even better if you use this one close to Christmas!</p>
@@ -287,7 +287,7 @@ seo:
 <p>Any line delivered well can be effective if you make sure that you&rsquo;re not cocky! Add an emoji or GIF to make it clear that you&rsquo;re being funny!</p>
 <h3>&ldquo;If you were a vegetable, you&rsquo;d be a cute-cumber.&rdquo;</h3>
 <p>It&rsquo;s silly, it&rsquo;s cute, and it&rsquo;s sweet and short! Throw in an open-ended question at the end and you&rsquo;re onto a winner!</p>
-<h2>Opening Lines Girls Can Use</h2>
+<h2 id="opening-lines-girls-can-use"><a href="#opening-lines-girls-can-use">Opening Lines Girls Can Use</a></h2>
 <p>Are you a girl in need of a bit of inspiration for a first line? Try these on for size:</p>
 <p></p>
 <ul>
@@ -319,7 +319,7 @@ seo:
 <p>&ldquo;<em>Two truths and a lie: go!</em>&rdquo;</p>
 </li>
 </ul>
-<h2>Opening Lines Guys Can Use</h2>
+<h2 id="opening-lines-guys-can-use"><a href="#opening-lines-guys-can-use">Opening Lines Guys Can Use</a></h2>
 <p>Looking for a first line to impress a girl? Give these a go:</p>
 <p></p>
 <ul>
@@ -351,7 +351,7 @@ seo:
 <p>&ldquo;<em>Describe yourself in three emojis: go!</em>&rdquo;</p>
 </li>
 </ul>
-<h2>Flirty Dil Mil Conversation Starters</h2>
+<h2 id="flirty-dil-mil-conversation-starters"><a href="#flirty-dil-mil-conversation-starters">Flirty Dil Mil Conversation Starters</a></h2>
 <p>Looking for a flirty conversation starter? Why not try these ones out:</p>
 <p></p>
 <ul>
@@ -383,7 +383,7 @@ seo:
 <p>&ldquo;<em>I&rsquo;m sorry, I can&rsquo;t play hide and seek with you &mdash; someone as gorgeous as you are is just too hard to find.</em>&rdquo;</p>
 </li>
 </ul>
-<h2>Witty Dil Mil Conversation Starters</h2>
+<h2 id="witty-dil-mil-conversation-starters"><a href="#witty-dil-mil-conversation-starters">Witty Dil Mil Conversation Starters</a></h2>
 <p>Humor and wit is a bit more your style than flirty? Try some of these conversation starters:</p>
 <p></p>
 <ul>
@@ -415,7 +415,7 @@ seo:
 <p>&ldquo;<em>Hey, didn&rsquo;t we go to college together? Because I&rsquo;m sure we had chemistry.</em>&rdquo;</p>
 </li>
 </ul>
-<h2>Key Takeaways</h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p>When it comes to your first message on Dil Mil, it&rsquo;s important to make sure that it can capture the other person&rsquo;s attention and get them to respond.</p>
 <p></p>
 <p>Remember that the competition is likely to be high &mdash; especially on Dil Mil, where women tend to be less responsive than men.</p>
@@ -459,7 +459,7 @@ seo:
 <p>The number one thing you should improve? <em>Your photos!</em>&nbsp;</p>
 <p></p>
 <p><a href="https://thematchartist.com/online-dating-photographer-near-me">Get in touch with The Match Artist</a> and we&rsquo;ll help you level up your profile photos to get you more matches, so you can go back to worrying about that first message!</p>
-<h2>Effective Dil Mil Conversation Starters FAQs</h2>
+<h2 id="effective-dil-mil-conversation-starters-faqs"><a href="#effective-dil-mil-conversation-starters-faqs">Effective Dil Mil Conversation Starters FAQs</a></h2>
 <h3>How can I spice up my chats on Dil Mil?</h3>
 <p>There&rsquo;s a few different ways you can spice up your Dil Mil chat with your match. This includes:</p>
 <p></p>
@@ -522,7 +522,7 @@ seo:
 <p>Dil Mil will only send read receipts if you&rsquo;re a <a href="https://dilmil.helpshift.com/hc/en/3-dil-mil/faq/200-how-do-i-know-if-a-message-has-been-read">Dil Mil VIP Elite subscriber, or have bought read receipts as in-app purchases</a>.&nbsp;</p>
 <p></p>
 <p>If you&rsquo;re a VIP Elite member, you&rsquo;ll be able to unlock one read receipt monthly for free. Any on top of this need to be purchased.</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://blog.dilmil.co/5-conversation-starters-that-actually-work">blog.dilmil.co</a></p>
