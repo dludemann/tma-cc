@@ -48,8 +48,14 @@ _inputs:
     options:
       values: data.locations
       value_key: city
+      preview:
+        text:
+          - key: city
   state:
     type: select
     options:
       values: data.locations
       value_key: state
+      preview:
+        text:
+          - key: state
