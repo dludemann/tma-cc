@@ -47,7 +47,7 @@ seo:
 </ul>
 <p></p>
 <p>Let&rsquo;s get started so that you can stay safe in the world of online dating!</p>
-<h2>Why Do People Make Fake Bumble Profiles?</h2>
+<h2 id="why-do-people-make-fake-bumble-profiles"><a href="#why-do-people-make-fake-bumble-profiles">Why Do People Make Fake Bumble Profiles?</a></h2>
 <p>The first thing to understand about those who create fake profiles is that it&rsquo;s <em>attention-seeking behavior</em> and that it has nothing to do with you. When you&rsquo;re just a computer-generated image on a screen, it&rsquo;s easy to hide, or live in a fantasy, rather than bother making real connections.</p>
 <p></p>
 <p><a href="https://www.cbsnews.com/news/why-would-someone-create-a-fake-online-personality">Some psychologists have suggested</a> that this sort of behavior can be related to mental illness or an inability to live in the real world. They suggest that those who create fake profiles may be lacking in their lives, or have low self-esteem.</p>

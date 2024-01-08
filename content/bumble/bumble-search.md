@@ -59,7 +59,7 @@ seo:
 </ul>
 <p></p>
 <p>Let&rsquo;s get into it!</p>
-<h2>Does Bumble Have a Search Feature?</h2>
+<h2 id="does-bumble-have-a-search-feature"><a href="#does-bumble-have-a-search-feature">Does Bumble Have a Search Feature?</a></h2>
 <p><img src="https://cdn.buttercms.com/g4SHaEfPTjSpLjs6GvvX"></p>
 <p>Unfortunately, Bumble doesn&rsquo;t have a <a href="https://bumble.com/en/help/can-i-search-for-a-specific-person-on-bumble">direct search</a> feature. In fact, you&rsquo;d be hard pressed to find one on most dating apps!</p>
 <p></p>
@@ -68,7 +68,7 @@ seo:
 <p>However, Bumble is just a tool, and using tools for tasks they&rsquo;re not designed for is <a href="https://carta.anthropogeny.org/sites/default/files/file_fields/event/Fall2018_Talk_Abstracts.pdf">practically human nature</a>!</p>
 <p></p>
 <p>There may be some occasions where you want to search for a specific person, and in that case there are some workarounds.</p>
-<h2>Top Reasons Why You Would Want to Find Somebody on Bumble</h2>
+<h2 id="top-reasons-why-you-would-want-to-find-somebody-on-bumble"><a href="#top-reasons-why-you-would-want-to-find-somebody-on-bumble">Top Reasons Why You Would Want to Find Somebody on Bumble</a></h2>
 <p>Why would you ever want to find someone on Bumble? Well, there are a few reasons.&nbsp;</p>
 <h3>It&rsquo;s a Missed Connection</h3>
 <p>The most romantic reason you may be looking for someone on Bumble might be to find a &ldquo;missed connection&rdquo;.</p>
@@ -90,7 +90,7 @@ seo:
 <p>Now, while we would always recommend that rather than starting to dive into detective mode, you should always have a conversation with your partner first, that may not always be possible.</p>
 <p></p>
 <p>In a relationship without trust or respect, finding a Bumble profile might be the only way to discover the truth.</p>
-<h2>The Ethics of Searching for Somebody on Bumble</h2>
+<h2 id="the-ethics-of-searching-for-somebody-on-bumble"><a href="#the-ethics-of-searching-for-somebody-on-bumble">The Ethics of Searching for Somebody on Bumble</a></h2>
 <p>Bumble users sign up under the assumption that other users will be acting in good faith. The tacit social agreement in online dating is this: users protect one another&rsquo;s privacy.&nbsp;</p>
 <p></p>
 <p>In the online world, however, privacy is a na&iuml;ve expectation.</p>
@@ -112,7 +112,7 @@ seo:
 <p><a href="https://www.scott.af.mil/Portals/28/Effective%20Communication%20in%20relationships_Worksheet.pdf">Effective communication</a> and <a href="https://thekeep.eiu.edu/cgi/viewcontent.cgi?article=1018&amp;context=honors_theses">trust</a> are both crucial to the success of relationships. If you really want things to work out, try talking to your significant other before you go searching Bumble. It&rsquo;s a healthier approach, and maybe less effort.</p>
 <p></p>
 <p>On the other hand, if you&rsquo;re ready to burn that bridge, fire up Bumble, and let&rsquo;s dive in!</p>
-<h2>Can You Search Bumble Without Having a Profile?</h2>
+<h2 id="can-you-search-bumble-without-having-a-profile"><a href="#can-you-search-bumble-without-having-a-profile">Can You Search Bumble Without Having a Profile?</a></h2>
 <p>You cannot search Bumble without a profile. As far as Bumble&rsquo;s developers are concerned, why would you want to?&nbsp;</p>
 <p></p>
 <p>Bumble is built for matching people with potential partners in their area who share interests and fall within a specified age range. It is specifically engineered to empower women and give them the chance to make the first move.&nbsp;</p>
@@ -120,7 +120,7 @@ seo:
 <p>This feature is supposed to protect women from the harassment and stalking they often face on other dating websites, such as Tinder.&nbsp;</p>
 <p></p>
 <p>Additionally, Bumble <a href="https://bumble.com/the-buzz/bumble-profile-verification-reasons">encourages</a> and occasionally <a href="https://bumble.com/en/help/how-can-i-verify-my-profile">mandates</a> profile verification. They do this to discourage catfishing, shell accounts, and fake profiles.</p>
-<h2>Can I Search On Bumble Discreetly?</h2>
+<h2 id="can-i-search-on-bumble-discreetly"><a href="#can-i-search-on-bumble-discreetly">Can I Search On Bumble Discreetly?</a></h2>
 <p>The only &ldquo;discreet&rdquo; use encouraged by Bumble is <a href="https://bumble.com/en/help/what-is-incognito-mode">Incognito Mode</a>.&nbsp;</p>
 <p></p>
 <p>This is a feature available to owners of a premium membership with Bumble. Incognito mode only shares users&rsquo; accounts with the people they have swiped right on.&nbsp;</p>
@@ -132,7 +132,7 @@ seo:
 <p>Bumble&rsquo;s <a href="https://bumble.com/en/help/what-is-snooze#:~:text=Snooze%20Mode%20allows%20you%20to,%2C%20a%20week%2C%20or%20indefinitely.">Snooze</a> feature also allows you to switch intermittently between a visible active account and an invisible dormant account.&nbsp;</p>
 <p></p>
 <p>Keep in mind that even if you have the Snooze feature activated, when you&rsquo;re swiping, you will be visible.</p>
-<h2>How Can You Tell If Someone Is on Bumble?</h2>
+<h2 id="how-can-you-tell-if-someone-is-on-bumble"><a href="#how-can-you-tell-if-someone-is-on-bumble">How Can You Tell If Someone Is on Bumble?</a></h2>
 <p><img src="https://cdn.buttercms.com/QY1v00lRHyt5SWTRZyCl"></p>
 <p>The simplest way to find out if someone is on Bumble is to get swiping. This is essentially just boring gumshoe detective work. Get onto the app and browse as many pages as you possibly can!</p>
 <p></p>
@@ -357,5 +357,18 @@ seo:
 </li>
 <li>
 <p><a href="https://bumble.com/en/the-buzz/no-more-mirror-selfies-youre-welcome-folks">bumble.com</a></p>
+</li>
+</ol>
+e.com</a></p>
+</li>
+</ol>
+m</a></p>
+</li>
+</ol>
+>
+</li>
+</ol>
+</li>
+</ol>
 </li>
 </ol>

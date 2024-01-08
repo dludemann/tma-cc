@@ -73,7 +73,7 @@ seo:
 </ul>
 <p></p>
 <p>Let&rsquo;s get into it!</p>
-<h2>What Is Bumble?</h2>
+<h2 id="what-is-bumble"><a href="#what-is-bumble">What Is Bumble?</a></h2>
 <p>Launched in 2014, Bumble is a dating and networking app, which uses your location to find matches in your area within a certain distance. As with other dating apps, you create a profile, specify certain criteria (such as gender, interests, and more), and upload a few pictures.&nbsp;</p>
 <p></p>
 <p>When you browse through the app, if you see someone you like, you can swipe right on them. If you don&rsquo;t like them, you can swipe left and move on.</p>
@@ -83,7 +83,7 @@ seo:
 <p>So, if you and your potential match both mutually swipe right on each other, <em>only the woman</em> can message first. If after 24 hours there is no first message, the match is deleted.</p>
 <p></p>
 <p>Left swipes are also not forever, which is pretty interesting, and takes away from the gamification of certain other apps.</p>
-<h2>What Is Unique About Bumble?&nbsp;</h2>
+<h2 id="what-is-unique-about-bumble&nbsp;"><a href="#what-is-unique-about-bumble&nbsp;">What Is Unique About Bumble?&nbsp;</a></h2>
 <p><img src="https://cdn.buttercms.com/DP5R7z7JRp6ySDSzlSqt"></p>
 <p>Thanks to women-initiated conversations on Bumble, this makes the platform unique and allows women on the app to set the pace of their conversations.&nbsp;</p>
 <p></p>
@@ -102,7 +102,7 @@ seo:
 <p>With Bumble Premium you can even activate <a href="https://bumble.com/en/help/what-is-incognito-mode">Incognito Mode</a>, a feature which allows you to have total control over who can view your profile when browsing others&rsquo;.&nbsp;</p>
 <p></p>
 <p><em>Pretty handy if you want to avoid coworkers, nosy neighbors, or mutual friends!</em></p>
-<h2>Pros of Using Bumble</h2>
+<h2 id="pros-of-using-bumble"><a href="#pros-of-using-bumble">Pros of Using Bumble</a></h2>
 <p></p>
 <h3><strong>Empowers women</strong></h3>
 <p>Thanks to the female-led focus, women are free to take the lead when it comes to connecting with everyone they really want to. On most dating apps, women are inundated with messages, which can lead to <a href="https://www.nytimes.com/2022/08/31/well/mind/burnout-online-dating-apps.html">dating app fatigue</a>. However, as Bumble only allows women to send the first message, that means no more having to field you-know-what pics and endless &ldquo;Hey&rdquo; messages!</p>
@@ -131,7 +131,7 @@ seo:
 <h3><strong>Video calling and voice chat are available in-app</strong></h3>
 <p>Not sure if you&rsquo;re ready to meet IRL yet? Bumble allows singles to make voice and video calls from <em>within</em> the app itself to protect your privacy, so no need to give out your phone number if you&rsquo;re not ready to!</p>
 <h3></h3>
-<h2>Cons of Using Bumble</h2>
+<h2 id="cons-of-using-bumble"><a href="#cons-of-using-bumble">Cons of Using Bumble</a></h2>
 <p><strong></strong></p>
 <h3><strong>Men can&rsquo;t send the first message</strong></h3>
 <p>This may not be a con for everyone, but if you&rsquo;re the kind of guy who likes to take charge, you may find it frustrating not being able to initiate conversation. On the other hand, if you&rsquo;re a woman who&rsquo;s a little shy, it can be incredibly intimidating to have to send that first message!</p>
@@ -181,7 +181,7 @@ seo:
 </li>
 </ul>
 <p>While it&rsquo;s popular, Bumble hasn&rsquo;t quite taken over from more popular apps, such as Tinder. Therefore there may be more competition and less opportunity to meet new people.</p>
-<h2>How Bumble&rsquo;s Algorithm Works</h2>
+<h2 id="how-bumbles-algorithm-works"><a href="#how-bumbles-algorithm-works">How Bumble&rsquo;s Algorithm Works</a></h2>
 <p><img src="https://cdn.buttercms.com/dnm3ktExSXEXkKMycGZ7" width="1200" height="600"></p>
 <p>As with other dating apps, there&rsquo;s an algorithm behind Bumble that determines how you see other users, and how they view your profile.&nbsp;</p>
 <p></p>
@@ -214,7 +214,7 @@ seo:
 <p></p>
 <h3><strong>Bumble learns through the information you give it</strong></h3>
 <p>Since you have the option to set filters in order to find your perfect match, this is primarily how the algorithm presents you with profiles. However, if you&rsquo;re too specific, you could be shown too small a pool of users, and if you&rsquo;re too general, it could be hard to really find someone who matches the types of people you&rsquo;re looking to meet.</p>
-<h2>How to Get Started With Bumble</h2>
+<h2 id="how-to-get-started-with-bumble"><a href="#how-to-get-started-with-bumble">How to Get Started With Bumble</a></h2>
 <p>Ready to set up your Bumble account? A basic account is free and easy to set up. You&rsquo;ll just need to make sure that you:</p>
 <p></p>
 <ul>
@@ -291,7 +291,7 @@ seo:
 <p>Finally, when setting up your profile, you have the option to link both your Instagram and Spotify accounts to your Bumble profile. This will then automatically show your most recent Instagram posts, or most recently played Spotify tracks on your profile.</p>
 <p></p>
 <p>While this can be a great way to give others a bit of insight into your life, be aware that it can also be a privacy concern.</p>
-<h2>Top Tips</h2>
+<h2 id="top-tips"><a href="#top-tips">Top Tips</a></h2>
 <p>We know that setting up a profile can be intimidating, so here&rsquo;s some of our top tips which could help you get a few more clicks of the Heart icon!</p>
 <p><strong></strong></p>
 <h3><strong>Keep it positive</strong></h3>
@@ -306,7 +306,7 @@ seo:
 <h3><strong>Verify your profile</strong></h3>
 <p>Verifying your profile lets other potential matches know that you are who you say you are, which helps to make you seem safe and approachable. A big tick in your favor!</p>
 <h3></h3>
-<h2>Set Your Match Preferences</h2>
+<h2 id="set-your-match-preferences"><a href="#set-your-match-preferences">Set Your Match Preferences</a></h2>
 <p>Finally, make sure you set your match preferences. You can do this in the Settings section of the app.</p>
 <p></p>
 <p>Basic filters include:</p>
@@ -1082,4 +1082,31 @@ seo:
 <li>
 <p><a href="https://mashable.com/article/tinder-weddings-swipe-right-decor">mashable.com</a></p>
 </li>
+</ol>
+</ol>
+</ol>
+</li>
+</ol>
+</ol>
+</ol>
+>
+</ol>
+</ol>
+li>
+</ol>
+</ol>
+</ol>
+>
+</ol>
+</ol>
+>
+</ol>
+</ol>
+>
+</ol>
+</ol>
+</ol>
+</ol>
+>
+</ol>
 </ol>
