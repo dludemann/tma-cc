@@ -38,7 +38,7 @@ seo:
 <p><b>&nbsp;</b></p>
 <p dir="ltr"><span>Let&rsquo;s get into it!</span></p>
 <p></p>
-<h2 dir="ltr"><span>How Guys Swipe on Tinder</span></h2>
+<h2 id="how-guys-swipe-on-tinder"><a href="#how-guys-swipe-on-tinder">How Guys Swipe on Tinder</a></h2>
 <p dir="ltr"><span>According to a </span><a href="https://arxiv.org/abs/1607.01952"><span>study</span></a><span> on how users communicate with each other when they match, researchers found that while 21% of women would send a message first, in contrast only 7% of men would.</span><b></b></p>
 <p dir="ltr"><span>The researchers concluded that the way men swiped on Tinder was the reason behind this, as they were more likely to Swipe Right on a larger number of people (</span><span>or even everyone!</span><span>), without taking into account their bio or personality.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Once they had matched, the possibility that they actually sent the first message was much lower, as the attention they received from the matches were enough to thrill and satisfy them.</span><b></b></p>
@@ -46,13 +46,13 @@ seo:
 <p dir="ltr"><span>Additionally, a survey conducted by the </span><a href="https://www.washingtonpost.com/news/wonk/wp/2016/07/26/why-everyone-is-miserable-on-tinder"><span>Washington Post</span></a><span> showed that roughly one third of men would &ldquo;casually like most profiles&rdquo;. On the other hand, women tended to only Swipe Right on someone they were attracted to.</span><b></b></p>
 <p dir="ltr"><span>Ultimately, however, the way that men tended to Swipe, actually had the opposite of their intention. Since women tended to be overwhelmed, they then tended to be pickier as they had more choice. This, in turn, led to men being a lot </span><span>less</span><span> pickier.</span><b></b></p>
 <p dir="ltr"><span>As you can see, it&rsquo;s a cycle that doesn&rsquo;t get anybody what they want!</span></p>
-<h2 dir="ltr"><span>Do Girls Ever Message First on Tinder?</span></h2>
+<h2 id="do-girls-ever-message-first-on-tinder"><a href="#do-girls-ever-message-first-on-tinder">Do Girls Ever Message First on Tinder?</a></h2>
 <p dir="ltr"><span>The short answer to this one is: yes! Of course they do!</span><b></b></p>
 <p dir="ltr"><span>However, data from Tinder shows that only 1.4% of women think they should send the first message (and 9.8% of men agree). Compared to that, 25% of women believe that men </span><span>should</span><span> send the first message.</span><b></b></p>
 <p dir="ltr"><span>On </span><a href="https://techcrunch.com/2014/12/02/bumble-is-exactly-like-tinder-except-girls-are-in-charge"><span>Bumble</span></a><span>, the power is entirely in women&rsquo;s hands, as </span><span>only</span><span> women can message first.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Tinder rolled out a similar feature (which could be toggled on and off by users) called </span><a href="https://in.tinderpressroom.com/Introducing-My-Move-Tinders-latest-setting-that-gives-women-the-choice-to-exclusively-message-first"><span>My Move</span></a><span> in 2018, but as of today, it doesn&rsquo;t appear to have been made a world-wide feature.</span><b></b></p>
 <p dir="ltr"><span>Either way, early analytical studies by </span><a href="https://theblog.okcupid.com/a-womans-advantage-82d5074dde2d"><span>OKCupid</span></a><span> showed that when women messaged first, 30% of the time it became a conversation, and men were 2.5 times more likely to message back if the woman sent the first message.</span></p>
-<h2 dir="ltr"><span>Should You Text Immediately After Matching?</span></h2>
+<h2 id="should-you-text-immediately-after-matching"><a href="#should-you-text-immediately-after-matching">Should You Text Immediately After Matching?</a></h2>
 <p dir="ltr"><span>Ah, yes &mdash; the age old question! How soon should you message someone?</span><b></b></p>
 <p dir="ltr"><span>Well, the answer will vary depending on who you talk to. They could suggest anything from 1 hour after matching, to 12&ndash;24 hours.</span><b></b></p>
 <p dir="ltr"><span>&ldquo;You don&rsquo;t want to look too keen!&rdquo; is something people often say.</span><b></b></p>
@@ -62,7 +62,7 @@ seo:
 <p dir="ltr"><span>If you&rsquo;ve matched with someone, what harm is going to come from sending them a message straight away? You&rsquo;ve got nothing to lose and everything to gain, so send a message!</span><b></b></p>
 <p dir="ltr"><span>You should definitely send a message straight away if they&rsquo;ve just matched you. They&rsquo;ll be on their phone already, increasing the chances that you could jump straight into a conversation, and potentially start talking about life.</span><b></b></p>
 <p dir="ltr"><span>It just makes sense!</span></p>
-<h2 dir="ltr"><span>Most Common Reasons Why Guys Don't Message First on Tinder</span></h2>
+<h2 id="most-common-reasons-why-guys-dont-message-first-on-tinder"><a href="#most-common-reasons-why-guys-dont-message-first-on-tinder">Most Common Reasons Why Guys Don't Message First on Tinder</a></h2>
 <h3 dir="ltr"><span>The Assumption That It is a Waste of Time if the Match Is Very Attractive</span></h3>
 <p dir="ltr"><span>So, you&rsquo;ve looked through all the photos, read the bio, and then Swiped Right on a whim. But now they&rsquo;ve matched with you and you just </span><span>know</span><span> that they&rsquo;re out of your league.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Why bother messaging when you know that ultimately they&rsquo;re going to find a better match elsewhere?</span><b></b></p>
@@ -92,17 +92,17 @@ seo:
 <p dir="ltr"><span>While you can never 100% guarantee that the person on the other end is genuine, there are several warning signs you should keep an eye out for. If it seems a little too good to be true, it very well might be!</span><b></b></p>
 <p dir="ltr"><span>Just make sure that you don&rsquo;t give out your personal information, stay safe online and, please, </span><span>don&rsquo;t send anyone any money!</span><b></b></p>
 <h3 dir="ltr"><span>Completely Burnt Out From Having Little to No Success</span></h3>
-<h2 dir="ltr"><span>Key Takeaways</span></h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p dir="ltr"><span>While men may tend to be a little more &ldquo;Swipe happy&rdquo; on Tinder, this actually decreases their chances of making a real connection with someone. And though some girls do message first, if you really are interested, then send that first message as soon as you&rsquo;ve matched!</span><b></b></p>
 <p dir="ltr"><span>There could be a whole bunch of reasons why men won&rsquo;t message first on Tinder, but really it all comes down to confidence.</span><b></b></p>
 <p dir="ltr"><span>When you </span><a href="https://thematchartist.com/online-dating-photographer-near-me"><span>work with The Match Artist</span></a><span>, we&rsquo;re invested in you as a person, just as much as you are a client. And we know all about confidence.</span><b></b></p>
-<h2 dir="ltr"><span>Why Guys Should Send The First Message</span></h2>
+<h2 id="why-guys-should-send-the-first-message"><a href="#why-guys-should-send-the-first-message">Why Guys Should Send The First Message</a></h2>
 <p dir="ltr"><span><img src="https://cdn.buttercms.com/FlO6HNIXSiCcvJjXnlII" width="624" height="448"></span></p>
 <p><b><br><br></b></p>
 <p dir="ltr"><span>Working with us isn&rsquo;t just about getting you great photos for your Tinder profile, it&rsquo;s also about showing the world who you are and how you want to be perceived.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>After all, a session with The Match Artist is more than just photography: it&rsquo;s about making you feel good, so that when we send you those final images, what you see is a happy, confident person. And then you can take that confidence and get back to Swiping and sending messages!</span><b></b></p>
 <p dir="ltr"><span>Our last piece of advice? Remember to only Swipe Right on people you&rsquo;re </span><span>really</span><span> interested in matching with and starting a conversation!</span></p>
-<h2 dir="ltr"><span>Why Do Guys Not Message First on Tinder FAQs</span></h2>
+<h2 id="why-do-guys-not-message-first-on-tinder-faqs"><a href="#why-do-guys-not-message-first-on-tinder-faqs">Why Do Guys Not Message First on Tinder FAQs</a></h2>
 <h3 dir="ltr"><span>Are guys supposed to message first on Tinder?</span></h3>
 <p dir="ltr"><span>There are no real rules to who should message first, though the fact that we live in a patriarchal society means that some women do expect men to message first. Really, if you&rsquo;re interested and you&rsquo;ve matched, send a message! You&rsquo;ve got nothing to lose.</span></p>
 <h3 dir="ltr"><span>Is it weird for a girl to message first on Tinder</span></h3>
@@ -111,7 +111,7 @@ seo:
 <p dir="ltr"><span>Sometimes. Guys are often scared of appearing &ldquo;too keen&rdquo; and put a time limit on how soon they should message once they&rsquo;ve made a match (similar to the &ldquo;how long should I wait to text after a first date&rdquo; conundrum). There could also be a whole heap of other reasons why they haven&rsquo;t messaged first (see above), but it all comes down to confidence.</span><b></b></p>
 <p dir="ltr"><span>To this we say: be brave! Making the first move is always tricky (</span><span>fear of rejection, anybody?</span><span>) but the odds are in your favor, especially if you&rsquo;ve already matched.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>There are always many reasons to convince yourself that it won&rsquo;t work out, but many more reasons to be hopeful that it could.</span></p>
-<h2 dir="ltr"><span>Sources</span></h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://arxiv.org/abs/1607.01952"><span>arxiv.org</span></a></p>
@@ -136,6 +136,61 @@ seo:
 </li>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><a href="https://www.glamour.com/story/tinder-guys-dont-message"><span>glamour.com</span></a></p>
+</li>
+</ol>
+<p></p>
+></p>
+</li>
+</ol>
+<p></p>
+ol>
+<p></p>
+></p>
+</li>
+</ol>
+<p></p>
+>
+></p>
+</li>
+</ol>
+<p></p>
+ol>
+<p></p>
+></p>
+</li>
+</ol>
+<p></p>
+ol>
+<p></p>
+>
+</li>
+</ol>
+<p></p>
+>
+></p>
+</li>
+</ol>
+<p></p>
+ol>
+<p></p>
+></p>
+</li>
+</ol>
+<p></p>
+>
+<p></p>
+/p>
+></p>
+</li>
+</ol>
+<p></p>
+li>
+</ol>
+<p></p>
+>
+<p></p>
+/p>
+></p>
 </li>
 </ol>
 <p></p>

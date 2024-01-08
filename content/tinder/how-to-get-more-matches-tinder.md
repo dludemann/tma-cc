@@ -31,7 +31,7 @@ seo:
 </ul>
 <p><b>&nbsp;</b></p>
 <p dir="ltr"><span>Ready to step up your Tinder game? Let&rsquo;s get into it!</span></p>
-<h2 dir="ltr"><span>Why Am I Not Getting Matches on Tinder?</span><span></span></h2>
+<h2 id="why-am-i-not-getting-matches-on-tinder"><a href="#why-am-i-not-getting-matches-on-tinder">Why Am I Not Getting Matches on Tinder?</a></h2>
 <p dir="ltr"><span>The first thing to understand about Tinder is how exactly it works.</span><b></b></p>
 <p dir="ltr"><a href="https://www.fastcompany.com/3054871/whats-your-tinder-score-inside-the-apps-internal-ranking-system"><span>Back in 2016</span></a><span>, a journalist with Fast Company researching how the Tinder algorithm worked was given an inside look into the company. Essentially, every user was assigned an &ldquo;Elo score&rdquo; (Chess players will be familiar with the term) which helps match users.</span><b></b></p>
 <p dir="ltr"><span>Tinder claimed that it didn&rsquo;t just measure how attractive you were but how &ldquo;desirable&rdquo; you were to others. And this wasn&rsquo;t just a matter of how many Swipes you had, either, but a variety of factors.</span><b></b></p>
@@ -63,7 +63,7 @@ seo:
 <p dir="ltr"><span>And, let&rsquo;s be honest, Tinder is all about whether or not you </span><span>look</span><span> appealing or &ldquo;desirable&rdquo; to start, before we even start talking about anything in the actual online profiles!</span><b></b></p>
 <p dir="ltr"><span>But don&rsquo;t be discouraged!</span><b></b></p>
 <p dir="ltr"><span>We&rsquo;ve got the lowdown on what&rsquo;s going to get you more matches and opportunities to send a message, start a conversation and get chatting to a potential match. And, maybe even find love!</span></p>
-<h2 dir="ltr"><span>Our Top 12 Tips for More Matches</span></h2>
+<h2 id="our-top--tips-for-more-matches"><a href="#our-top--tips-for-more-matches">Our Top 12 Tips for More Matches</a></h2>
 <h3 dir="ltr"><span>1. Fully Optimize Your Tinder Profile</span></h3>
 <p dir="ltr"><span>Filling out your profile is one thing, but have you actually </span><span>optimized</span><span> it?&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Making sure you optimize your profile could account for a lot of Swipes on your profile, or be the difference between a Yes or a Nope, so it&rsquo;s important to pay close attention.</span><b></b></p>
@@ -219,7 +219,7 @@ seo:
 <h3 dir="ltr"><span>14. Avoid Displaying Too Much &ldquo;Risky Behavior&rdquo; on Your Profile</span></h3>
 <p><b>&nbsp;</b></p>
 <h3 dir="ltr"><span>15. Don&rsquo;t Include Pictures of Your Children on Tinder</span></h3>
-<h2 dir="ltr"><span>Key Takeaways</span></h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p dir="ltr"><span>If you&rsquo;re stuck in a bit of a rut and haven&rsquo;t been getting as many matches on your Tinder profile, it may be time to switch things up!</span><b></b></p>
 <p dir="ltr"><span></span></p>
 <p dir="ltr"><span>To recap, make sure that you:</span><b></b></p>
@@ -301,3 +301,9 @@ seo:
 </li>
 </ol>
 <p></p>
+span></a></p>
+</li>
+</ol>
+<p></p>
+p>
+p>

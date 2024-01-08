@@ -110,7 +110,7 @@ seo:
 <p>A range of profile photos that show different aspects of the person&rsquo;s life and personality are good to showcase.&nbsp;</p>
 <p></p>
 <p>They also appreciate thoughtful and personalized responses to Hinge prompts.</p>
-<h2 id="-post-an-attractive-recent-primary-photo"><a href="#-post-an-attractive-recent-primary-photo">1. Post an Attractive Recent Primary Photo</a></h2>
+<h2 id="-post-an-attractive-recent-primary-photo"><a href="#post-an-attractive-recent-primary-photo">1. Post an Attractive Recent Primary Photo</a></h2>
 <p>Your primary photo should be recent, attractive, and accurately represent you. According to a <a href="https://www.narcity.com/best-photos-to-use-on-hinge-according-to-a-dating-app-expert">dating expert</a>, your primary photo should show your full face, be smiling, and you should be making eye contact with the viewer.</p>
 <p></p>
 <p>Don&rsquo;t forget to consider your background (free it of clutter), lighting (make sure it&rsquo;s good!), and the quality of the picture (use a DSLR if you can and ditch the phone camera).&nbsp;</p>
@@ -118,61 +118,61 @@ seo:
 <p>Not sure you can handle all that? That&rsquo;s okay &mdash; that&rsquo;s why The Match Artist is here! <a href="https://thematchartist.com/online-dating-photographer-near-me">Get in touch with us</a> and we can help you transform your dating photos.&nbsp;</p>
 <p></p>
 <p>Not sure what your hands or mouth should be doing in your shot? We go through extensive facial expression coaching and posing with you before shoot day, so that when you get in front of the camera, you know exactly what to do to get the best results.</p>
-<h2 id="-use-secondary-photos-that-showcase-your-personality"><a href="#-use-secondary-photos-that-showcase-your-personality">2. Use Secondary Photos That Showcase Your Personality</a></h2>
+<h2 id="-use-secondary-photos-that-showcase-your-personality"><a href="#use-secondary-photos-that-showcase-your-personality">2. Use Secondary Photos That Showcase Your Personality</a></h2>
 <p>Secondary photos should be used to show off your personality and interests, and give a potential Match a glimpse into your <a href="https://www.businessinsider.com/your-dating-profile-should-include-only-these-4-photos-2017-9">everyday life</a>.</p>
 <p></p>
 <p>Maybe you&rsquo;re part of a sports team, or you have an activity you particularly like doing &mdash; include a photo of it! Just make sure that it doesn&rsquo;t end up looking like a stock photo you stole off Google!</p>
 <p></p>
 <p>Avoid using only selfies. Instead, opt for a mix of solo and group photos so that you can paint a fuller picture of yourself.</p>
-<h2 id="-avoid-one-word-answers-when-conversing"><a href="#-avoid-one-word-answers-when-conversing">3. Avoid One-Word Answers When Conversing</a></h2>
+<h2 id="-avoid-one-word-answers-when-conversing"><a href="#avoid-one-word-answers-when-conversing">3. Avoid One-Word Answers When Conversing</a></h2>
 <p>Avoid responses that are only one or two words long when messaging with others.&nbsp;</p>
 <p></p>
 <p>Instead, show that you are interested in <em>actually</em> getting to know them by asking open-ended questions, as well as sharing details about yourself.</p>
 <p></p>
 <p>Hinge is a big platform, designed for downloads to devices, rather than using through their site. Therefore you need to be sure you can hook someone&rsquo;s attention quickly before they delete the app altogether!</p>
-<h2 id="-be-upfront-&amp;-honest-about-who-you-are"><a href="#-be-upfront-&amp;-honest-about-who-you-are">4. Be Upfront &amp; Honest About Who You Are</a></h2>
+<h2 id="-be-upfront-&amp;-honest-about-who-you-are"><a href="#be-upfront-&amp;-honest-about-who-you-are">4. Be Upfront &amp; Honest About Who You Are</a></h2>
 <p>One of the biggest mistakes you can make is to lie or omit the truth in your dating profile.&nbsp;</p>
 <p></p>
 <p>This not only applies to your deal breakers, preferences, and your intent, but also your physical appearance.</p>
 <p></p>
 <p>After all, there&rsquo;s a sense of blind trust that users put into online dating &mdash; don&rsquo;t break that!</p>
-<h2 id="-create-unique-prompts"><a href="#-create-unique-prompts">5. Create Unique Prompts</a></h2>
+<h2 id="-create-unique-prompts"><a href="#create-unique-prompts">5. Create Unique Prompts</a></h2>
 <p>Create unique prompts to showcase your personality and stand out from other profiles.&nbsp;</p>
 <p></p>
 <p>Avoid clich&eacute;s and aim to create prompts that are interesting and thought-provoking. The key is to be <em>just interesting enough</em> to be able to start a conversation &mdash; after that, it&rsquo;s best foot forward!</p>
-<h2 id="-answer-prompts-in-ways-that-will-intrigue-your-ideal-match"><a href="#-answer-prompts-in-ways-that-will-intrigue-your-ideal-match">6. Answer Prompts in Ways That Will Intrigue Your Ideal Match</a></h2>
+<h2 id="-answer-prompts-in-ways-that-will-intrigue-your-ideal-match"><a href="#answer-prompts-in-ways-that-will-intrigue-your-ideal-match">6. Answer Prompts in Ways That Will Intrigue Your Ideal Match</a></h2>
 <p>Answering prompts in unique and interesting ways can attract your ideal Match.&nbsp;</p>
 <p></p>
 <p>This is an ideal opportunity for you to talk about what matters to you! Just be cautious with your topic choices &mdash; no politics, no religion, and no really <em>out there</em> opinions that could be controversial or offensive.</p>
-<h2 id="-be-funny"><a href="#-be-funny">7. Be Funny</a></h2>
+<h2 id="-be-funny"><a href="#be-funny">7. Be Funny</a></h2>
 <p>Don&rsquo;t be afraid to inject humor into your Hinge profile and conversations! After all, who doesn&rsquo;t love someone who can make them laugh?&nbsp;</p>
 <p></p>
 <p>It&rsquo;s backed up by research, too, which shows that profiles displaying a <a href="https://theconversation.com/online-dating-humour-matters-more-than-good-looks-but-immigrants-struggle-with-local-jokes-131836">good sense of humor</a> are generally rated as more attractive!</p>
 <p></p>
 <p>Just remember to keep it classy, tasteful, not too forced, and know that your sense of humor won&rsquo;t always hit. Some people are going to love a good Dad Joke; for others it&rsquo;s their kryptonite.</p>
-<h2 id="-follow-up-with-your-matches"><a href="#-follow-up-with-your-matches">8. Follow Up With Your Matches</a></h2>
+<h2 id="-follow-up-with-your-matches"><a href="#follow-up-with-your-matches">8. Follow Up With Your Matches</a></h2>
 <p>Following up with your Matches shows that you&rsquo;re interested and serious about finding a connection. Once you&rsquo;ve Matched, it&rsquo;s then important to reach out and send them a message quickly before the connection cools!&nbsp;</p>
 <p></p>
 <p>Not sure what to say? You could ask them about their day, share a funny meme, suggest a virtual date idea, or drop your best/worst one-liner.</p>
-<h2 id="-be-kind-and-respectful"><a href="#-be-kind-and-respectful">9. Be Kind and Respectful</a></h2>
+<h2 id="-be-kind-and-respectful"><a href="#be-kind-and-respectful">9. Be Kind and Respectful</a></h2>
 <p>It&rsquo;s important to be kind and respectful in your conversations, even if you&rsquo;re not interested in pursuing a Match.&nbsp;</p>
 <p></p>
 <p>Not only is it part of Hinge policy, there&rsquo;s a real person on the other end of the app, with real thoughts and feelings. Pay them consideration and be kind.</p>
-<h2 id="-speak-about-your-passions-and-hobbies"><a href="#-speak-about-your-passions-and-hobbies">10. Speak About Your Passions and Hobbies</a></h2>
+<h2 id="-speak-about-your-passions-and-hobbies"><a href="#speak-about-your-passions-and-hobbies">10. Speak About Your Passions and Hobbies</a></h2>
 <p>Speaking about your passions and hobbies can help you connect with someone who shares similar interests. It also gives your Match an idea of what you like to do, which can be a great conversation starter, or give you ideas for potential date ideas.</p>
 <p></p>
 <p>Just remember this isn&rsquo;t an opportunity to get up on your soapbox &mdash; it&rsquo;s a conversation and goes both ways!</p>
-<h2 id="-don&rsquo;t-use-selfies"><a href="#-don&rsquo;t-use-selfies">11. Don&rsquo;t Use Selfies</a></h2>
+<h2 id="-don&rsquo;t-use-selfies"><a href="#don&rsquo;t-use-selfies">11. Don&rsquo;t Use Selfies</a></h2>
 <p>While back in the day a selfie may have cut the mustard, especially covered in filters on Instagram, in the modern world of online dating they&rsquo;re just a bit &mdash; well &mdash; <em>cringe</em>.</p>
 <p></p>
 <p>Instead, consider having a friend help take some flattering photos of you. Or, if you really want to up your game, why not <a href="https://thematchartist.com/online-dating-photographer-near-me">hire a professional photographer</a> to take it out of your hands and get you some amazing shots?</p>
 <p></p>
 <p>Don&rsquo;t forget that how you present yourself through your clothes also matters! Women love a man who&rsquo;s a little more dressed up, so put a little effort in!</p>
-<h2 id="-highlight-your-eyes"><a href="#-highlight-your-eyes">12. Highlight Your Eyes</a></h2>
+<h2 id="-highlight-your-eyes"><a href="#highlight-your-eyes">12. Highlight Your Eyes</a></h2>
 <p>How many times have you heard someone say that an attractive guy has &ldquo;nice eyes&rdquo;? When they&rsquo;re so often called the &ldquo;<em>windows to the soul</em>&rdquo;, you&rsquo;ll want to make sure they stand out in your photos!&nbsp;</p>
 <p></p>
 <p>Consider what colors will help make your eyes pop, and guys, please: <em>don&rsquo;t wear sunglasses!</em></p>
-<h2 id="-try-to-look-straight-into-the-lens"><a href="#-try-to-look-straight-into-the-lens">13. Try to Look Straight Into the Lens</a></h2>
+<h2 id="-try-to-look-straight-into-the-lens"><a href="#try-to-look-straight-into-the-lens">13. Try to Look Straight Into the Lens</a></h2>
 <p>For at least your primary photo, look straight into the lens. It will make you appear confident and engaged, which are attractive attributes to potential relationships.</p>
 <p></p>
 <p>The facial expression coaching we do at The Match Artist varies from client to client, depending on what it is that you want to highlight and what suits your natural features.</p>
@@ -182,7 +182,7 @@ seo:
 <p>The important thing is to know what the <em>intention</em> of your photos is, then practice your facial expressions in the mirror until you&rsquo;ve nailed it!</p>
 <p></p>
 <p>Don&rsquo;t worry if this all sounds like mumbo-jumbo &mdash; we&rsquo;re pros at this! When you <a href="https://thematchartist.com/online-dating-photographer-near-me">book with The Match Artist</a>, we&rsquo;ll take you through it all, one step at a time!</p>
-<h2 id="-don&rsquo;t-be-a-stereotype"><a href="#-don&rsquo;t-be-a-stereotype">14. Don&rsquo;t Be a Stereotype</a></h2>
+<h2 id="-don&rsquo;t-be-a-stereotype"><a href="#don&rsquo;t-be-a-stereotype">14. Don&rsquo;t Be a Stereotype</a></h2>
 <p>&ldquo;Did it hurt when you fell from heaven?&rdquo;</p>
 <p></p>
 <p><em>Big ick!</em></p>
@@ -190,13 +190,13 @@ seo:
 <p>Look, we know dating is hard, and we know that finding a great line is harder still, but who wants to be a stereotype? Not only is it a huge turn-off for a potential Match, it also tells the other person <em>nothing</em> about who you actually are.</p>
 <p></p>
 <p>Instead, focus on how you can bring your personality out and showcase <em>who you are</em> so that you stand out from the crowd.</p>
-<h2 id="-highlight-the-fun-side-of-your-personality"><a href="#-highlight-the-fun-side-of-your-personality">15. Highlight the Fun Side of Your Personality</a></h2>
+<h2 id="-highlight-the-fun-side-of-your-personality"><a href="#highlight-the-fun-side-of-your-personality">15. Highlight the Fun Side of Your Personality</a></h2>
 <p>Dating is supposed to be fun, so make sure your profile reflects that!&nbsp;</p>
 <p></p>
 <p>Not only that, but your Match wants to see that you&rsquo;re a fun person who likes to get out and about into the world.</p>
 <p></p>
 <p>You can use Hinge prompts and your photos to highlight your sense of humor and fun-loving nature.</p>
-<h2 id="-show-off-your-physique"><a href="#-show-off-your-physique">16. Show Off Your Physique</a></h2>
+<h2 id="-show-off-your-physique"><a href="#show-off-your-physique">16. Show Off Your Physique</a></h2>
 <p>If you&rsquo;re proud of your physique, show it off!&nbsp;</p>
 <p></p>
 <p><a href="https://www.psychologytoday.com/nz/blog/after-service/201907/5-reasons-both-women-and-men-care-about-big-muscles">Psychology studies</a> have shown that both men <em>and</em> women are attracted to potential partners who are physically fit.&nbsp;</p>
@@ -206,7 +206,7 @@ seo:
 <p>So show off those muscles! Just make sure the photo is tasteful and not overly revealing &mdash; a picture with <a href="https://melmagazine.com/en-us/story/how-to-show-off-your-fit-body-on-tinder-without-looking-like-a-jerk">well-fitting clothing </a>is preferable to a shirtless pic!</p>
 <p></p>
 <p>And, big tip: <em>avoid the gym selfies!</em></p>
-<h2 id="-leave-thoughtful-comments-on-your-matches-prompts"><a href="#-leave-thoughtful-comments-on-your-matches-prompts">17. Leave Thoughtful Comments on Your Matches Prompts</a></h2>
+<h2 id="-leave-thoughtful-comments-on-your-matches-prompts"><a href="#leave-thoughtful-comments-on-your-matches-prompts">17. Leave Thoughtful Comments on Your Matches Prompts</a></h2>
 <p>When engaging with your Matches, be sure to leave thoughtful comments on their prompts.&nbsp;</p>
 <p></p>
 <p>It not only shows that you&rsquo;re genuinely interested in getting to know them, it could also lead to more meaningful conversations, as well as better conversation starters.</p>

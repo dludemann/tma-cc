@@ -42,7 +42,7 @@ seo:
 <p><b>&nbsp;</b></p>
 <p dir="ltr"><span>Let&rsquo;s get started!</span></p>
 <p></p>
-<h2 dir="ltr"><span>Why is Tinder So Imbalanced?</span></h2>
+<h2 id="why-is-tinder-so-imbalanced"><a href="#why-is-tinder-so-imbalanced">Why is Tinder So Imbalanced?</a></h2>
 <p dir="ltr"><span>Tinder leads the way when it comes to online dating. While Bumble may have been </span><a href="https://www.businessofbusiness.com/articles/bumble-whitney-wolfe-herd-swiped-left-tinder-ended-up-billionaire"><span>created by an ex-Tinder employee</span></a><span> and is more female-focused, it hasn&rsquo;t seen the same success that Tinder has.</span><b></b></p>
 <p dir="ltr"><span>But it&rsquo;s pretty clear to see that Tinder is a woman&rsquo;s game. And why is that? Put simply, </span><a href="https://www.researchgate.net/publication/281965128_Gender_Differences_in_Online_Dating_What_Do_We_Know_So_Far_A_Systematic_Literature_Review"><span>the majority of users on Tinder are male</span></a><span>, meaning that the ratio of male-to-female users on Tinder is imbalanced.</span><b></b></p>
 <p dir="ltr"><span>In fact, in the U.S., it&rsquo;s estimated that </span><a href="https://www.statista.com/statistics/975925/us-tinder-user-ratio-gender"><span>roughly </span><span>70%</span><span> of profiles are men</span></a><span>. That&rsquo;s a </span><span>huge</span><span> difference! And it means that there&rsquo;s far more competition in even trying to get someone to notice your bio.</span><b></b></p>
@@ -55,7 +55,7 @@ seo:
 <p dir="ltr"><span>But it&rsquo;s a self-perpetuating cycle!</span><b></b></p>
 <p dir="ltr"><span>The more matches women make, the more messages they receive (on average about </span><span>seven per day</span><span> compared to the five that they send), and that&rsquo;s quite an overwhelming amount of attention.</span><b></b></p>
 <p dir="ltr"><span>Thus, single women will be a lot choosier, and men will be much more prone to indiscriminate Swipes (the &ldquo;machine gun&rdquo; approach).</span></p>
-<h2 dir="ltr"><span>Do Girls Get More Matches on Tinder?</span></h2>
+<h2 id="do-girls-get-more-matches-on-tinder"><a href="#do-girls-get-more-matches-on-tinder">Do Girls Get More Matches on Tinder?</a></h2>
 <p dir="ltr"><span>According to 2021 stats from </span><a href="https://www.swipestats.io"><span>Swipestats.io</span></a><span> in a study done by </span><a href="https://thebolditalic.com/the-two-worlds-of-tinder-f1c34e800db4"><span>The Bold Italic</span></a><span>, women only Swipe Right around 5% of the time. In comparison, men Swipe Right about 53% of the time.</span><b></b></p>
 <p dir="ltr"><span>This ratio, of course, means that women tend to match more frequently, whereas men will likely only match a handful of times.</span><b></b></p>
 <p dir="ltr"><span>There was even a </span><a href="https://arxiv.org/abs/1607.01952"><span>study</span></a><span> done looking at user activity on Tinder, which confirmed that women tended to get more matches very quickly.</span><b></b></p>

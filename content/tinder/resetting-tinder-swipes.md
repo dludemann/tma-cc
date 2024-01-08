@@ -39,11 +39,11 @@ seo:
 </li>
 </ul>
 <p dir="ltr"><span>Ready for all of our Tinder resetting tips? Let&rsquo;s get into it!</span></p>
-<h2 dir="ltr"><span>When You Should Reset Your Tinder Profile</span></h2>
+<h2 id="when-you-should-reset-your-tinder-profile"><a href="#when-you-should-reset-your-tinder-profile">When You Should Reset Your Tinder Profile</a></h2>
 <p dir="ltr"><span>If you&rsquo;ve Swiped Left (or Right) one too many times and have hit the &ldquo;No Matches&rdquo; wall, it could be one of a few reasons to consider resetting your dating profile.</span><b></b></p>
 <p dir="ltr"><span>Perhaps you&rsquo;ve gone through all of the users within your location, or in your age range settings, and adjusting these isn&rsquo;t showing you any more potential matches. If that&rsquo;s the case, then a reset may be the only answer to start Swiping on people again.</span><b></b></p>
 <p dir="ltr"><span>Bear in mind that if you reset your Tinder, you&rsquo;ll reset your Swipe history but you&rsquo;ll also lose all of your current matches and conversations. Depending on which method you choose, there may also be some repercussions (but we&rsquo;ll go into this in further detail later).</span></p>
-<h2 dir="ltr"><span>Why You Should Reset Your Tinder Profile</span></h2>
+<h2 id="why-you-should-reset-your-tinder-profile"><a href="#why-you-should-reset-your-tinder-profile">Why You Should Reset Your Tinder Profile</a></h2>
 <p dir="ltr"><span>Resetting your Tinder profile can work for you in a few different cases. Here are some of the reasons why you may want to delete everything and start over.</span></p>
 <h3 dir="ltr"><span>You Have a Second Chance to Match Again</span></h3>
 <p dir="ltr"><span>Maybe when you started your Tinder you Swiped Left on a few more accounts than you should&rsquo;ve. Or maybe someone did the same to you.&nbsp;</span><b></b></p>
@@ -59,7 +59,7 @@ seo:
 <p dir="ltr"><span>Now, the whole point of a shadowban is that you won&rsquo;t necessarily know, but guys: you&rsquo;ll know. How? Well, you won&rsquo;t be getting any new matches, for one!</span><b></b></p>
 <p dir="ltr"><span>You should be aware that resetting your Tinder account can be one of the reasons to get a shadowban, especially if you&rsquo;ve deleted and then recreated your account in the course of a few minutes.&nbsp;</span></p>
 <p dir="ltr"><span>This is one of the things Tinder looks out for in order to crack down on bots, so don&rsquo;t make this mistake!</span></p>
-<h2 dir="ltr"><span>Pros of Resetting Your Tinder</span></h2>
+<h2 id="pros-of-resetting-your-tinder"><a href="#pros-of-resetting-your-tinder">Pros of Resetting Your Tinder</a></h2>
 <ul>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><span>You can start over with an improved bio and photos, potentially increasing your match rate (and if you&rsquo;re looking to take better photos, </span><a href="https://thematchartist.com/online-dating-photographer-near-me"><span>get in touch with The Match Artist</span></a><span>!)</span></p>
@@ -74,7 +74,7 @@ seo:
 <p dir="ltr" role="presentation"><span>If you wait three months before creating a new account, Tinder will delete all of the user data they hold (as per terms and conditions).</span></p>
 </li>
 </ul>
-<h2 dir="ltr"><span>Cons of Resetting Your Tinder</span></h2>
+<h2 id="cons-of-resetting-your-tinder"><a href="#cons-of-resetting-your-tinder">Cons of Resetting Your Tinder</a></h2>
 <ul>
 <li dir="ltr" aria-level="1">
 <p dir="ltr" role="presentation"><span>If you get caught resetting your account, you could get shadowbanned (and apparently Tinder has been wising up to tricks and is actively shutting down these accounts)</span></p>
@@ -89,10 +89,10 @@ seo:
 <p dir="ltr" role="presentation"><span>If you&rsquo;ve paid for Tinder Plus, Gold, or Platinum, you&rsquo;ll lose your subscription and can&rsquo;t get a refund.</span></p>
 </li>
 </ul>
-<h2 dir="ltr"><span>How Long Does It Take for Tinder Likes to Reset?</span></h2>
+<h2 id="how-long-does-it-take-for-tinder-likes-to-reset"><a href="#how-long-does-it-take-for-tinder-likes-to-reset">How Long Does It Take for Tinder Likes to Reset?</a></h2>
 <p dir="ltr"><span>If you&rsquo;ve spent all day Swiping Right and have hit your allowance of 100 (on the basic version of Tinder), you&rsquo;ll need to wait about 12 hours before you can make any new ones.</span><b></b></p>
 <p dir="ltr"><span>However, if you pay for Tinder Plus, Gold, or Platinum, this comes with a number of special features, including unlimited Swipes. Then you&rsquo;ll never have to worry about your Swipe Rights needing to reset again!</span></p>
-<h2 dir="ltr"><span>Is There a Way to Reset Matches on Tinder</span></h2>
+<h2 id="is-there-a-way-to-reset-matches-on-tinder"><a href="#is-there-a-way-to-reset-matches-on-tinder">Is There a Way to Reset Matches on Tinder</a></h2>
 <p dir="ltr"><span>There&rsquo;s a couple of different methods to reset your Tinder account, and it&rsquo;s more or less the same whether you have an Apple or Android device.</span></p>
 <h3 dir="ltr"><span>Method 1: Soft Reset</span></h3>
 <p dir="ltr"><span>To do a &ldquo;soft&rdquo; reset:</span><b></b></p>
@@ -258,4 +258,14 @@ seo:
 <p dir="ltr" role="presentation"><a href="https://roast.dating/blog/tinder-reset-guide"><span>roast.dating</span></a></p>
 </li>
 </ol>
+<p></p>
+ol>
+<p></p>
+>
+<p></p>
+ol>
+<p></p>
+>
+<p></p>
+ol>
 <p></p>

@@ -41,12 +41,12 @@ seo:
 <p><b>&nbsp;</b></p>
 <p dir="ltr"><span>Ready to get started and learn how to play the Tinder game? Let&rsquo;s dive in!</span></p>
 <p></p>
-<h2 dir="ltr"><span>What Are the Unwritten Rules of Tinder?</span></h2>
+<h2 id="what-are-the-unwritten-rules-of-tinder"><a href="#what-are-the-unwritten-rules-of-tinder">What Are the Unwritten Rules of Tinder?</a></h2>
 <p><span><img src="https://cdn.buttercms.com/u1YpYhi0RlCq1vQAz0Jq" alt="thematchartist_clock_being_held_up_by..."></span></p>
 <p dir="ltr"><span>You might be thinking to yourself, </span><span>&ldquo;Unwritten rules? But I thought there were no rules when it comes to dating!&rdquo;</span><span>&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Well, as it turns out, when it comes to Tinder (</span><span>just like in all parts of life!</span><span>) there are definitely some unwritten rules that most people tend to follow.</span><b></b></p>
 <p dir="ltr"><span>Here are our top 5 unwritten rules for users on Tinder.</span></p>
-<h2 dir="ltr"><span>1. The Less Attractive Person is Responsible for Sending the First Message on Tinder</span></h2>
+<h2 id="the-less-attractive-person-is-responsible-for-sending-the-first-message-on-tinder"><a href="#the-less-attractive-person-is-responsible-for-sending-the-first-message-on-tinder">1. The Less Attractive Person is Responsible for Sending the First Message on Tinder</a></h2>
 <p dir="ltr"><span>It might sound harsh, but one of the unwritten rules of Tinder is that the less attractive guy or girl in the match is expected to start the conversation.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>This isn&rsquo;t meant to be a judgment on someone&rsquo;s appearance or worth as a person. It&rsquo;s simply a fact that in many cases people whose profiles get lots of attention might not have the time to chat to every single person they match with.</span><b></b></p>
 <p dir="ltr"><span>Put it this way, if you were in a room full of new people, would you wait for the most attractive person to talk to you, or would you put yourself forward first and start chatting to them?</span><b></b></p>
@@ -57,7 +57,7 @@ seo:
 <p dir="ltr"><span>In fact, women who make the first move are </span><a href="https://edition.cnn.com/2016/03/14/living/okcupid-womens-research-feat/index.html"><span>two and a half times</span></a><span> more likely to get a reply!</span><b></b></p>
 <p dir="ltr"><span>Now, while not everyone may be blessed with God-given Prince Charming looks, at The Match Artist we certainly know how to work with what you&rsquo;ve got!&nbsp;</span><b></b></p>
 <p dir="ltr"><span>Remember: it&rsquo;s not necessarily about what you have, but </span><span>how you flaunt it!</span></p>
-<h2 dir="ltr"><span>2. Be Wary of Anyone Who Only Has One Picture on Tinder</span></h2>
+<h2 id="be-wary-of-anyone-who-only-has-one-picture-on-tinder"><a href="#be-wary-of-anyone-who-only-has-one-picture-on-tinder">2. Be Wary of Anyone Who Only Has One Picture on Tinder</a></h2>
 <p dir="ltr"><span>One big </span><a href="https://lifehacker.com/how-to-tell-if-a-tinder-profile-is-fake-1772999305#:~:text=They%20Only%20Have%20One%20Photo&amp;text=If%20having%20a%20profile%20that's,you%20should%20hear%20alarm%20bells."><span>red flag</span></a><span> to look out for is if someone only has one photo on their page. It&rsquo;s the same if someone has only group photos on their profile. It could make potential matches wonder what they&rsquo;re trying to hide!</span><b></b></p>
 <p dir="ltr"><span>If someone is truly serious about finding a match on Tinder and not just a casual hookup, then it&rsquo;s even more important to put in the effort to create a well-rounded profile.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>This should include a mix and variety of pictures (and photos that don&rsquo;t show your face properly are a big no-no!), a (short) bio, and maybe even a few prompts or questions to give someone viewing their profile a better idea of who they are.</span><b></b></p>
@@ -65,12 +65,12 @@ seo:
 <p dir="ltr"><span>So, if you come across someone on Tinder who only has </span><span>one picture</span><span> and </span><span>nothing else</span><span> on their profile, it&rsquo;s possible that they&rsquo;re not taking the app seriously, they&rsquo;re hiding something, or they&rsquo;re even a </span><span>dreaded catfish!</span><b></b></p>
 <p dir="ltr"><span>At the very least, they aren&rsquo;t as smart as you, who worked with professionals to get the best results for your profile!</span><b></b></p>
 <p dir="ltr"><span>Best to be safe and swipe left!</span></p>
-<h2 dir="ltr"><span>3. If You Start Dating Someone From Tinder, Its Socially Acceptable to Tell People You Met on the App</span></h2>
+<h2 id="if-you-start-dating-someone-from-tinder-its-socially-acceptable-to-tell-people-you-met-on-the-app"><a href="#if-you-start-dating-someone-from-tinder-its-socially-acceptable-to-tell-people-you-met-on-the-app">3. If You Start Dating Someone From Tinder, Its Socially Acceptable to Tell People You Met on the App</a></h2>
 <p dir="ltr"><span>Back in the early days of the internet it was a little embarrassing to admit that you met your partner on a dating site,</span><span> but that just isn&rsquo;t the case any more.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>In fact, more and more people meet their significant others on dating apps, even to the extent that </span><a href="https://mashable.com/article/tinder-weddings-swipe-right-decor"><span>Tinder has sponsored some of their weddings</span></a><span>!</span><b></b></p>
 <p dir="ltr"><a href="https://www.reddit.com/r/OnlineDating/comments/e54lg4/successful_couples_of_online_dating_do_you_tell/"><span>This Reddit thread</span></a><span> also found that the majority of people are happy to share that they met their new partner on a dating app. After all, it&rsquo;s just another way of finding love and even marriage, and much less these days about one night stands (though hookups do still happen).&nbsp;</span><b></b></p>
 <p dir="ltr"><span>So, if you do end up meeting someone special, don&rsquo;t be afraid to proudly declare your &ldquo;how we met each other&rdquo; to the world. Who knows, you might inspire someone else to give it a try and find their own happily ever after!</span></p>
-<h2 dir="ltr"><span>4. Tinder is Unbalanced and is Favorable for Attractive People</span></h2>
+<h2 id="tinder-is-unbalanced-and-is-favorable-for-attractive-people"><a href="#tinder-is-unbalanced-and-is-favorable-for-attractive-people">4. Tinder is Unbalanced and is Favorable for Attractive People</a></h2>
 <p><span><img src="https://cdn.buttercms.com/j8Mug6laRTa4lTMb5Oi2"></span></p>
 <p dir="ltr"><span>Yet another harsh truth: </span><span>Tinder tends to favor more attractive people.</span><b></b></p>
 <p dir="ltr"><span>It&rsquo;s not exactly a secret that people are more likely to swipe right on someone who they find physically attractive. After all, attraction to someone &mdash; especially on an app like Tinder &mdash; is primarily looks-based to begin with.</span><b></b></p>
@@ -84,16 +84,16 @@ seo:
 <p dir="ltr"><span>When crafting your profile, be sure to include content that reflects who you are beyond just your appearance! </span><a href="https://www.enkirelations.com/how-to-be-successful-on-tinder.html"><span>Research</span></a><span> even shows that women are far more likely to Swipe Left on men that haven&rsquo;t bothered to fill out their bio, so don&rsquo;t be that guy who relies only on sexy pics rather than words.</span><b></b></p>
 <p dir="ltr"><span>One of the keys to success on Tinder is to craft a profile that tells a story about who you are as a human being. Don&rsquo;t be afraid to let your personality shine through in your photos, bio, and even the way you Swipe, engage in conversations, and send texts.</span><b></b></p>
 <p dir="ltr"><span>But don&rsquo;t forget, you&rsquo;re not just the author of your own story &mdash; you&rsquo;re also interacting with other people&rsquo;s stories. Be respectful of others&rsquo; boundaries and opinions, and remember that everyone on the app is a complex individual with their own feelings and experiences.</span></p>
-<h2 dir="ltr"><span>5. You Can Ghost a Match You Don't Like (Though We Don't Necessarily Recommend It)</span></h2>
+<h2 id="you-can-ghost-a-match-you-dont-like-(though-we-dont-necessarily-recommend-it"><a href="#you-can-ghost-a-match-you-dont-like-(though-we-dont-necessarily-recommend-it">5. You Can Ghost a Match You Don't Like (Though We Don't Necessarily Recommend It)</a></h2>
 <p><span><img src="https://cdn.buttercms.com/o0fWTReTyCterOKRFVd5"></span></p>
 <p dir="ltr"><span>So, let&rsquo;s talk about everyone&rsquo;s favorite topic &mdash; </span><span>ghosting</span><span>.</span><b></b></p>
 <p dir="ltr"><span>When it comes to Tinder, one of the unwritten rules is that you can </span><a href="https://medium.com/love-and-other-things/ghosting-is-perfectly-acceptable-most-of-the-time-b99a2a87178d"><span>ghost a match</span></a><span> if you&rsquo;re just not feeling it.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>And though ghosting isn&rsquo;t the </span><span>ideal</span><span> way to get out of a situation you&rsquo;re not into, and can be a little rude and disrespectful, the truth is that sometimes it&rsquo;s the easiest and most practical option, especially if things have taken a bit of a turn.</span><b></b></p>
 <p dir="ltr"><span>Of course, it&rsquo;s always nice to give someone a heads-up if you&rsquo;re not interested in pursuing things further (and we much prefer this approach), but at the end of the day, you&rsquo;re not obligated to do so.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>After all, Tinder is all about meeting new people and seeing if there&rsquo;s a spark&hellip; and sometimes there just isn&rsquo;t anything there.</span><b></b></p>
-<h2 dir="ltr"><span>6. Meet up with your Matches Eventually, or Stop Wasting Your Matches Time</span></h2>
+<h2 id="meet-up-with-your-matches-eventually-or-stop-wasting-your-matches-time"><a href="#meet-up-with-your-matches-eventually-or-stop-wasting-your-matches-time">6. Meet up with your Matches Eventually, or Stop Wasting Your Matches Time</a></h2>
 <p><span>It's not fair to your date's time to go on and on messaging with no actual intention of meeting. If you're not interested, let them know&ndash; or just unmatch to be respectful.</span></p>
-<h2 id="-never-send-money-to-your-matches"><a href="#-never-send-money-to-your-matches">7. Never Send Money To Your Matches</a></h2>
+<h2 id="-never-send-money-to-your-matches"><a href="#never-send-money-to-your-matches">7. Never Send Money To Your Matches</a></h2>
 <p><span>This should be pretty obvious, but there are many scammers online looking to take advantage of vulnerable people online. Even if they do meet up with you, it may start with them having you request an uber, then paying for dinner. It can escalate where they "forget" their wallet, and slowly grow to more expensive emergencies they are having that they need help with. Be careful.&nbsp;</span></p>
 <h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p dir="ltr"><span>So there you have it! Now that you know the unwritten rules of Tinder, you can get out there, hopefully increasing your chances of getting matches and meeting someone compatible.&nbsp;</span><b></b></p>
@@ -193,4 +193,15 @@ seo:
 <p dir="ltr" role="presentation"><a href="https://policies.tinder.com/community-guidelines/intl/en"><span>policies.tinder.com</span></a></p>
 </li>
 </ol>
+<p></p>
+ol>
+<p></p>
+>
+<p></p>
+</li>
+</ol>
+<p></p>
+ol>
+<p></p>
+>
 <p></p>

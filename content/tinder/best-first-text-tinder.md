@@ -43,7 +43,7 @@ seo:
 <p dir="ltr"><span>Whether you&rsquo;re looking for compliments, conversations, a pick-up line, or any other inspiration for an icebreaker to ask someone you matched with: we&rsquo;ll cover it all.</span><b></b></p>
 <p dir="ltr"><span>Let&rsquo;s get straight into it so that you can start matching with people and getting dates!</span></p>
 <p></p>
-<h2 dir="ltr"><span>What Makes a Good First Message on Tinder?</span></h2>
+<h2 id="what-makes-a-good-first-message-on-tinder"><a href="#what-makes-a-good-first-message-on-tinder">What Makes a Good First Message on Tinder?</a></h2>
 <p dir="ltr"><span>When it comes to your first message on Tinder, the best are short, sweet, and show that you have a sense of humor.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>It&rsquo;s hard to show your personality in a first message, but it&rsquo;s easier to find a connection if you ask questions that your match will need to answer about themselves and their life.</span><b></b></p>
 <p dir="ltr"><span>This could be anything! Just give them a reason to respond and talk to you, as you would in a normal face-to-face conversation.</span><b></b></p>
