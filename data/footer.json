@@ -50,6 +50,11 @@
           "link": "/press/",
           "text": "Press",
           "icon": ""
+        },
+        {
+          "link": "/a-new-new-test-page/",
+          "text": "New new new",
+          "icon": ""
         }
       ]
     },
