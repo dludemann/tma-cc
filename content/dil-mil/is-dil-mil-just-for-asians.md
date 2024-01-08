@@ -35,7 +35,7 @@ seo:
 <p></p>
 <p>Let&rsquo;s dive right in!</p>
 <p></p>
-<h2>What Is Dil Mil?</h2>
+<h2 id="what-is-dil-mil"><a href="#what-is-dil-mil">What Is Dil Mil?</a></h2>
 <p>Dil Mil is a dating site, aimed at expat South Asians looking for long-term relationships, love, and marriage.</p>
 <p></p>
 <p>Dil Mil functions in much the same way as other popular dating apps, such as Tinder and Hinge, and uses the same swiping system to match users (so you won&rsquo;t be able to search for specific users). Just swipe right to like a profile, or left to pass.</p>
@@ -199,7 +199,7 @@ seo:
 <p>Dil Mil works very hard to look after its users&rsquo; safety and prevent fake profiles. They do this by enforcing account, phone number, and picture verification, as well as having a robust and active human moderation and support team.</p>
 <p></p>
 <p>While fake profiles may still slip through from time to time, these measures make it much harder for them to do so.</p>
-<h2>Key Takeaways</h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p>Whether or not you&rsquo;re South Asian, Dil Mil could be an excellent way to meet people all around the world, and especially in the U.S.</p>
 <p></p>
 <p>While there are some pros and cons of the app, which you should pay attention to, it&rsquo;s generally a very safe platform, with limited fake profiles and scammers. That&rsquo;s thanks to Dil Mil&rsquo;s verification processes and moderation team.</p>
@@ -231,14 +231,14 @@ seo:
 <p>We guarantee that your new images won&rsquo;t just put a smile on your face, they&rsquo;ll also <a href="https://thematchartist.com/case-studies"><em>get you more matches</em></a><em>!</em></p>
 <p></p>
 <p>Ready to switch up your online dating game? <a href="https://thematchartist.com/online-dating-photographer-near-me">Get in touch with The Match Artist today</a>!</p>
-<h2>Frequently Asked Questions&nbsp;</h2>
+<h2 id="frequently-asked-questions&nbsp;"><a href="#frequently-asked-questions&nbsp;">Frequently Asked Questions&nbsp;</a></h2>
 <h3>Who owns Dil Mil?</h3>
 <p>Dil Mil is owned by <a href="https://www.datinggrp.com">Social Discovery Group</a> who acquired the company in 2010. They also own dating.com, AnatasiaDate.com, and AsianDate.com, among others.</p>
 <h3>Is Dil Mil a scam?</h3>
 <p>No, Dil Mil is not a scam. It&rsquo;s a legit dating site, designed to help bring South Asian expats together.</p>
 <h3>What is the age distribution of users?</h3>
 <p>Most Dil Mil users are around 25&ndash;34 (50%). The next largest user base are 18&ndash;24 (40%). The remaining 10% of users are split between 34&ndash;44, 45&ndash;54, and 55+.</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://dilmil.co/blog/successstories">dilmil.co</a></p>
@@ -262,3 +262,7 @@ seo:
 <p><a href="https://www.datinggrp.com">datinggrp.com</a></p>
 </li>
 </ol>
+.datinggrp.com">datinggrp.com</a></p>
+</li>
+</ol>
+ol>

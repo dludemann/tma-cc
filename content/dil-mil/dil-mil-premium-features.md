@@ -33,7 +33,7 @@ seo:
 </ul>
 <p></p>
 <p>Let&rsquo;s get straight into it!</p>
-<h2>Why You Should Consider Investing in Dil Mil VIP Elite</h2>
+<h2 id="why-you-should-consider-investing-in-dil-mil-vip-elite"><a href="#why-you-should-consider-investing-in-dil-mil-vip-elite">Why You Should Consider Investing in Dil Mil VIP Elite</a></h2>
 <p>Dil Mil&rsquo;s premium subscription, <a href="https://dilmil.co/vip-elite">VIP Elite</a>, is not <em>necessarily </em>essential in order to use the app and make matches. However, it could <em>significantly </em>improve your user experience.</p>
 <p></p>
 <p>As much as Dil Mil&rsquo;s mission is to &ldquo;empower the world to find love&rdquo;, the app&rsquo;s creators still favor&rsquo;s everyone who pays for the app!</p>
@@ -47,7 +47,7 @@ seo:
 <p>It&rsquo;s even <em>more</em> important, then, to ensure that your profile is optimized and sits at the top of the match deck!</p>
 <p></p>
 <p>And with VIP Elite, you can make sure of the latter.</p>
-<h2>10 Premium Features to Up Your Game</h2>
+<h2 id="premium-features-to-up-your-game"><a href="#premium-features-to-up-your-game">10 Premium Features to Up Your Game</a></h2>
 <p>To help convince you, here&rsquo;s a round up of 10 premium features which could help you make more matches!</p>
 <h3>1. Ability to Swipe for Matches Around the World</h3>
 <p>When you sign up for VIP Elite, you&rsquo;ll be able to swipe globally and potentially match with members in any country or city around the world.</p>
@@ -101,7 +101,7 @@ seo:
 <p>Finally, the last VIP Elite feature on our list is the Dil Mil Concierge Service. This is a way for you to go completely hands off with the matching process, and allow someone else to personally select your matches (with a little feedback from you).</p>
 <p></p>
 <p>Every day, you&rsquo;ll be presented with some matches (and potentially some messages) for you to decide whether or not you want to pursue. Perfect for those leading busy lives with no time to trawl through the app themselves!</p>
-<h2>Key Takeaways</h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p>Dil Mil has a huge number of <a href="https://blog.dilmil.co/category/successstories">success stories</a> from those who found love and marriage on the app. <a href="https://dilmil.co/story/how-does-dil-mil-work">According to the platform</a>, they learn about one success story every day, with a match occurring every hour, and a marriage <em>every day!</em></p>
 <p></p>
 <p>If you&rsquo;ve not been having much luck on the free version of the app, then you may find that purchasing a VIP Elite subscription just gives you a slight edge, and gets you more matches.</p>
@@ -171,7 +171,7 @@ seo:
 <p>While the bio is going to be up to you, when it comes to the photos, that&rsquo;s where <a href="https://thematchartist.com/online-dating-photographer-near-me">The Match Artist can help</a>! You&rsquo;ll be astounded at the difference professionally taken and edited photos will make &mdash;&nbsp;<em>just </em><a href="https://thematchartist.com/reviews"><em>read what some of our past clients have had to say</em></a><em>!</em></p>
 <p></p>
 <p>If you&rsquo;re ready to make that one key difference to your dating profile without needing to upgrade to a monthly subscription on Dil Mil, then <a href="https://thematchartist.com/online-dating-photographer-near-me">get in touch with The Match Artist</a> &mdash; we&rsquo;d be all too happy to help!</p>
-<h2>Dil Mil&rsquo;s Premium Features: The Rundown FAQs</h2>
+<h2 id="dil-mils-premium-features:-the-rundown-faqs"><a href="#dil-mils-premium-features:-the-rundown-faqs">Dil Mil&rsquo;s Premium Features: The Rundown FAQs</a></h2>
 <h3>How much is Dil Mil premium?</h3>
 <p><a href="https://dilmil.co/vip-elite">Dil Mil VIP Elite</a>, the app&rsquo;s premium subscription, has three main prices:</p>
 <p></p>
@@ -220,5 +220,8 @@ seo:
 </li>
 <li>
 <p><a href="https://dilmil.co/story/how-does-dil-mil-work">dilmil.co</a></p>
+</li>
+</ol>
+dil-mil-work">dilmil.co</a></p>
 </li>
 </ol>

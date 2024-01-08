@@ -53,7 +53,7 @@ seo:
 </ul>
 <p></p>
 <p>Let&rsquo;s get into it!</p>
-<h2>Is Dil Mil Safe?</h2>
+<h2 id="is-dil-mil-safe"><a href="#is-dil-mil-safe">Is Dil Mil Safe?</a></h2>
 <p>Put your mind at rest &mdash; in short, yes! Dil Mil is safe to use!</p>
 <p></p>
 <p>Dil Mil&rsquo;s platform was bought over by the <a href="https://socialdiscoverygroup.com/">Social Discovery Group</a> (formerly Dating Group) in 2010. They also own a number of other well-known niche dating sites, so you can rest assured that they&rsquo;re legit, know what they&rsquo;re doing, and have your security interests at heart!</p>
@@ -61,7 +61,7 @@ seo:
 <p>In fact, a number of features on the Dil Mil app actually prioritize user safety, making it a better place for everyone to meet potential friends, or men and women they&rsquo;d like to date.</p>
 <p></p>
 <p>As the dating app asks you a number of personal questions about yourself and allows you to set filters in order to help you meet someone (ie, what gender you&rsquo;re interested in, their career, religion, height, and more), potentially for marriage, they also have a comprehensive <a href="https://cdn.dilmil.co/static/privacy-policy/pp-2021-06-24.pdf">privacy policy</a>.</p>
-<h2>4 Ways Dil Mil Protect Its Users</h2>
+<h2 id="ways-dil-mil-protect-its-users"><a href="#ways-dil-mil-protect-its-users">4 Ways Dil Mil Protect Its Users</a></h2>
 <p>Dil Mil&rsquo;s safety features are actually fairly impressive, and rather more extensive than other dating apps out there.</p>
 <p></p>
 <p>Here are the four main things that they do to make the Dil Mil experience better for everyone, so you can focus on making connections and having conversations with others.</p>
@@ -101,7 +101,7 @@ seo:
 <p><a href="https://cdn.dilmil.co/static/privacy-policy/2021-03-17.pdf">Dil Mil promises that they will not sell your data</a> &mdash; including personal information, payment information, messages, and photos &mdash; to third-party services, whether you have a free or VIP Elite account.&nbsp;</p>
 <p></p>
 <p>This courtesy extends to when you delete your account, as well.</p>
-<h2>Can I Hide My Dil Mil Profile From Dangerous People?</h2>
+<h2 id="can-i-hide-my-dil-mil-profile-from-dangerous-people"><a href="#can-i-hide-my-dil-mil-profile-from-dangerous-people">Can I Hide My Dil Mil Profile From Dangerous People?</a></h2>
 <p>If you don&rsquo;t want your profile to be accessible by anyone, you do have the option to hide it from others. To do this:</p>
 <p></p>
 <ul>
@@ -129,7 +129,7 @@ seo:
 </ul>
 <p></p>
 <p>This will mean that others are unable to see your profile and match with you, but if you&rsquo;ve already matched with others, you can continue chatting with them as normal.</p>
-<h2>How to Report Fake Profiles on Dil Mil</h2>
+<h2 id="how-to-report-fake-profiles-on-dil-mil"><a href="#how-to-report-fake-profiles-on-dil-mil">How to Report Fake Profiles on Dil Mil</a></h2>
 <p>Reporting fake profiles on Dil Mil is very straight forward.&nbsp;</p>
 <p></p>
 <p>As mentioned, if someone is harassing you (eg, they&rsquo;ve been sending inappropriate messages, too many messages, being abusive, or asking for money), take screenshots so that you can prove it to the Dil Mil Support Team.</p>
@@ -143,7 +143,7 @@ seo:
 <p>It&rsquo;s important to pick the correct title here so that the moderation team can deal with it appropriately.</p>
 <h3>5. Select the Most Appropriate Answer</h3>
 <p>Even if it&rsquo;s not exact, choose the most appropriate answer. If you&rsquo;ve taken screenshots, you can also send these to the moderation team.</p>
-<h2>Concluding Thoughts</h2>
+<h2 id="concluding-thoughts"><a href="#concluding-thoughts">Concluding Thoughts</a></h2>
 <p>Overall, Dil Mil is a very safe app to use, thanks to the efforts the app&rsquo;s support team have put into it.</p>
 <p></p>
 <p>However, despite the safety measures they&rsquo;ve put in place, you should still practice good internet dating behavior and safety. This includes:</p>
@@ -181,10 +181,10 @@ seo:
 <p>And, if you&rsquo;re ready to upgrade your dating app profile and get better matches all round, <a href="https://thematchartist.com/online-dating-photographer-near-me">get in touch with The Match Artist</a> today!</p>
 <p></p>
 <p>Our professional photographers know just how to show you off in your best light, so that all the potential matches will come to you!</p>
-<h2>Is Dil Mil Safe FAQs</h2>
+<h2 id="is-dil-mil-safe-faqs"><a href="#is-dil-mil-safe-faqs">Is Dil Mil Safe FAQs</a></h2>
 <h3>How do I contact Dil Mil&rsquo;s support team?</h3>
 <p>You can <a href="https://dilmil.helpshift.com/hc/en/3-dil-mil/contact-us/?s=product-feedback&amp;f=how-can-i-give-feedback-for-this-app&amp;l=en&amp;contact=1">contact the Dil Mil support team by sending them a message</a>, either through the web or on the app.</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://dilmil.co/blog/successstories">dilmil.co</a></p>
@@ -200,5 +200,35 @@ seo:
 </li>
 <li>
 <p><a href="https://dilmil.helpshift.com/hc/en/3-dil-mil/contact-us">dilmil.helpshift.com</a></p>
+</li>
+</ol>
+li>
+</ol>
+l.helpshift.com</a></p>
+</li>
+</ol>
+t.com</a></p>
+</li>
+</ol>
+l.helpshift.com</a></p>
+</li>
+</ol>
+t.com</a></p>
+</li>
+</ol>
+t.com</a></p>
+</li>
+</ol>
+li>
+</ol>
+t.com</a></p>
+</li>
+</ol>
+t.com</a></p>
+</li>
+</ol>
+</li>
+</ol>
+t.com</a></p>
 </li>
 </ol>

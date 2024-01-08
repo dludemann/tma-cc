@@ -56,7 +56,7 @@ seo:
 <p></p>
 <p>Ready to dive in? Read on!</p>
 <p></p>
-<h2>What Is Dil Mil?</h2>
+<h2 id="what-is-dil-mil"><a href="#what-is-dil-mil">What Is Dil Mil?</a></h2>
 <p><a href="https://dilmil.co/">Dil Mil</a> is a dating app aimed at South Asian singles looking for love and relationships. It helps to connect Punjabi, Gujarati, Bengali, Tamil, Telugu, Malayali, Maharashtrian, and other ethnic groups from India and across the globe.&nbsp;</p>
 <p></p>
 <p>A large number of users are Indian ex-pats, based in a range of countries and regions in the west including the United States, UK, Canada, Australia, and UAE.</p>
@@ -70,7 +70,7 @@ seo:
 <p>As well as the basic free version of the app, Dil Mil also offers a VIP Elite subscription, which gives users access to features that include <a href="https://dilmil.helpshift.com/hc/en/3-dil-mil/faq/289-what-are-super-likes-1578531335/#:~:text=Super%20Liking%20a%20person%20shows,time%20they%20use%20the%20app.">Super Likes</a>, Boosts, and Dil Details, and also lets users see who liked their profile.&nbsp;</p>
 <p></p>
 <p>Whether you&rsquo;re an Android or iOS user, you can find Dil Mil on your device&rsquo;s app store.</p>
-<h2>How to Sign Up at Dil Mil</h2>
+<h2 id="how-to-sign-up-at-dil-mil"><a href="#how-to-sign-up-at-dil-mil">How to Sign Up at Dil Mil</a></h2>
 <p>The first step in your journey on Dil Mil is signing up! <a href="https://blog.dilmil.co/how-does-dil-mil-work/">Registration</a> is super user-friendly and can be done on your Android or iOS device. Follow these steps:&nbsp;</p>
 <p></p>
 <ol>
@@ -122,7 +122,7 @@ seo:
 <p>Our professional photographers will get to know you and what you&rsquo;re looking for, then help you with every aspect of your personal four to five hour photoshoot to achieve it! That includes posing, what to wear, location, and even facial expression coaching!</p>
 <p></p>
 <p>After all, high-quality photos are the <em>number one</em> thing that can make a difference to your online dating experience. Don&rsquo;t believe us? Just check out some of our <a href="https://thematchartist.com/case-studies">case studies from <em>real clients</em></a><em>!</em></p>
-<h2>User Reviews of Dil Mil</h2>
+<h2 id="user-reviews-of-dil-mil"><a href="#user-reviews-of-dil-mil">User Reviews of Dil Mil</a></h2>
 <p>User feedback on Dil Mil is pretty varied, with some users absolutely loving the app and some hating it!&nbsp;</p>
 <p></p>
 <p>There is quite a big difference between how Android and iPhone users feel about the app, with an overall 4 star rating on the App Store as opposed to a 2 star rating on Google Play.</p>
@@ -182,7 +182,7 @@ seo:
 </ul>
 <p></p>
 <p>Judging by these answers, it sounds like the Android version needs some work!</p>
-<h2>User Complaints About Dil Mil</h2>
+<h2 id="user-complaints-about-dil-mil"><a href="#user-complaints-about-dil-mil">User Complaints About Dil Mil</a></h2>
 <p>A lot of user complaints about Dil Mil are about the performance of the app, not the idea itself.&nbsp;</p>
 <p></p>
 <p>On one <a href="https://www.reddit.com/r/ABCDesis/comments/j147j5/what_are_your_experiences_using_dilmil/">Reddit thread</a>, a lot of Redditors had criticism about the app&rsquo;s user experience, while others thought they got better results from Tinder or Hinge.&nbsp;</p>
@@ -192,7 +192,7 @@ seo:
 <p>On a separate <a href="https://www.reddit.com/r/ABCDesis/comments/s85r1a/dil_mil_premium_is_it_worth_it/">thread</a> about whether Dil Mil premium is worth it, most users seemed to think it wasn&rsquo;t, citing the app&rsquo;s bugs as the main reason.&nbsp;</p>
 <p></p>
 <p>One <a href="https://www.reddit.com/r/ABCDesis/comments/s85r1a/comment/hw9rcf8/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button">user</a>, however, thought Premium was worth it and that he was getting more matches with his premium features&rsquo; purchases than with the free version.&nbsp;</p>
-<h2>Dil Mil from a Guy&rsquo;s Perspective</h2>
+<h2 id="dil-mil-from-a-guys-perspective"><a href="#dil-mil-from-a-guys-perspective">Dil Mil from a Guy&rsquo;s Perspective</a></h2>
 <p>From a guy&rsquo;s perspective, once you&rsquo;ve created your profile and specified your preferences, the app will present you with a range of women&rsquo;s profiles to review. You can then use the swiping feature to like or pass on each profile.&nbsp;</p>
 <p></p>
 <p>When you swipe right (like) on someone, and they do the same, a match is created. Now you can start a conversation, chat, ask questions, share likes and dislikes, and get to know each other through messaging.</p>
@@ -415,3 +415,8 @@ seo:
 <p><a href="https://techcrunch.com/2019/11/25/dating-com-acquires-dil-mil-app-for-south-asian-expats-as-dating-apps-consolidate/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAJqrU5QzSc1kAKM-GeFUti56a3seHeu04QSGxEZf4Rge5MPEdzmQaLE5HlhsnzbJOfLloLfJpFqn4eHVP9J1qixI2wvpBrSWPpOM3rpJnspJkqdX4lHXzYUfMzHaNMsE8UzbMH6nbTipocEQvmKDiWOfckYKGcYhtgYgsKQlD8Cz">techcrunch.com</a></p>
 </li>
 </ol>
+/p>
+</li>
+</ol>
+ol>
+ol>

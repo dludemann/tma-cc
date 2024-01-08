@@ -75,7 +75,7 @@ seo:
 </ul>
 <p></p>
 <p>Let&rsquo;s get started!</p>
-<h2>Do I Need a Facebook Account to Set Up a Free Dil Mil Account?</h2>
+<h2 id="do-i-need-a-facebook-account-to-set-up-a-free-dil-mil-account"><a href="#do-i-need-a-facebook-account-to-set-up-a-free-dil-mil-account">Do I Need a Facebook Account to Set Up a Free Dil Mil Account?</a></h2>
 <p>When Dil Mil was first started, you needed a Facebook account to create your account on the platform and log in. However, you now have options for how to complete registration, either with your mobile phone number or your Facebook account.</p>
 <p></p>
 <p>As part of their safety and security measures, your phone number will be verified, as will your email address.</p>
@@ -83,7 +83,7 @@ seo:
 <p>If you ever decide to delete your account and DilMil app, if you re-register with the same phone number, the Support Team will use this number and data associated with it to ascertain if the profile you&rsquo;ve created in the DilMilapp is the same as previously.&nbsp;</p>
 <p></p>
 <p>This helps to keep Dil Mil&rsquo;s membership safe from catfish, and is one of the security functions they have in place that sets Dil Mil&rsquo;s app&rsquo;s experience apart from other dating apps.</p>
-<h2>Free App Features on Dil Mil</h2>
+<h2 id="free-app-features-on-dil-mil"><a href="#free-app-features-on-dil-mil">Free App Features on Dil Mil</a></h2>
 <p>The features DilMil has on the free version of the app are somewhat limited, but that doesn&rsquo;t mean you can&rsquo;t make connections within the community of singles.</p>
 <h3>Chat Requests</h3>
 <p>On the basic version of the app, if you swipe right on someone, and they do the same for you, you&rsquo;ll match and be able to chat with each other.</p>
@@ -107,23 +107,23 @@ seo:
 <p>It&rsquo;s worth noting that men on the app tend to be a lot more responsive than women. This may be due to women being inundated with more first messages, or it may be because the women on the app can afford to be pickier.</p>
 <p></p>
 <p>Either way, if you don&rsquo;t receive a response, there&rsquo;s no sense crying over spilled milk! So count your losses and move on &mdash; you never know, your best match may be just around the corner!</p>
-<h2>What is the Quality of Matches on the Free Version of Dil Mil?</h2>
+<h2 id="what-is-the-quality-of-matches-on-the-free-version-of-dil-mil"><a href="#what-is-the-quality-of-matches-on-the-free-version-of-dil-mil">What is the Quality of Matches on the Free Version of Dil Mil?</a></h2>
 <p>According to Dil Mil, they have a very high quality of matches and <a href="https://blog.dilmil.co/category/successstories">success stories</a>. In fact, they receive at least one success story <em>every day!</em> That&rsquo;s a pretty high ratio!</p>
 <p></p>
 <p>Additionally, there are very few fake profiles on Dil Mil, thanks to their authentication system. That means that more often than not, you&rsquo;ll have the opportunity to make a real and authentic connection with someone, which could lead to something more!</p>
 <p></p>
 <p>The moderation team at Dil Mil actively <a href="https://dilmil.helpshift.com/hc/en/3-dil-mil/faq/203-how-do-i-report-a-profile-for-impersonation">encourages users to take screenshots and report users</a> who violate their community guidelines, which helps to keep the quality of potential matches high.</p>
-<h2>How Many Swipes Do You Get on Dil Mil Per Day?</h2>
+<h2 id="how-many-swipes-do-you-get-on-dil-mil-per-day"><a href="#how-many-swipes-do-you-get-on-dil-mil-per-day">How Many Swipes Do You Get on Dil Mil Per Day?</a></h2>
 <p>On the free version of Dil Mil dating, you have access to 10 swipes per day. These are reset every 24 hours.</p>
 <p></p>
 <p>While this may not seem like very many swipes to aid you in your search for a soulmate, by having less swipes, you&rsquo;ll need to really look at other people&rsquo;s profiles and read their information carefully before swiping.</p>
 <p></p>
 <p>On other apps, like Tinder, where the number of swipes available are much higher, users &mdash; especially men &mdash; <a href="https://www.elle.com/uk/life-and-culture/culture/news/a31293/men-swipe-right-on-tinder-more-than-women-study-confirms">tend to swipe more indiscriminately</a>, which can lead to dating fatigue.</p>
-<h2>When Do My Matches Reset on Dil Mil?</h2>
+<h2 id="when-do-my-matches-reset-on-dil-mil"><a href="#when-do-my-matches-reset-on-dil-mil">When Do My Matches Reset on Dil Mil?</a></h2>
 <p><a href="https://blog.dilmil.co/how-does-dil-mil-work/#:~:text=You%20can%20like%20(swipe%20right)%20on%20up%20to%2010%20profiles%20a%20day%20that%20refresh%20every%2024%20hours%20and%20start%20messaging%20someone%20as%20soon%20as%20you%20match!%C2%A0">Matches will reset every 24 hours</a> in the application&rsquo;s free version.&nbsp;</p>
 <p></p>
 <p>Of course, depending on where you are in the world (Dil Mil&rsquo;s service is available in the key diaspora markets, including the U.S., Canada, UK, and UAE), the exact time this resets on accounts may vary.</p>
-<h2>Where Can I Get Dils?</h2>
+<h2 id="where-can-i-get-dils"><a href="#where-can-i-get-dils">Where Can I Get Dils?</a></h2>
 <p>Dils &mdash; now known as likes &mdash; will be refreshed in your account for free every 24 hours. If this isn&rsquo;t enough for you, you can upgrade your account to VIP Elite, which will give you unlimited likes.</p>
 <p></p>
 <p>If you want to upgrade, you can do this within the app (whether you&rsquo;re using an Apple or Android device), and you&rsquo;ll be charged through the relevant app store.</p>
@@ -256,5 +256,23 @@ seo:
 </li>
 <li>
 <p><a href="https://dilmil.helpshift.com/hc/en/3-dil-mil/faq/294-what-are-elite-picks-how-do-they-work/?s=managing-my-profile&amp;f=how-do-i-turn-on-my-notifications">dilmil.helpshift.com</a></p>
+</li>
+</ol>
+lpshift.com</a></p>
+</li>
+</ol>
+/a></p>
+</li>
+</ol>
+lpshift.com</a></p>
+</li>
+</ol>
+shift.com</a></p>
+</li>
+</ol>
+/a></p>
+</li>
+</ol>
+lpshift.com</a></p>
 </li>
 </ol>

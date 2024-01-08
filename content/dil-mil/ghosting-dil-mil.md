@@ -113,7 +113,7 @@ seo:
 </ul>
 <p></p>
 <p>Let&rsquo;s get into it!</p>
-<h2>What Is Ghosting on Dil Mil?</h2>
+<h2 id="what-is-ghosting-on-dil-mil"><a href="#what-is-ghosting-on-dil-mil">What Is Ghosting on Dil Mil?</a></h2>
 <p>Ghosting is defined as &ldquo;<a href="https://www.oxfordlearnersdictionaries.com/definition/english/ghosting">the practice of ending a personal relationship with someone by suddenly and without explanation withdrawing from all communication</a>&rdquo;.&nbsp;</p>
 <p></p>
 <p>While ghosting can happen between friends, family, or with romantic partners, specifically on Dil Mil we&rsquo;ll be looking at ghosting potential matches.</p>
@@ -121,7 +121,7 @@ seo:
 <p>What this may look like is someone you were beginning to have a romantic attachment to (perhaps you had already gone on a couple of dates, or were just in the talking stage) suddenly not putting in any effort in the conversation, not giving you much attention or respect, and eventually stopping replying to your messages.</p>
 <p></p>
 <p>While it can be extremely hurtful and cause feelings of uncertainty, hopelessness, confusion, and worthlessness, amongst others, it&rsquo;s important to know that ghosting can happen to anyone. In most cases, it&rsquo;s very rarely about you as an individual, and a lot more about the other person.</p>
-<h2>Is It Normal to Be Ghosted on Dil Mil?</h2>
+<h2 id="is-it-normal-to-be-ghosted-on-dil-mil"><a href="#is-it-normal-to-be-ghosted-on-dil-mil">Is It Normal to Be Ghosted on Dil Mil?</a></h2>
 <p>While we&rsquo;d like to say that it&rsquo;s unusual, the truth is that ghosting &mdash; especially on dating apps &mdash; has become an easy way for people to end a relationship without direct conflict.&nbsp;</p>
 <p></p>
 <p>While it&rsquo;s not necessarily <em>normal</em>, it isn&rsquo;t <em>uncommon</em>. A <a href="https://www.glamour.com/story/ghosting-is-common">survey by Plenty of Fish</a> even found that a ginormous 80% of those polled had been ghosted!</p>
@@ -135,7 +135,7 @@ seo:
 <p>And, while you may feel a sense of betrayal, even heartbreak if you were falling in love with the other person, it&rsquo;s important to know that the grief and loss you may feel over one ghost doesn&rsquo;t mean you may have to endure solitude for the rest of your life.</p>
 <p></p>
 <p>If you consider the fact that there are 1.3 billion people in India, plus about 4 million Indian diaspora in the U.S., when you&rsquo;re using an app for matchmaking in South Asian communities, that&rsquo;s an awful lot of fish in the sea.</p>
-<h2>Create a Ghosting Pact</h2>
+<h2 id="create-a-ghosting-pact"><a href="#create-a-ghosting-pact">Create a Ghosting Pact</a></h2>
 <p>One way that you can try to prevent you and a potential match from ghosting each other is by creating a ghosting pact. Or an anti-ghosting pact may be more accurate.</p>
 <p></p>
 <p>An <a href="https://www.reddit.com/r/dating/comments/bj2s31/no_ghosting_pact">anti-ghosting pact</a> is when you and your match mutually agree not to ghost each other.&nbsp;</p>
@@ -147,7 +147,7 @@ seo:
 <p>Upfront and honest communication, as well as setting boundaries and clear expectations, could make a world of difference in your dating life.</p>
 <p></p>
 <p>So be open from the start and create an anti-ghosting pact!</p>
-<h2>The History of Ghosting</h2>
+<h2 id="the-history-of-ghosting"><a href="#the-history-of-ghosting">The History of Ghosting</a></h2>
 <p>While the actual term &ldquo;ghosting&rdquo; didn&rsquo;t make it into the Merriam-Webster dictionary until 2017, it&rsquo;s been used colloquially since the 1990s.</p>
 <p></p>
 <p>The first known example of ghosting in its current usage was in 1996, when a <a href="https://qz.com/work/1318573/people-are-now-ghosting-at-work-so-we-looked-into-the-words-long-history#:~:text=More%20recently%2C%20however,lose%20the%20bum.%E2%80%9D">golf enthusiast on Usenet</a> said, &ldquo;My instructor &lsquo;ghosted&rsquo; me&hellip; should I lose the bum.&rdquo; However, it wasn&rsquo;t until 2015 when <a href="https://thecollegevoice.org/2019/03/04/the-origins-of-ghosting">Charlize Theron famously ghosted her then-fianc&eacute; Sean Penn</a> by ignoring his calls and texts that the term entered the mainstream.</p>
@@ -155,7 +155,7 @@ seo:
 <p><a href="https://www.verywellmind.com/what-is-ghosting-5071864">Bree Jenkins</a>, a dating coach in Los Angeles, notes that while the actual term is fairly modern, the act of ghosting itself is not, having found reference to someone &ldquo;going out for a loaf of bread and never coming back&rdquo;, or leaving parties and social situations without saying goodbye or giving any notice.</p>
 <p></p>
 <p>So, apparently, even before Google, social media, and dating apps, people were afraid of confrontation!</p>
-<h2>Common Signs of Ghosting Behavior on Dil Mil</h2>
+<h2 id="common-signs-of-ghosting-behavior-on-dil-mil"><a href="#common-signs-of-ghosting-behavior-on-dil-mil">Common Signs of Ghosting Behavior on Dil Mil</a></h2>
 <p>While the actual act of ghosting is pretty clear &mdash; you won&rsquo;t receive any responses to your messages &mdash; the process can be fairly slow and creep up on you.</p>
 <p></p>
 <p>Here&rsquo;s some things to look out for:</p>
@@ -207,7 +207,7 @@ seo:
 <p>Their comments are shallow and lack depth.</p>
 </li>
 </ul>
-<h2>Pros of Ghosting a Match</h2>
+<h2 id="pros-of-ghosting-a-match"><a href="#pros-of-ghosting-a-match">Pros of Ghosting a Match</a></h2>
 <p>While we recommend that you should always attempt to be open and honest about your feelings when it comes to a potential match, sometimes you may have a valid reason for wanting to ghost. And, in some cases, it may even be advisable to do so.</p>
 <p></p>
 <p>You may want to ghost if your match:</p>
@@ -257,7 +257,7 @@ seo:
 </ul>
 <p></p>
 <p>In our opinion, the only acceptable time to ghost someone is if they&rsquo;ve been inappropriate, harassing you, abusive, or threatening. In that case, not only <em>should</em> you ghost them, you should also block and report them in your chat options menu!</p>
-<h2>Cons of Ghosting a Match</h2>
+<h2 id="cons-of-ghosting-a-match"><a href="#cons-of-ghosting-a-match">Cons of Ghosting a Match</a></h2>
 <p>Now, while ghosting may seem like an easy way to disentangle yourself from someone you&rsquo;re not interested in, you should be aware of the cons. These include:</p>
 <p></p>
 <ul>
@@ -708,5 +708,11 @@ seo:
 </li>
 <li>
 <p><a href="https://www.girlschase.com/article/dating-rules/ghosting-part-1-who-gets-ghosted-most-guys-or-girls">girlschase.com</a></p>
+</li>
+</ol>
+rls">girlschase.com</a></p>
+</li>
+</ol>
+rls">girlschase.com</a></p>
 </li>
 </ol>

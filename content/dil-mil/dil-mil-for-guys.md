@@ -57,7 +57,7 @@ seo:
 </ul>
 <p></p>
 <p>Let&rsquo;s get into it!</p>
-<h2>How to Register For Dil Mil</h2>
+<h2 id="how-to-register-for-dil-mil"><a href="#how-to-register-for-dil-mil">How to Register For Dil Mil</a></h2>
 <p>All you need to <a href="https://blog.dilmil.co/how-does-dil-mil-work/">register for Dil Mil</a> is a phone number or Facebook account, and the desire to find love! Registration is as easy as downloading Dil Mil from the Apple or Android app store and verifying your phone number and email.</p>
 <p></p>
 <p>Once you are registered, it&rsquo;s <a href="https://blog.dilmil.co/5-ways-to-spice-up-your-dating-profile/">time to get creative</a>! Upload photos that tell your story, and represent your life and interests. Make your bio punchy and specific. Write about your hobbies and your passions &mdash; the things that make your life unique.</p>
@@ -99,7 +99,7 @@ seo:
 <p>Connecting your Instagram to Dil Mil will also give other profiles a better insight into your life and personality. Just make sure that your Insta is telling the right story <em>before </em>you connect it!</p>
 <p></p>
 <p>The better your profile, the greater your chances are of getting likes, messages, and starting conversations that turn into dates!</p>
-<h2>How Matching Works on Dil Mil</h2>
+<h2 id="how-matching-works-on-dil-mil"><a href="#how-matching-works-on-dil-mil">How Matching Works on Dil Mil</a></h2>
 <p>Matches on Dil Mil are based on compatibility and mutual interest. The algorithm puts individuals that have complementary preferences onto one another&rsquo;s feeds. When someone appears on your feed, you review their profile &mdash; choosing to like or pass on them.&nbsp;</p>
 <p></p>
 <p>If you like someone, and they like you back, then <em>congrats! </em>You&rsquo;ve got a match.&nbsp;</p>

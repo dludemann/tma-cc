@@ -38,7 +38,7 @@ seo:
 <p></p>
 <p>Ready to dive in so you can craft the best first pick up lines to your match? Let&rsquo;s get started!</p>
 <p></p>
-<h2>What Is Dil Mil?</h2>
+<h2 id="what-is-dil-mil"><a href="#what-is-dil-mil">What Is Dil Mil?</a></h2>
 <p>Dil Mil is a specialist dating site, specifically aimed at expat South Asians (ie, desi users). It has over 2 million users in key diasporic markets, including the U.S., U.K., Canada, Australia, and UAE.</p>
 <p></p>
 <p>Described as &ldquo;Tinder for South Asians,&rdquo; Dil Mil uses the same swipe mechanism as other dating apps you may be familiar with. Simply swipe right to like a profile, or swipe left to pass.</p>
@@ -58,7 +58,7 @@ seo:
 <p>The basic version of Dil Mil is free. However, with the free version there are significantly less features, notably access to most of the filters that make Dil Mil so popular. You&rsquo;ll also only have access to 10 swipes a day, then have to wait for 24 hours before this resets.</p>
 <p></p>
 <p>To access the better features and unlimited swipes, you&rsquo;ll have to sign up for <a href="https://dilmil.co/vip-elite">Dil Mil VIP Elite</a>, which can be quite expensive.</p>
-<h2>Preparing for Success with Dil Mil</h2>
+<h2 id="preparing-for-success-with-dil-mil"><a href="#preparing-for-success-with-dil-mil">Preparing for Success with Dil Mil</a></h2>
 <p>Before you can even think about what your first messages on Dil Mil are going to be, make sure that you&rsquo;ve optimized your profile, so that you&rsquo;re getting plenty of matches on the app!</p>
 <p></p>
 <p>Our top tips for optimizing your profile include:</p>
@@ -148,7 +148,7 @@ seo:
 <p>Maybe your ideal match is from an area you know really well, or you went to the same college &mdash; that&rsquo;s a perfect place to start a conversation from!</p>
 <p></p>
 <p>Remember, in the world of online dating, any commonalities are your lifeline, so grab hold to those words and stories and cling on tight.</p>
-<h2>Crafting the Perfect Pick-Up Line</h2>
+<h2 id="crafting-the-perfect-pick-up-line"><a href="#crafting-the-perfect-pick-up-line">Crafting the Perfect Pick-Up Line</a></h2>
 <p>Now that you&rsquo;ve got some tips for how to get more matches, and things to pay attention to when crafting your perfect pick-up line, how about some examples?</p>
 <h3>The Most Cringe Pick-Up Lines</h3>
 <p>While these lines are <em>super</em> cringey, some people are into that! Use with caution!</p>
@@ -573,5 +573,8 @@ seo:
 </li>
 <li>
 <p><a href="https://beelinguapp.com/blog/pick-up-lines">beelinguapp.com</a></p>
+</li>
+</ol>
+beelinguapp.com</a></p>
 </li>
 </ol>

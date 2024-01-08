@@ -137,7 +137,7 @@ seo:
 </ul>
 <p></p>
 <p>Let&rsquo;s dive straight into it!</p>
-<h2>What Is Dil Mil?</h2>
+<h2 id="what-is-dil-mil"><a href="#what-is-dil-mil">What Is Dil Mil?</a></h2>
 <p>Dil Mil is a South Asian dating site that was acquired by <a href="https://www.datinggrp.com/">Social Discovery Group</a> in 2010. A few of the other dating sites they own include dating.com, AnatasiaDate.com, AsianDate.com, AmoLatina.com, and ArabianDate.com.</p>
 <p></p>
 <p>Founded by <a href="https://councils.forbes.com/profile/KJ-Dhaliwal-CSO-CEO-Social-Discovery-Group-Dil-Mil/192afdca-bfd8-4e19-9440-a21320bbe08c">KJ Dhaliwal</a>, the company is based in San Francisco. Branded as &ldquo;Tinder for South Asians&rdquo;, the app became popular amongst expats from South Asian countries, including India.</p>
@@ -155,11 +155,11 @@ seo:
 <p>Your data and answers, therefore, directly affect your potential matches (and the number of them that you&rsquo;re shown).</p>
 <p></p>
 <p>This also means that the way in which you swipe on Dil Mil will <em>not</em> affect which accounts you&rsquo;re shown. The only thing to make sure of, then, is that you&rsquo;ve selected as many options as possible in your search filters!</p>
-<h2>What Does &ldquo;Dil-Mil&rdquo; Mean?</h2>
+<h2 id="what-does-&ldquo;dil-mil&rdquo;-mean"><a href="#what-does-&ldquo;dil-mil&rdquo;-mean">What Does &ldquo;Dil-Mil&rdquo; Mean?</a></h2>
 <p>&ldquo;Dil-mil&rdquo; comes from &ldquo;<a href="https://www.rekhtadictionary.com/meaning-of-dil-milnaa">dil milnaa</a>&rdquo;, which in Urdu translates as &ldquo;[to] have mutual love&rdquo; or &ldquo;find [someone] congenial&rdquo;.</p>
 <p></p>
 <p>That&rsquo;s why the Dil Mil slogan is &ldquo;Love is&rdquo; &mdash; they state that their mission is to &ldquo;<a href="https://blog.dilmil.co/how-does-dil-mil-work">empower the world to find love and make it as painless of a journey for you as possible</a>&rdquo;.&nbsp;</p>
-<h2>Dil Mil User Demographics</h2>
+<h2 id="dil-mil-user-demographics"><a href="#dil-mil-user-demographics">Dil Mil User Demographics</a></h2>
 <p>The majority of Dil Mil users tend to be first gen South Asian expats in key diasporic locations. <a href="https://onlineforlove.com/dil-mil-review/#:~:text=Around%20100%20000%20users%20are%20from%20the%20United%20States">According to some stats</a>, there are roughly 100,000 users in the U.S., of whom 50,000 are active.</p>
 <p></p>
 <p>When it comes to the gender ratio, it&rsquo;s fairly even, with around 55% identifying as male and 45% identifying as female.</p>
@@ -173,7 +173,7 @@ seo:
 <p>When it comes to the age range, the majority of active Dil Mil users (50%) fall in the 25&ndash;34 age range &mdash; which makes sense, as that&rsquo;s likely to be the age when lots of folks would want to settle down.&nbsp;</p>
 <p></p>
 <p>The next most popular user age range is 18&ndash;24 (40%), and the final age ranges of users are 34&ndash;44, 45&ndash;54, and 55+ (10%).</p>
-<h2>Pros of Using Dil Mil</h2>
+<h2 id="pros-of-using-dil-mil"><a href="#pros-of-using-dil-mil">Pros of Using Dil Mil</a></h2>
 <p></p>
 <ul>
 <li>
@@ -216,7 +216,7 @@ seo:
 </li>
 </ul>
 <p>Interestingly, unlike other dating apps, there are <a href="https://blog.dilmil.co/is-dil-mil-safe">next-to-no fake profiles on Dil Mil</a>, and so no scammers to contend with. That&rsquo;s thanks to profile verification, phone number authentication, and a strong and active human moderation team.</p>
-<h2>Cons of Using Dil Mil</h2>
+<h2 id="cons-of-using-dil-mil"><a href="#cons-of-using-dil-mil">Cons of Using Dil Mil</a></h2>
 <p></p>
 <ul>
 <li>
@@ -254,11 +254,11 @@ seo:
 </li>
 </ul>
 <p><a href="https://www.reddit.com/r/ABCDesis/comments/ci67nv/anyone_have_this_problem_with_dil_mil">Some Redditors commented</a> that they were matched with users they hadn&rsquo;t swiped on. Some so much so that it caused them to leave the app.</p>
-<h2>How to Get the Dil Mil App</h2>
+<h2 id="how-to-get-the-dil-mil-app"><a href="#how-to-get-the-dil-mil-app">How to Get the Dil Mil App</a></h2>
 <p>You can download the Dil Mil app for free from either the App Store (for iOS devices) or the Google Play store (for Android devices).</p>
 <p></p>
 <p>It is intended to be used as an app, rather than on desktop (though they do have a web app), so you&rsquo;ll need to download it to your device.</p>
-<h2>How Do You Get Matches on Dil Mil?</h2>
+<h2 id="how-do-you-get-matches-on-dil-mil"><a href="#how-do-you-get-matches-on-dil-mil">How Do You Get Matches on Dil Mil?</a></h2>
 <p>Dil Mil uses the same swipe structure that you&rsquo;ll know from other dating apps, such as Tinder. The steps to get a match are very simple:</p>
 <p></p>
 <ol>
@@ -286,7 +286,7 @@ seo:
 <p>We specialize in photos for your dating profile that not only look <em>amazing</em> but actually get you more matches! Unconvinced that your profile images could really have such sway? Just check out <a href="https://thematchartist.com/case-studies">our case studies from real clients</a>!</p>
 <p></p>
 <p>Just as Dil Mil has a high success rate on their app, so do we &mdash; proving that of anything else you could do to up your internet dating profile game, improving your profile photos is the best idea!</p>
-<h2>Dil Mil Pricing Structure</h2>
+<h2 id="dil-mil-pricing-structure"><a href="#dil-mil-pricing-structure">Dil Mil Pricing Structure</a></h2>
 <p>The basic version of Dil Mil is free, but there are limited features. At this time, it doesn&rsquo;t look like you can purchase certain premium features (eg, Boosts or SuperLikes) separately, though this may change in the future.</p>
 <p></p>
 <p>If you decide to upgrade to <a href="https://dilmil.co/vip-elite">Dil Mil VIP Elite</a>, the premium subscription on the app, then there are a few different prices:</p>
@@ -852,4 +852,35 @@ seo:
 <li>
 <p><a href="https://www.aisle.co/">aisle.co</a></p>
 </li>
+</ol>
+>
+</ol>
+/p>
+</li>
+</ol>
+</ol>
+</ol>
+>
+</ol>
+/p>
+</li>
+</ol>
+</ol>
+</ol>
+</ol>
+>
+>
+</ol>
+</ol>
+</ol>
+>
+</ol>
+</ol>
+</ol>
+>
+</ol>
+>
+>
+</ol>
+</ol>
 </ol>

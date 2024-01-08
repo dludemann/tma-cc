@@ -81,7 +81,7 @@ seo:
 </ul>
 <p></p>
 <p>Ready to get into it? Let&rsquo;s get started!</p>
-<h2>Why Your First Message on Dil Mil is Vital</h2>
+<h2 id="why-your-first-message-on-dil-mil-is-vital"><a href="#why-your-first-message-on-dil-mil-is-vital">Why Your First Message on Dil Mil is Vital</a></h2>
 <p>As with anything, your first impression is of utmost importance. After all, you won&rsquo;t be given chances to make a first impression twice!</p>
 <p></p>
 <p>On the Dil Mil app, it&rsquo;s no different. Your first message to someone should contain something that the other person is able to respond to, so that you can start getting to know each other.</p>
