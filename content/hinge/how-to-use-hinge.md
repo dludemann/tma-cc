@@ -100,7 +100,7 @@ seo:
 <p></p>
 <p>Ready to get started with all things Hinge? Let&rsquo;s dive right in!</p>
 <p><br><br></p>
-<h2>What is Hinge?</h2>
+<h2 id="what-is-hinge"><a href="#what-is-hinge">What is Hinge?</a></h2>
 <p>Hinge is an app-based dating service, similar to Tinder or Bumble. You can download it from whichever app store you use for your mobile device.</p>
 <p></p>
 <p>When you sign up, you can browse (no swiping here!) through other members&rsquo; profiles and Like (or heart) their profile pictures or responses to Prompts, by using the heart icon. If the other person then Likes you back, you can start messaging them and hopefully begin a conversation!</p>
@@ -108,7 +108,7 @@ seo:
 <p>Conversations are key on Hinge, as they consider themselves to be a &ldquo;relationship app&rdquo;, rather than just another dating app.</p>
 <p></p>
 <p>Hinge is part of the Match group, who also own other dating apps, such as Tinder, OKCupid, and Plenty of Fish.</p>
-<h2>What is Unique About Hinge?</h2>
+<h2 id="what-is-unique-about-hinge"><a href="#what-is-unique-about-hinge">What is Unique About Hinge?</a></h2>
 <p>If you&rsquo;ve been struggling connecting with people on other dating apps, Hinge could be a good option for you.</p>
 <p></p>
 <p>Unlike other services (like Tinder), which have a reputation for being a &ldquo;hookup app&rdquo;, with Hinge they encourage users to create profiles which are more for finding a long term partner.&nbsp;</p>
@@ -118,7 +118,7 @@ seo:
 <p>Perhaps people who have family plans and want to find someone who aligns with their life criteria in their beliefs, plans for kids, and more! On this platform there&rsquo;s more of an emphasis on your personality, finding mutual interests and common ground.</p>
 <p></p>
 <p>Additionally, instead of Liking the whole profile, you Like elements of it &mdash; ie, the images or prompts &mdash; and then if they Like you back you can use this for your conversation starters! It&rsquo;s a much more personal idea, which could give you a chance to connect with someone over anything on their profile!</p>
-<h2>Hinge&rsquo;s Core Beliefs Make It Different From Other Dating Apps</h2>
+<h2 id="hinges-core-beliefs-make-it-different-from-other-dating-apps"><a href="#hinges-core-beliefs-make-it-different-from-other-dating-apps">Hinge&rsquo;s Core Beliefs Make It Different From Other Dating Apps</a></h2>
 <p>Hinge has a very simple slogan: &ldquo;designed to be deleted&rdquo;.</p>
 <p></p>
 <p><em>But what does that mean?</em></p>
@@ -128,7 +128,7 @@ seo:
 <p>In other words, the hope is that through the dating app you&rsquo;ll make meaningful connections, meet someone who shares your values, and Hinge will be &ldquo;the last app you&rsquo;ll ever need&rdquo;!</p>
 <p></p>
 <p>A bit different from other dating apps, isn&rsquo;t it?</p>
-<h2>How to Get Started with Hinge</h2>
+<h2 id="how-to-get-started-with-hinge"><a href="#how-to-get-started-with-hinge">How to Get Started with Hinge</a></h2>
 <p>Starting your Hinge membership and the sign-up process is easy &mdash; let&rsquo;s go through it step by step!</p>
 <h3>Download the App</h3>
 <p>The first step is to head to either the App Store or the Google Play store, search for Hinge, and download it to your device.</p>
@@ -191,7 +191,7 @@ seo:
 <p>You can choose to hide all of this from displaying on your profile, too.&nbsp;</p>
 <p></p>
 <p>All of the choices you make in this section will be key to how you&rsquo;re Matched with other users, so be sure to consider carefully and make sure you choose the right ones for you!</p>
-<h2>How Does Hinge Work: Features &amp; Matching</h2>
+<h2 id="how-does-hinge-work:-features-&amp;-matching"><a href="#how-does-hinge-work:-features-&amp;-matching">How Does Hinge Work: Features &amp; Matching</a></h2>
 <p>Hinge is a pretty easy app to get your head around. Much like other dating apps, you have the ability to sync additional social media, such as Instagram and Facebook, and all of its features make sense.</p>
 <p></p>
 <p>We&rsquo;re going to let you in on a little secret, too: you can actually have multiple Hinge accounts, as long as you use a different log-in to get online (ie, a different phone number or different Facebook account).&nbsp;</p>
@@ -285,7 +285,7 @@ seo:
 <p>According to <a href="https://www.reddit.com/r/hingeapp/comments/si0txx/most_compatible">user reviews</a>, however, Most Compatible can be a little bit hit or miss. Our best advice? Make sure that you put your best foot forward when it comes to building your profile &mdash; that way, if you truly <em>are</em> compatible, the other person will be more likely to see it, too!</p>
 <p></p>
 <p>If available, Hinge will show you <a href="https://hingeapp.zendesk.com/hc/en-us/articles/360011233073-What-is-Most-Compatible-">at least one Most Compatible Match daily</a>.</p>
-<h2>Who Uses Hinge?</h2>
+<h2 id="who-uses-hinge"><a href="#who-uses-hinge">Who Uses Hinge?</a></h2>
 <p>There are roughly <a href="https://www.businessofapps.com/data/hinge-statistics"><em>23 million</em></a> people using Hinge, of whom roughly 1 million are paid users. Most of these users are based in the U.S.</p>
 <p></p>
 <p>The general demographic tends to be <a href="https://blog.gitnux.com/hinge-user-statistics/#:~:text=Hinge.co%E2%80%99s%20audience%20is%20predominantly%20male%20and%20Millenials/Gen%20Z%2C%20with%20only%204.68%25%20of%20users%20over%2065%20years%20of%20age.">Gen Z and Millennial</a>, as Hinge is one of the newer apps on the market. There also tends to be more of a skew towards those identifying as part of the LGBTQ+ community on dating apps in general, as opposed to cisgender heterosexual users.</p>
@@ -301,7 +301,7 @@ seo:
 <p>The idea is to get to know the other person well so that you can actually initiate a date, which could potentially lead to a relationship.</p>
 <p></p>
 <p>But, of course, we&rsquo;re not going to tell you what to use your dating app for! If you&rsquo;re looking for hookups, Tinder may be a better app Match for you.</p>
-<h2>What Does a Good Hinge Profile Look Like?</h2>
+<h2 id="what-does-a-good-hinge-profile-look-like"><a href="#what-does-a-good-hinge-profile-look-like">What Does a Good Hinge Profile Look Like?</a></h2>
 <p>While building a good Hinge profile may seem akin to climbing Mount Everest, we promise it&rsquo;s really not all that hard! You just need to put some time into it.</p>
 <p></p>
 <p>Here&rsquo;s what you need to know <a href="https://stylecaster.com/feature/dating-app-profile-tips-1197518">according to Logan Ury</a>, Hinge&rsquo;s Director of Relationship Science.</p>
@@ -347,7 +347,7 @@ seo:
 <p>While not everyone can be a grammar and spelling whizz, misspelled words or a profile full of grammatical errors just makes it look like you don&rsquo;t care.&nbsp;</p>
 <p></p>
 <p>There are heaps of free programs out there that can help you double check before you post &mdash; perhaps you could even ask a trusted friend! Either way, make sure your profile is error free before you publish it to the world!</p>
-<h2>Hinge Prompts Guide</h2>
+<h2 id="hinge-prompts-guide"><a href="#hinge-prompts-guide">Hinge Prompts Guide</a></h2>
 <p>Prompts are Hinge&rsquo;s answer to the boring bio. Instead of writing a dull 50 words about yourself, they instead get you to answer a series of Prompts which display on your profile.</p>
 <p></p>
 <p>When you set up your profile, you&rsquo;ll have to include three answers to Prompts. You can also add Video Prompts (which are a good way to let someone else see and hear you!), Voice Prompts, and answer polls.&nbsp;</p>
@@ -593,5 +593,39 @@ seo:
 </li>
 <li>
 <p><a href="https://www.theatlantic.com/health/archive/2016/10/the-unbearable-exhaustion-of-dating-apps/505184">theatlantic.com</a></p>
+</li>
+</ol>
+</li>
+</ol>
+5184">theatlantic.com</a></p>
+</li>
+</ol>
+>
+</ol>
+tlantic.com</a></p>
+</li>
+</ol>
+>
+</ol>
+tlantic.com</a></p>
+</li>
+</ol>
+antic.com</a></p>
+</li>
+</ol>
+tlantic.com</a></p>
+</li>
+</ol>
+></p>
+</li>
+</ol>
+tlantic.com</a></p>
+</li>
+</ol>
+tlantic.com</a></p>
+</li>
+</ol>
+ol>
+tlantic.com</a></p>
 </li>
 </ol>

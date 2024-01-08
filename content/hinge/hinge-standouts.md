@@ -70,7 +70,7 @@ seo:
 <p></p>
 <p>Get ready to dive into the world of Hinge Standouts and discover a treasure trove of fascinating profiles, tailored just for you!</p>
 <p><br><br></p>
-<h2>What Are Hinge Standouts?</h2>
+<h2 id="what-are-hinge-standouts"><a href="#what-are-hinge-standouts">What Are Hinge Standouts?</a></h2>
 <p>Hinge Standouts feature designed to make your dating app experience even more enjoyable!&nbsp;</p>
 <p></p>
 <p>Every day, Hinge will show you a new selection of users who have answered specific Prompts. From there, you can click on their response to pull up their full profile and, if you&rsquo;re interested, send a Rose to indicate so.</p>
@@ -80,7 +80,7 @@ seo:
 <p><em>And all without having to mindlessly scroll through multiple dating apps!</em></p>
 <p></p>
 <p>Simply tap on the Star icon to access your Standouts feed, and let the magic of the Hinge algorithm work to help you find a match that could lead to a meaningful relationship!</p>
-<h2>How Are Standouts Chosen on Hinge?</h2>
+<h2 id="how-are-standouts-chosen-on-hinge"><a href="#how-are-standouts-chosen-on-hinge">How Are Standouts Chosen on Hinge?</a></h2>
 <p>Standouts on Hinge are handpicked by the app&rsquo;s algorithm, which takes into account a variety of things to ensure a personalized selection just for you.&nbsp;</p>
 <p></p>
 <p>By analyzing both your activity on the app, as well as the information you provide in your profile creation, the algorithm is able to curate a list of Standouts profiles that it deems most likely to pique your interest.&nbsp;</p>
@@ -88,7 +88,7 @@ seo:
 <p>The Standouts list is not only a reflection of your taste, but also shows you users with high-quality pictures, captivating Prompts, and engaging personalities.&nbsp;</p>
 <p></p>
 <p>Hinge&rsquo;s data-driven approach guarantees that the profiles featured in your Standouts will make your online dating experience both more enjoyable and fruitful!</p>
-<h2>How Do You Get Selected to Be on Hinge Standouts?</h2>
+<h2 id="how-do-you-get-selected-to-be-on-hinge-standouts"><a href="#how-do-you-get-selected-to-be-on-hinge-standouts">How Do You Get Selected to Be on Hinge Standouts?</a></h2>
 <p>To increase your chances of being featured in Hinge Standouts, focus on creating an exceptional dating profile that showcases your best qualities.&nbsp;</p>
 <p></p>
 <p>Interesting Prompts, genuine answers to questions, and authenticity can make a significant difference in catching the attention of the Hinge algorithm, making it onto someone&rsquo;s Standouts feed, and forging meaningful connections.&nbsp;</p>

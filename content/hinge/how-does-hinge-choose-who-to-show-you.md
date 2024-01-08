@@ -54,7 +54,7 @@ seo:
 <p></p>
 <p>Are you ready to master Hinge? Let&rsquo;s get into it!</p>
 <p><br><br></p>
-<h2>Does Hinge Have an Algorithm?</h2>
+<h2 id="does-hinge-have-an-algorithm"><a href="#does-hinge-have-an-algorithm">Does Hinge Have an Algorithm?</a></h2>
 <p>At the beating heart of Hinge is a Nobel-award-winning bit of <a href="https://www.nature.com/articles/nature.2012.11607">matchmaking science</a> &mdash; known as the Gale-Shapley algorithm. Or, at least, a very similar mechanism.&nbsp;</p>
 <p></p>
 <p>The Gale-Shapley algorithm was designed to facilitate the trading of items that can&rsquo;t be purchased with money. The objective values of these items aren't important. What&rsquo;s important is that both parties feel their items are of equivalent value.</p>
@@ -62,7 +62,7 @@ seo:
 <p>A trade made under these conditions leads to long lasting satisfaction for both traders.&nbsp;</p>
 <p></p>
 <p>Now, while that <em>might</em> sound like an overly analytical approach to bring to dating, when it comes to algorithms it&rsquo;s a pretty great system. When you think about it, long lasting satisfaction is <em>exactly</em> something that you&rsquo;re trying to achieve in a relationship too!</p>
-<h2>How Does The Hinge Algorithm Work?</h2>
+<h2 id="how-does-the-hinge-algorithm-work"><a href="#how-does-the-hinge-algorithm-work">How Does The Hinge Algorithm Work?</a></h2>
 <p>The goal of Hinge&rsquo;s current algorithm is simple: to match like-minded and mutually attracted <a href="https://hingeapp.zendesk.com/hc/en-us/articles/4407404339603-FAQ-Gender-Options-in-the-App">men, women, and non-binary people</a> with the aim of them becoming a couple.&nbsp;</p>
 <p></p>
 <p>Behavioral scientist <a href="https://www.loganury.com/about-logan">Logan Ury</a> explains that, &ldquo;<a href="https://www.vice.com/en/article/z3e3bw/how-does-the-hinge-algorithm-work">Hinge learns who you like and who is most likely to like you back</a>.&rdquo;&nbsp;</p>
@@ -74,13 +74,13 @@ seo:
 <p>That means (<em>and no offense to your friend</em>), the dates the algorithm makes are with people you <em>actually want to meet!</em></p>
 <p></p>
 <p><em>Pretty good for a dating site, right?</em></p>
-<h2>How Does Hinge Know Your Type?</h2>
+<h2 id="how-does-hinge-know-your-type"><a href="#how-does-hinge-know-your-type">How Does Hinge Know Your Type?</a></h2>
 <p>When you sign up, the algorithm asks questions about your preferences (age, dealbreakers, interests, etc). Then, as you continue using the dating app, Hinge keeps a track of the profiles you positively respond to.</p>
 <p></p>
 <p>Over time, Hinge builds a clearer picture of who you might be attracted to, almost as if they were <em>actually in your head</em>.&nbsp;</p>
 <p></p>
 <p>So, the more screen-time you put in, the better Hinge gets at suggesting possible matches for you and showing you them in your feed!</p>
-<h2>Does Hinge Show You Equally Attractive People?</h2>
+<h2 id="does-hinge-show-you-equally-attractive-people"><a href="#does-hinge-show-you-equally-attractive-people">Does Hinge Show You Equally Attractive People?</a></h2>
 <p>We all know that attractiveness plays a significant role in finding dates and building relationships.&nbsp;</p>
 <p></p>
 <p>We <em>also</em> know that attractiveness is <em>not</em> an objectively measurable quality. Everybody has a type, and those types can be extremely variable.&nbsp;</p>
@@ -251,5 +251,12 @@ seo:
 </li>
 <li>
 <p><a href="https://vergizmo.com/hinge-matches-disappear">vergizmo.com</a></p>
+</li>
+</ol>
+ergizmo.com</a></p>
+</li>
+</ol>
+>
+ergizmo.com</a></p>
 </li>
 </ol>

@@ -48,7 +48,7 @@ seo:
 <p></p>
 <p>Let&rsquo;s dive right in!</p>
 <p><br><br></p>
-<h2>Why You Should Care About Optimizing Your Hinge Profile</h2>
+<h2 id="why-you-should-care-about-optimizing-your-hinge-profile"><a href="#why-you-should-care-about-optimizing-your-hinge-profile">Why You Should Care About Optimizing Your Hinge Profile</a></h2>
 <p><a href="https://www.scienceofpeople.com/first-impressions"><em>Seven seconds</em></a> is the amount of time it takes to make a first impression &mdash; even digitally! After that, it takes hundreds of impressions (an impression being every interaction you have with someone after the first) to significantly alter their initial perception of you.</p>
 <p></p>
 <p>As you can see, making the right impression on potential Matches is absolutely mandatory!</p>
@@ -62,7 +62,7 @@ seo:
 <p>All you need are a few engaging photo prompts, high-quality images, and an authentic bio to increase your profile views and your chances of finding a meaningful connection on the app.&nbsp;</p>
 <p></p>
 <p>Not sure where to start? Looking at other profile examples is a great way to get ideas for your own.</p>
-<h2>What Guys Look For in a Hinge Profile</h2>
+<h2 id="what-guys-look-for-in-a-hinge-profile"><a href="#what-guys-look-for-in-a-hinge-profile">What Guys Look For in a Hinge Profile</a></h2>
 <p>Guys on Hinge often look for a combination of:</p>
 <p></p>
 <ul>
@@ -210,7 +210,7 @@ seo:
 <p>When engaging with your Matches, be sure to leave thoughtful comments on their prompts.&nbsp;</p>
 <p></p>
 <p>It not only shows that you&rsquo;re genuinely interested in getting to know them, it could also lead to more meaningful conversations, as well as better conversation starters.</p>
-<h2>18. Take Advantage of Video</h2>
+<h2 id="take-advantage-of-video"><a href="#take-advantage-of-video">18. Take Advantage of Video</a></h2>
 <p>Are you really using all of Hinge&rsquo;s features to your best advantage? The <a href="https://static1.squarespace.com/static/5a889946d0e62816136ebcbb/t/5df50b4803e32e5334856bf7/1576340299435/HingeGame.pdf">video feature</a> on Hinge is a <em>great</em> way to stand out, especially as they&rsquo;re so underused!</p>
 <p></p>
 <p>Just make sure you&rsquo;re following these golden rules:</p>
@@ -251,7 +251,7 @@ seo:
 </li>
 </ol>
 <p>If you&rsquo;ve got a nice smile, make sure you highlight it in your video! Your match will feel at ease, you&rsquo;ll appear approachable and friendly, and, maybe, with a bit of work on the rest of your profile, you&rsquo;ll even score a date out of it&hellip;!</p>
-<h2>19. Add Prompts to Your Photos</h2>
+<h2 id="add-prompts-to-your-photos"><a href="#add-prompts-to-your-photos">19. Add Prompts to Your Photos</a></h2>
 <p>Did you know that you can also <a href="https://hingeapp.zendesk.com/hc/en-us/articles/360040576594-What-are-Photo-Prompts-">add Prompts to your photos</a>?</p>
 <p></p>
 <p>Similar to regular Prompts, Photo Prompts allow you to pair your images with a Prompt, essentially creating a meme of yourself.</p>
@@ -262,7 +262,7 @@ seo:
 <p></p>
 <p>When used well, you can potentially get a few more Likes in your Likes You feed, and maybe even a comment or two, which could all lead to more dates&hellip;!</p>
 <p><img height="356" width="546" src="https://lh4.googleusercontent.com/UvBa3553JusZ1CS7jqyhynuPG9eq__Y0qf2HdoUi9zx6WYG2mgRlR1o8AIuP1r9zJXSSPjqeSHQ8-ynZ2LXaVAqDNbhjI2zo63y6Z3pHuf-D0XCzQ11xfC0Z5L0kdnZXU1CRzmZu9phGEY3f9fwz0CM"></p>
-<h2>Key Takeaways</h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p>If you&rsquo;re looking for more dates on the app, the best thing you could do for yourself is optimize your Hinge profile.</p>
 <p></p>
 <p>By using attractive photos, showcasing your personality, and creating unique and intriguing prompts, you can make a great first impression on potential Matches!</p>
@@ -321,7 +321,7 @@ seo:
 <p>When it&rsquo;s so easy to optimize your profile and get a few more dates (with a man or a woman!) as a result, why wouldn&rsquo;t you?</p>
 <p></p>
 <p>And, if your amateur photos just aren&rsquo;t making the cut, maybe it&rsquo;s time to <a href="https://thematchartist.com/online-dating-photographer-near-me">book a photoshoot with The Match Artist</a>. We love what we do and we get our clients <em>results</em>. Why don&rsquo;t you book and see for yourself!</p>
-<h2>What Does a Good Hinge Profile Look Like FAQs</h2>
+<h2 id="what-does-a-good-hinge-profile-look-like-faqs"><a href="#what-does-a-good-hinge-profile-look-like-faqs">What Does a Good Hinge Profile Look Like FAQs</a></h2>
 <h3>Why do you need six photos on Hinge?</h3>
 <p>Hinge requires account holders to upload at least six photos or videos on their profile to provide other users with a better idea of who they are and what they enjoy.&nbsp;</p>
 <p></p>
@@ -366,7 +366,7 @@ seo:
 <p>One way to determine if someone is a good Match for you is to look for common interests or activities. If they share similar likes or hobbies, that can be a great starting point for conversation!</p>
 <p></p>
 <p>You also need to pay attention to their vibe and truths they reveal about themselves in their profile and messages. Don&rsquo;t be afraid to trust your gut instinct &mdash; if something feels off, it probably is!</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://www.scienceofpeople.com/first-impressions/">scienceofpeople.com</a></p>
@@ -394,5 +394,61 @@ seo:
 </li>
 <li>
 <p><a href="https://hingeapp.zendesk.com/hc/en-us/articles/360040576594-What-are-Photo-Prompts-">hingeapp.zendesk.com</a></p>
+</li>
+</ol>
+esk.com</a></p>
+</li>
+</ol>
+/p>
+</li>
+</ol>
+/a></p>
+</li>
+</ol>
+/p>
+</li>
+</ol>
+/a></p>
+</li>
+</ol>
+>
+</ol>
+/a></p>
+</li>
+</ol>
+/p>
+</li>
+</ol>
+/a></p>
+</li>
+</ol>
+/a></p>
+</li>
+</ol>
+/a></p>
+</li>
+</ol>
+/p>
+</li>
+</ol>
+/a></p>
+</li>
+</ol>
+/a></p>
+</li>
+</ol>
+/a></p>
+</li>
+</ol>
+></p>
+</li>
+</ol>
+/a></p>
+</li>
+</ol>
+/a></p>
+</li>
+</ol>
+/a></p>
 </li>
 </ol>

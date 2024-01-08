@@ -64,7 +64,7 @@ seo:
 <p></p>
 <p>Let&rsquo;s get started!</p>
 <p><br><br></p>
-<h2>What Is Hinge?</h2>
+<h2 id="what-is-hinge"><a href="#what-is-hinge">What Is Hinge?</a></h2>
 <p><a href="https://hinge.co/">Hinge</a> is a dating app which focuses on helping users to find meaningful relationships. It differs from the casual swipe culture of other dating apps &mdash; such as Tinder, Bumble, and eHarmony &mdash; and instead uses a unique system of prompts and answers to foster in-depth conversations with potential matches.</p>
 <p></p>
 <p>With the tagline, &ldquo;designed to be deleted&rdquo;, the hope with Hinge is that you&rsquo;ll be able to meet others who match your life goals, and hopefully never need another dating app again!</p>
@@ -78,7 +78,7 @@ seo:
 <p>Roses indicate a level of heightened attraction, letting the person know you think there&rsquo;s strong potential for a match.&nbsp;</p>
 <p></p>
 <p>While sending a Rose is no guarantee that the other person will match with you, it could increase the chance of sparking a conversation and developing a meaningful connection.</p>
-<h2>Understanding Roses on Hinge</h2>
+<h2 id="understanding-roses-on-hinge"><a href="#understanding-roses-on-hinge">Understanding Roses on Hinge</a></h2>
 <p>Roses on Hinge are designed to improve your dating experience by letting you show special interest in a profile. The limited availability adds to its value, and can increase your chances of catching someone&rsquo;s attention.&nbsp;</p>
 <h3>Does Sending a Rose on Hinge Work?</h3>
 <p>There isn&rsquo;t clear research or studies in publications to indicate whether or not sending Roses will get you more dates. However, sending a Rose may get you noticed, as it sends your profile to the front of the other person&rsquo;s <a href="https://www.businessinsider.com/guides/tech/roses-on-hinge">likes</a> queue.</p>
@@ -114,7 +114,7 @@ seo:
 <p>If you receive a Rose on Hinge, that&rsquo;s a strong indication that someone likes you. Because Roses are relatively rare, it shows that your profile really stood out.</p>
 <p></p>
 <p>When you receive a Rose, you&rsquo;ll see a Rose icon next to the person&rsquo;s name in your Likes You feed, along with their comment (if they sent one). From here, it&rsquo;s business as usual, and you can choose if you&rsquo;d like to reply (dial in one of your best lines!), return a like (or Rose), or match.</p>
-<h2>How to Utilize Roses on Hinge</h2>
+<h2 id="how-to-utilize-roses-on-hinge"><a href="#how-to-utilize-roses-on-hinge">How to Utilize Roses on Hinge</a></h2>
 <p>The best way to use Roses is to give them out to profiles that truly stand out to you and people you have a genuine interest in. This way you can increase your chances of forming a connection.&nbsp;</p>
 <h3>How to Get Roses on Hinge</h3>
 <p>You get one free Rose a week as a Hinge user, and they&rsquo;re added to your account automatically. They won&rsquo;t expire, but they won&rsquo;t accumulate either, so be sure to use it!&nbsp;</p>
@@ -142,7 +142,7 @@ seo:
 <p>Trust us, we know how hard it is to pose naturally in front of the camera. That&rsquo;s why we&rsquo;re with you every step of the way, from selection of outfit, to how exactly to give off &ldquo;mysterious&rdquo; vibes.</p>
 <p></p>
 <p>All you&rsquo;ll have to do is follow our instructions &mdash; and maybe do a little homework in front of the mirror before shoot day! Then, get ready for the best images you&rsquo;ll have ever seen of yourself, that <a href="https://thematchartist.com/case-studies"><em>really get results</em></a><em>!</em></p>
-<h2>Hinge Roses: Regular vs. Premium Features</h2>
+<h2 id="hinge-roses:-regular-vs-premium-features"><a href="#hinge-roses:-regular-vs-premium-features">Hinge Roses: Regular vs. Premium Features</a></h2>
 <p>How do Roses differ on Hinge regular vs. Hinge Premium? Read on as we break it down!</p>
 <h3>How Often Do You Get a Rose on Hinge?</h3>
 <p>On the free version of Hinge, you&rsquo;ll get one Rose each week.&nbsp;</p>
@@ -164,7 +164,7 @@ seo:
 <p>Purchasing 12 Roses will set you back $29.99.&nbsp;</p>
 </li>
 </ul>
-<h2>Nuances of Hinge&rsquo;s Rose Feature</h2>
+<h2 id="nuances-of-hinges-rose-feature"><a href="#nuances-of-hinges-rose-feature">Nuances of Hinge&rsquo;s Rose Feature</a></h2>
 <p>While Roses are relatively straightforward, it&rsquo;s important to understand the nuances of using them before you start giving them out.</p>
 <h3>Do Hinge Roses Carry Over?</h3>
 <p>Weekly free Roses do not carry over: you only get one per week.&nbsp;</p>
@@ -182,7 +182,7 @@ seo:
 <p>While Hinge Standouts are profiles that the algorithm thinks you will be particularly attracted to, and you can only send these profiles Roses, you can also choose to send Roses to profiles you see on your Discover feed.</p>
 <h3>Does Hinge Tell If You Send a Rose?</h3>
 <p>Yes, when you send a Rose the recipient is notified. They&rsquo;ll see a Rose icon next to your name in their Likes You feed, along with any comments you&rsquo;ve sent.</p>
-<h2>Other Considerations and Strategies with Hinge Roses</h2>
+<h2 id="other-considerations-and-strategies-with-hinge-roses"><a href="#other-considerations-and-strategies-with-hinge-roses">Other Considerations and Strategies with Hinge Roses</a></h2>
 <p>It can be tricky to navigate Roses on Hinge. When to use them, what to do if you receive them, and whether or not you should buy extra Roses are all options to consider.</p>
 <h3>Is It Normal to Get Roses on Hinge?</h3>
 <p>It can feel nerve wracking sending Roses, but yes, it&rsquo;s normal to receive Roses on Hinge, particularly if your profile stands out to someone.&nbsp;</p>
@@ -204,7 +204,7 @@ seo:
 <p>Hinge doesn&rsquo;t decide who gets Roses, it&rsquo;s decided by the users!&nbsp;</p>
 <p></p>
 <p>Roses are 100% allocated by Hinge users to others that catch their interest, which may ultimately lead to success.&nbsp;</p>
-<h2>Key Takeaways</h2>
+<h2 id="key-takeaways"><a href="#key-takeaways">Key Takeaways</a></h2>
 <p>Roses on Hinge are special. They&rsquo;re a unique feature that allow you to show a heightened level of interest in another user&rsquo;s profile. Because you only get one per week, they carry more weight than a simple &ldquo;like&rdquo;.&nbsp;</p>
 <p></p>
 <p>If you see someone on Standouts who catches your eye, you&rsquo;ll only be able to interact with them using Roses. However, you can also send a Rose to anyone who shows up in your Discover feed.&nbsp;</p>
@@ -216,7 +216,7 @@ seo:
 <p>Remember &mdash; Roses don&rsquo;t guarantee a match, they may just give you an advantage!</p>
 <p></p>
 <p>What&rsquo;ll give you <em>even more</em> of an advantage are fantastic profile pictures, <a href="https://thematchartist.com/online-dating-photographer-near-me">courtesy of The Match Artist</a>! If you&rsquo;re ready to upgrade your profile, <a href="https://thematchartist.com/online-dating-photographer-near-me">get in touch today</a> and let&rsquo;s begin your journey to a better dating profile!</p>
-<h2>Frequently Asked Questions</h2>
+<h2 id="frequently-asked-questions"><a href="#frequently-asked-questions">Frequently Asked Questions</a></h2>
 <h3>What does it look like when you receive a Rose on Hinge?</h3>
 <p>When you receive a Rose on Hinge, you&rsquo;ll get a notification in your Likes You and messages feeds that someone has sent you a Rose. The Rose icon will be attached to the user&rsquo;s profile who sent it.&nbsp;</p>
 <h3>Can you unsend a Rose on Hinge?</h3>
@@ -227,7 +227,7 @@ seo:
 <p>Have a look at the person&rsquo;s profile &mdash; if you like the look of them, you can hit the like button on your phone screen, reply to their comment (if they&rsquo;ve included one), or choose to match with them.&nbsp;</p>
 <p></p>
 <p>If you don&rsquo;t think they&rsquo;d be a good fit for you or they&rsquo;re not your type, you have no obligation to like them back just because they sent you a Rose.</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://hinge.co/">hinge.co</a></p>
@@ -249,5 +249,43 @@ seo:
 </li>
 <li>
 <p><a href="https://techzillo.com/is-sending-a-rose-on-hinge-weird/">techzillo.com</a></p>
+</li>
+</ol>
+d/">techzillo.com</a></p>
+</li>
+</ol>
+-on-hinge-weird/">techzillo.com</a></p>
+</li>
+</ol>
+>
+e-weird/">techzillo.com</a></p>
+</li>
+</ol>
+</ol>
+>
+e-weird/">techzillo.com</a></p>
+</li>
+</ol>
+com</a></p>
+</li>
+</ol>
+>
+</ol>
+>
+e-weird/">techzillo.com</a></p>
+</li>
+</ol>
+com</a></p>
+</li>
+</ol>
+com</a></p>
+</li>
+</ol>
+com</a></p>
+</li>
+</ol>
+li>
+</ol>
+com</a></p>
 </li>
 </ol>

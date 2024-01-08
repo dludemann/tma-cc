@@ -68,7 +68,7 @@ seo:
 <p></p>
 <p>Let&rsquo;s get started!</p>
 <p><br><br></p>
-<h2>What Is Hinge?</h2>
+<h2 id="what-is-hinge"><a href="#what-is-hinge">What Is Hinge?</a></h2>
 <p><a href="https://hinge.co/">Hinge</a> was launched in 2012 (incidentally, the same year Tinder was launched), and is owned by the Match Group. Similar in usability to Tinder or Bumble, Hinge is a popular dating app used by people in many countries around the world.&nbsp;</p>
 <p></p>
 <p>However, unlike Tinder and Bumble, Hinge promotes itself as &ldquo;the app designed to be deleted&rdquo;. Its aim is to help people find each other and form genuine relationships instead of casual hookups.</p>

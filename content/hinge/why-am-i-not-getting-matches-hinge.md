@@ -2,18 +2,18 @@
 title: 'Why Am I Not Getting Any Matches on Hinge?'
 menu_grouping: Maximizing Success on Hinge
 author: Shane White
-featured_image: 
+featured_image:
 seo:
-          page_description: >-
-            A guide to the Hinge algorithm
-          canonical_url:
-          featured_image:
-          featured_image_alt:
-          author_twitter_handle:
-          open_graph_type:
-          no_index: false
-        
+  page_description: >-
+    A guide to the Hinge algorithm
+  canonical_url:
+  featured_image:
+  featured_image_alt:
+  author_twitter_handle:
+  open_graph_type:
+  no_index: false
 ---
+
 <p>If you&rsquo;ve been on various dating apps for a while, made the switch to Hinge hoping to find &ldquo;the one&rdquo;, and then been rewarded with nothing, it can be pretty disheartening.</p>
 <p></p>
 <p>Why aren&rsquo;t you seeing any success on the app &mdash; is it you, your bio, or is it something to do with your account?</p>
@@ -78,7 +78,7 @@ seo:
 <p></p>
 <p>Let&rsquo;s get into it and get you some more matches!</p>
 <p><br><br></p>
-<h2>How Hinge Works</h2>
+<h2 id="how-hinge-works"><a href="#how-hinge-works">How Hinge Works</a></h2>
 <p>Hinge is a <a href="https://www.businessinsider.com/guides/tech/how-does-hinge-work">dating app much like Tinder</a>. You can browse through other profiles of men and women (depending on how you set up your preferences), view their pictures and Prompt answers, and Like them.</p>
 <p></p>
 <p>Once you&rsquo;ve expressed interest in the other person, if it&rsquo;s mutual and they also Like something on your profile, you&rsquo;ll be able to match and message each other and start conversations.</p>
@@ -96,13 +96,13 @@ seo:
 <p>As Hinge is all about relationships, your chances will be much better the more open and honest you are about yourself. It&rsquo;s not really a numbers game with Hinge, it&rsquo;s more about making genuine connections.&nbsp;</p>
 <p></p>
 <p>So, don&rsquo;t just Like anyone that comes your way &mdash; not only will it confuse the algorithm, it could also stop you from meeting the right people and getting matches!</p>
-<h2>Do Girls Like First on Hinge?</h2>
+<h2 id="do-girls-like-first-on-hinge"><a href="#do-girls-like-first-on-hinge">Do Girls Like First on Hinge?</a></h2>
 <p>On Hinge there are no special rules like on other dating apps, such as girls needing to Like you before you can Like them. Anybody can take those first few steps, look through a profile and Like images, Prompt responses, or leave a comment.</p>
 <p></p>
 <p>In fact, the data shows that those who leave a comment <em>as well as</em> a Like are <a href="https://hingeapp.zendesk.com/hc/en-us/articles/360007906593-Liking-and-Commenting-in-Discover"><em>three times more likely</em></a> to match!</p>
 <p></p>
 <p>Proof that <em>words really do matter</em>.</p>
-<h2>Why Am I Not Getting Any Matches on Hinge?</h2>
+<h2 id="why-am-i-not-getting-any-matches-on-hinge"><a href="#why-am-i-not-getting-any-matches-on-hinge">Why Am I Not Getting Any Matches on Hinge?</a></h2>
 <p>If you haven&rsquo;t been on the app for very long, one of the reasons why you may not be making any matches (<a href="https://hingeapp.zendesk.com/hc/en-us/articles/360011321953-I-m-not-getting-any-Matches-">according to Hinge</a>) is simply that <em>it takes time</em>.</p>
 <p></p>
 <p>Because Hinge is so focused on genuine connections and helping you find someone you really connect with, they actually hold back from showing you <em>everyone</em> who may be in your area initially.</p>
@@ -161,7 +161,7 @@ seo:
 <p>And, if it&rsquo;s images that are your downfall, then you should <a href="https://thematchartist.com/online-dating-photographer-near-me">get in touch with The Match Artist</a>!</p>
 <p></p>
 <p>We specialize in photos for your dating profile, so if it&rsquo;s matches you want, it&rsquo;s matches we can get you!</p>
-<h2>How Do I Maximize Likes on My Hinge Profile?</h2>
+<h2 id="how-do-i-maximize-likes-on-my-hinge-profile"><a href="#how-do-i-maximize-likes-on-my-hinge-profile">How Do I Maximize Likes on My Hinge Profile?</a></h2>
 <p>To maximize your Likes make sure you:</p>
 <p></p>
 <ul>
@@ -199,7 +199,7 @@ seo:
 </li>
 </ul>
 <p>We&rsquo;re going to say it again: on dating apps, your photos are the number one most important factor for getting more Likes, matches, and dates. Don&rsquo;t coast by with images pulled from Facebook or Instagram, and <a href="https://thematchartist.com/online-dating-photographer-near-me">upgrade your images</a> with professional-quality, expert photography!</p>
-<h2>How Girls Can Get More Hinge Matches</h2>
+<h2 id="how-girls-can-get-more-hinge-matches"><a href="#how-girls-can-get-more-hinge-matches">How Girls Can Get More Hinge Matches</a></h2>
 <p>There&rsquo;s a few different things you can do as a girl to get more matches on Hinge. These include:</p>
 <p></p>
 <ul>
@@ -229,7 +229,7 @@ seo:
 </li>
 </ul>
 <p>Again, guys need things spelled out for them in simple terms: don&rsquo;t play games and be clear with what you&rsquo;re looking for, what you want, and what are your dealbreakers. Guys will appreciate it!</p>
-<h2>How Guys Can Get More Hinge Matches</h2>
+<h2 id="how-guys-can-get-more-hinge-matches"><a href="#how-guys-can-get-more-hinge-matches">How Guys Can Get More Hinge Matches</a></h2>
 <p>Honestly? The online dating game for guys is a bit of a harder playing field. But there are definitely things you can do to make sure that you&rsquo;re optimizing your Hinge matches. These include:</p>
 <p></p>
 <ul>
@@ -259,7 +259,7 @@ seo:
 </li>
 </ul>
 <p>As Hinge is aimed at those looking for a relationship, it&rsquo;s even more important to make real connections. Take the time to set your preferences and choose Prompts that can really hone in on your values.</p>
-<h2>What Should You Never Do On Hinge?</h2>
+<h2 id="what-should-you-never-do-on-hinge"><a href="#what-should-you-never-do-on-hinge">What Should You Never Do On Hinge?</a></h2>
 <p>While there&rsquo;s plenty of opinions out there about what could be perceived as a turn-off on Hinge (no dead fish photos, please!), <a href="https://www.narcity.com/how-to-make-a-good-dating-profile-these-10-mistakes-will-totally-sabotage-your-dating-profile-">Hinge released some data and information</a> about things they <em>do not recommend</em> you do!</p>
 <p></p>
 <ul>
@@ -309,7 +309,7 @@ seo:
 </li>
 </ul>
 <p>While your profile shouldn&rsquo;t be <em>too</em> heavy and serious, equally you don&rsquo;t want to dismiss every Prompt with a flippant, sarcasm-heavy answer. Remember, the key to connection is being <em>genuine</em>.</p>
-<h2>What to Do When Someone Likes Your Picture on Hinge</h2>
+<h2 id="what-to-do-when-someone-likes-your-picture-on-hinge"><a href="#what-to-do-when-someone-likes-your-picture-on-hinge">What to Do When Someone Likes Your Picture on Hinge</a></h2>
 <p>When someone Likes one of your photos on Hinge you&rsquo;ll get a notification. From that notification you&rsquo;ll either be able to reply, dismiss, or match with them. Once you&rsquo;ve matched, you&rsquo;ll be put into a private chat room with the other person and can message them, or wait for them to message you.</p>
 <p></p>
 <p>Our advice? Once you get that Like, take a moment to look through their profile, decide if you&rsquo;d like to connect with them, and then <em>act straight away</em>.</p>
@@ -317,7 +317,7 @@ seo:
 <p>Why? Because if someone has Liked something on your profile, they&rsquo;re obviously interested in getting to know you better. Responding immediately means that you&rsquo;re interested, too, and you could potentially catch each other online and start a conversation.</p>
 <p></p>
 <p>Additionally, once someone has Liked something on your profile, they&rsquo;ll move into the Likes You feed on the app. If you&rsquo;re on basic Hinge, you&rsquo;ll only be able to see the top result, with the rest blurred out. This means that if you <em>don&rsquo;t</em> act quickly, you could miss your opportunity to do so!</p>
-<h2>5 Tips To Improve Your Hinge Profile</h2>
+<h2 id="tips-to-improve-your-hinge-profile"><a href="#tips-to-improve-your-hinge-profile">5 Tips To Improve Your Hinge Profile</a></h2>
 <h3>1. Pick an Awesome Primary Image for Your Profile</h3>
 <p>Ideally, your primary image should be a headshot of you facing the camera and smiling. Make sure it&rsquo;s a high-quality image (no blurry phone photos, please!) and shows off your features.</p>
 <p></p>
@@ -342,7 +342,7 @@ seo:
 <p>Dealbreakers will stop any profiles matching those parameters on your feed, while preferences will simply filter through the best matches for you.</p>
 <p></p>
 <p>Just be careful not to be <em>too</em> picky!</p>
-<h2>Why Am I Not Getting Any Matches on Hinge FAQs</h2>
+<h2 id="why-am-i-not-getting-any-matches-on-hinge-faqs"><a href="#why-am-i-not-getting-any-matches-on-hinge-faqs">Why Am I Not Getting Any Matches on Hinge FAQs</a></h2>
 <h3>Why do I rarely get Likes on Hinge?</h3>
 <p>You may not be seeing as many Likes on Hinge for a variety of reasons. The way the algorithm works it focuses on quality rather than quantity, so you naturally won&rsquo;t see as many Likes as compared to Tinder, for example.</p>
 <p></p>
@@ -393,7 +393,7 @@ seo:
 <p>Still not having any luck? Consider signing up for Hinge+ or HingeX.</p>
 <h3>Do girls Like first on Hinge?</h3>
 <p>There are no rules when it comes to who can make the first move on Hinge. In fact, usually men tend to Like or message first, but <a href="https://edition.cnn.com/2016/03/14/living/okcupid-womens-research-feat/index.html">research has shown</a> that women who put themselves out there early on often have better success!</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://datingxp.co/no-likes-on-hinge">datingxp.co</a></p>
@@ -422,4 +422,31 @@ seo:
 <li>
 <p><a href="https://www.semanticscholar.org/paper/The-players-of-micro-dating%3A-Individual-and-gender-Carpenter-McEwan/8e38c1fbd317ddac97232d4106a61990157ceff0">semanticscholar.org</a></p>
 </li>
+</ol>/li>
+</ol>l>rg</a></p>
+</li>
+</ol>/li>
+</ol>/ol>l></a></p>
+</li>
+</ol>/li>
+</ol>l></a></p>
+</li>
+</ol>/li>
+</ol>/ol>/li>
 </ol>
+</ol>/li>
+</ol></p>
+</li>
+</ol>/li>
+</ol>l></a></p>
+</li>
+</ol>/li>
+</ol>/ol>/li>
+</ol>
+</ol>/li>
+</ol>/li>
+</ol>
+</ol>/li>
+</ol>/ol>
+</ol>/li>
+</ol>/ol>

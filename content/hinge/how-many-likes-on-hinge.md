@@ -55,7 +55,7 @@ seo:
 <p></p>
 <p>Let&rsquo;s get started and you can begin Liking your way into a relationship!</p>
 <p><br><br></p>
-<h2>How &ldquo;Liking&rdquo; Works on Hinge</h2>
+<h2 id="how-&ldquo;liking&rdquo;-works-on-hinge"><a href="#how-&ldquo;liking&rdquo;-works-on-hinge">How &ldquo;Liking&rdquo; Works on Hinge</a></h2>
 <p>Likes are a way for you to be able to tell other users that you&rsquo;re interested in them. Now, unlike other apps where you would swipe on a whole profile, Hinge encourages you to Like parts of the profile. For example replies to their Hinge Prompts (interview-type questions, designed for you to express your opinion or comment on a particular topic), or their photos.</p>
 <p></p>
 <p>If the potential suitor then looks at your bio and Likes something in return, you&rsquo;ll be given the option to either reply, dismiss, or match. Matching will put you and the other person into a private room where you&rsquo;ll be able to send each other messages.</p>
@@ -83,7 +83,7 @@ seo:
 <p>If you do become a Subscriber, you&rsquo;ll not only have access to unlimited Likes, but also the ability to set your preferences in a little more detail than with the basic version (including choices for religion, education, politics, and future family plans).&nbsp;</p>
 <p></p>
 <p><em>That could be a good reason to throw a little money in the pot!</em></p>
-<h2>Does Hinge Limit the Amount of Likes You Receive?</h2>
+<h2 id="does-hinge-limit-the-amount-of-likes-you-receive"><a href="#does-hinge-limit-the-amount-of-likes-you-receive">Does Hinge Limit the Amount of Likes You Receive?</a></h2>
 <p>While Hinge won&rsquo;t limit how many Likes you receive, there are a couple of caveats.</p>
 <p></p>
 <p>First is that your Likes You feed is limited to 99 Likes. That means if you&rsquo;re receiving a lot of attention on the app and you don&rsquo;t check it often, you could be missing out on some of your potential matches.</p>
@@ -95,7 +95,7 @@ seo:
 <p>This means that every time you get a Like for anything on your profile&nbsp; &mdash; be it a response to a Photo Prompt, travel story, your taste in music or favorite song, or a cute pic of you and your pet (<em>top tip: we&rsquo;ve yet to meet a woman who doesn&rsquo;t love pics of dogs!</em>) &mdash; it&rsquo;ll pop up on your screen.</p>
 <p></p>
 <p>That way you&rsquo;re not likely to miss out on a potential match.</p>
-<h2>How Many Hinge Matches Can You Get Per Day?</h2>
+<h2 id="how-many-hinge-matches-can-you-get-per-day"><a href="#how-many-hinge-matches-can-you-get-per-day">How Many Hinge Matches Can You Get Per Day?</a></h2>
 <p>In theory, you could receive up to 15 matches every day. However, the truth is that this number varies wildly, and user evidence suggests that:</p>
 <p></p>
 <ul>
@@ -153,11 +153,11 @@ seo:
 <p>We&rsquo;ll even make sure to switch up the locations, get you some indoor and outdoor shots, and help you lay all of your best traits out on the table, to get you more matches.</p>
 <p></p>
 <p>Believe us: <em>it really does make all the difference!</em></p>
-<h2>At What Time Do Hinge Likes Reset?</h2>
+<h2 id="at-what-time-do-hinge-likes-reset"><a href="#at-what-time-do-hinge-likes-reset">At What Time Do Hinge Likes Reset?</a></h2>
 <p>Your Hinge Likes (as in the number of Likes you can send daily) will reset at 4am, local time across the app.</p>
 <p></p>
 <p>Good news for those on the basic version with limited Likes, though we wouldn&rsquo;t necessarily recommend staying up until 4am to begin Liking other profiles again&hellip;!</p>
-<h2>How Many Likes Does a Guy Get on Hinge?</h2>
+<h2 id="how-many-likes-does-a-guy-get-on-hinge"><a href="#how-many-likes-does-a-guy-get-on-hinge">How Many Likes Does a Guy Get on Hinge?</a></h2>
 <p>While it varies from profile to profile, <a href="https://www.reddit.com/r/hingeapp/comments/bzccgb/men_how_many_likes_per_day_do_you_get">anecdotal evidence</a> suggests that the average guy may receive around three to five Likes per week.</p>
 <p></p>
 <p>We can tell you from feedback and experience that <a href="https://thematchartist.com/case-studies">our clients receive a whole lot more</a> than that after working with us&hellip;!</p>
@@ -291,4 +291,12 @@ seo:
 <li>
 <p><a href="https://techzillo.com/how-many-likes-do-you-get-on-hinge">techzillo.com</a></p>
 </li>
+</ol>
+>
+</ol>
+</li>
+</ol>
+</ol>
+</li>
+</ol>
 </ol>

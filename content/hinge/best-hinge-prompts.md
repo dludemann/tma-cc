@@ -593,14 +593,14 @@ seo:
 <p>If you&rsquo;re ready to upgrade your images from bathroom selfies to professional photos <em>that get results</em>, <a href="https://thematchartist.com/online-dating-photographer-near-me">get in touch with The Match Artist today</a>!</p>
 <p></p>
 <p>We&rsquo;ve got all the tips, tricks, and know-how to level up your dating app profile game, make you feel more confident, and help you meet not just someone, but <em>the one!</em></p>
-<h2>Best Hinge Prompts FAQs</h2>
+<h2 id="best-hinge-prompts-faqs"><a href="#best-hinge-prompts-faqs">Best Hinge Prompts FAQs</a></h2>
 <h3>What is the best opening line on Hinge?</h3>
 <p>The best opener on Hinge is apparently, &ldquo;Two Truths and a Lie&rdquo;. This is according to an experiment run by Hinge, where they ran 100 different unique Prompts over 30 days. It&rsquo;s not hugely surprising, either, as it&rsquo;s a great ice breaker!</p>
 <h3>What is the average response time on Hinge?</h3>
 <p>While the best response time is within 24 hours of matching, <a href="https://www.glamour.com/story/hinge-timed-matches-message-deadline">research found</a> that most people take around 2.5 days to respond to their matches. Men were particularly bad at responding quickly.</p>
 <h3>Can you tell if you&rsquo;re on Standouts on Hinge?</h3>
 <p>While you won&rsquo;t receive any sort of official notification from Hinge, profiles featured on Standouts can only be interacted with by sending a Rose. So, if you suddenly start seeing an influx of Roses, you&rsquo;ve likely made it onto Standouts!</p>
-<h2>Sources</h2>
+<h2 id="sources"><a href="#sources">Sources</a></h2>
 <ol>
 <li>
 <p><a href="https://www.vox.com/2019/2/7/18210998/tinder-algorithm-swiping-tips-dating-app-science">vox.com</a></p>
@@ -631,5 +631,8 @@ seo:
 </li>
 <li>
 <p><a href="https://www.vidaselect.com/hinge-questions">vidaselect.com</a></p>
+</li>
+</ol>
+aselect.com</a></p>
 </li>
 </ol>
