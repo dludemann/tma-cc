@@ -83,6 +83,11 @@ collections_config:
         editor: content
         schema: blog_post
     preview:
+      text:
+        - key: title
+        - 'Blog Post'
+      icon:
+        - 'rss_feed'
       subtext:
         - key: author
       image:
