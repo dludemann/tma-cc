@@ -47,8 +47,7 @@ collections_config:
         schema: page
   book:
     path: content/book
-    base_url: '/'
-    url: '/{title|lowercase|slugify}'
+    url: '/[slug]'
     output: true
     icon: wysiwyg
     _enabled_editors:
