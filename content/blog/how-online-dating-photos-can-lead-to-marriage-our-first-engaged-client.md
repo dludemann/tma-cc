@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   Hearing client success stories is always inspiring, whether it be a new relationship, increased matches, or an overall better quality of life due to a more exciting dating life. We recently heard of something for the first time: our first engaged client. We confirmed with him that special someone right-swiped him because of one of the photos we took of him playing soccer a number of months back. Since our photographer used to be a wedding + engagement photographer primarily, we
-featured_image: images/blog/VG7BWSQTPiWJVmrUOcDX.jpg
+featured_image: /images/blog/VG7BWSQTPiWJVmrUOcDX.jpg
 featured_image_alt:
 author: Shane White
 ---

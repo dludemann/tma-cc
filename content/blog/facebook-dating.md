@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   It's about time that Facebook enters the dating market. I've set up a profile and have begun exploring the newest dating platform. Not many are using it regularly quite yet, but I'd imagine it will be more functional as more start swiping. The layout is much like other common apps with a swipe right/left, as well as Instagram connectivity.
-featured_image: images/blog/FNPkE8M9QI6q0maiMQvQ.jpg
+featured_image: /images/blog/FNPkE8M9QI6q0maiMQvQ.jpg
 featured_image_alt: Cool man on motorcycle
 author: Shane White
 ---

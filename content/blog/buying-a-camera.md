@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   So You Want to Buy a Camera? Some Advice from the Photographer Buying a camera can be a daunting decision, but many have asked me what to look for in a camera, and beyond that, how to take pictures. In this blog, I'm going to attempt to give some recommendations ...
-featured_image: images/blog/WRmRUhggQ3GztIXbhhtM.jpg
+featured_image: /images/blog/WRmRUhggQ3GztIXbhhtM.jpg
 featured_image_alt:
 author: Shane White
 ---

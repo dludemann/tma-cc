@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   We’ve been working on something new for a while, and it’s finally here. We are now welcoming our new dating coach, Robby on to The Match Artist team. He has been coaching in areas like dating, relationships, peak performance, and more for over a decade– and now he’s bringing his ...
-featured_image: images/blog/km3C3ffYScKWpAlVfnTA.jpg
+featured_image: /images/blog/km3C3ffYScKWpAlVfnTA.jpg
 featured_image_alt:
 author: Nick Friesen
 ---

@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   In a digital landscape with over 8,000 dating platforms, the top five geared towards long-term relationships include Keeper, eHarmony, Match, Hinge, and Bumble are the top five online dating platforms designed for those seeking long-term relationships, each offering unique features from 100% criteria matching to detailed user filtering.
-featured_image: images/blog/RB1Bxv70QZy3GjyHBnaZ.jpg
+featured_image: /images/blog/RB1Bxv70QZy3GjyHBnaZ.jpg
 featured_image_alt:
 author: Nick Friesen
 ---

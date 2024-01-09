@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   Take a look at some tips from a recent session we did.
-featured_image: images/blog/zVn934fTMalVjuUeG4sQ.jpg
+featured_image: /images/blog/zVn934fTMalVjuUeG4sQ.jpg
 featured_image_alt:
 author: Nick Friesen
 ---

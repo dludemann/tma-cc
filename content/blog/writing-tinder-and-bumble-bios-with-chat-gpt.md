@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   Take Chat GPT for a spin to update your online dating bio.
-featured_image: images/blog/LP8Ge3uRDl8tmQuTowiQ.jpg
+featured_image: /images/blog/LP8Ge3uRDl8tmQuTowiQ.jpg
 featured_image_alt:
 author: Nick Friesen
 ---

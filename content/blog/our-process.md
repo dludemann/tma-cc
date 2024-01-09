@@ -14,7 +14,7 @@ seo:
   no_index: false
 summary: >-
   We'll walk through a bit more about our photoshoot process and how we get results for our clients.
-featured_image: images/blog/zqxjPQpyT8yHjpu8Ga7E.jpg
+featured_image: /images/blog/zqxjPQpyT8yHjpu8Ga7E.jpg
 featured_image_alt:
 author: Nick Friesen
 ---
