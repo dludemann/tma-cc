@@ -47,6 +47,7 @@ collections_config:
         schema: page
   book:
     path: content/book
+    new_preview_url: '/austin-dating-photography/'
     url: '/[slug]'
     output: true
     icon: wysiwyg
@@ -90,8 +91,6 @@ collections_config:
         - 'rss_feed'
       subtext:
         - key: author
-      image:
-        - key: featured_image
       gallery:
         image:
           - key: featured_image
