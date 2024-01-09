@@ -1,11 +1,10 @@
 ---
-title: 'Are Tinder Dates Just For Hookups?'
+title: Are Tinder Dates Just For Hookups?
 menu_grouping: Tinder Dating and Relationships
 author: Shane White
-featured_image:
+featured_image: /images/guides/tinder/tinder-11.webp
 seo:
-  page_description: >-
-    A guide to the Tinder algorithm
+  page_description: A guide to the Tinder algorithm
   canonical_url:
   featured_image:
   featured_image_alt:
@@ -13,7 +12,6 @@ seo:
   open_graph_type:
   no_index: false
 ---
-
 <p dir="ltr"><span>Let&rsquo;s cut to the chase. The big question on everyone&rsquo;s mind: are Tinder dates just for hookups and casual sex?</span><b></b></p>
 <p dir="ltr"><span>Most times the answer is not as straightforward as a simple yes or no.&nbsp;</span><b></b></p>
 <p dir="ltr"><span>The truth is, people around the world use Tinder for all kinds of reasons &mdash; some are looking for love and serious relationships, while others are just in it for the hookups. It all depends on the person, their interests, and anything they&rsquo;re looking for in a partner or friend.</span></p>
