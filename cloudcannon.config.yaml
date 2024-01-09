@@ -60,7 +60,7 @@ collections_config:
         remove_extra_inputs: false
     disable_add_folder: true
     add_options:
-      - name: Add Page
+      - name: Add Book a call page
         editor: visual
         schema: page
   blog:
