@@ -22,15 +22,15 @@ content_blocks:
           In addition to being full time at The Match Artist, Shane enjoys piloting his
           plane, and running every day of the week. He guarantees your experience with The
           Match Artist will be memorable.
-        image: '/images/team/shane-2.jpeg'
+        image: "/images/team/shane-2.jpeg"
       - title: Nick Friesen
         subtitle: Founder / Photographer
         description:
-          'Nick ran a wedding and headshot photography company for years. He picked up
+          "Nick ran a wedding and headshot photography company for years. He picked up
           a camera while studying piano performance in college and fell in love with portraits
           and facial expression coaching. Outside of coaching guys to look their best in
-          photos, he enjoys coffee, playing piano, and spending time with his two dogs. '
-        image: '/images/team/nick-2.jpeg'
+          photos, he enjoys coffee, playing piano, and spending time with his two dogs. "
+        image: "/images/team/nick-2.jpeg"
       - title: Nate
         subtitle: Photographer
         description:
@@ -42,21 +42,21 @@ content_blocks:
           fundamentals. He always makes the most of every experience and is very effective
           and strategic while being personable in every sense, making for a great working
           relationship and report.
-        image: '/images/team/nate.jpg'
+        image: "/images/team/nate.jpg"
       - title: Shiloh
         subtitle: Photographer
         description:
           Shiloh has photographed some of the top celebrities including Christopher Nolan,
           Seth Rogen, Jessica Chastain, and more. Based outside of San Francisco, in addition
           to photography he also enjoys writing, directing, and acting in films.
-        image: '/images/team/shiloh.jpeg'
+        image: "/images/team/shiloh.jpeg"
       - title: Jason
         subtitle: Photographer
         description:
           Jason has been shooting photos for 20+ years and has really fine tuned the
           art of natural looking portraits. Originally from California, he enjoys yoga,
           natural health, and playing guitar.
-        image: '/images/team/jason.jpeg'
+        image: "/images/team/jason.jpeg"
       - title: Mike
         subtitle: Photographer
         description:
@@ -64,7 +64,7 @@ content_blocks:
           Magazine's community Artist of the Year in 2022 and is an art educator in the
           Web3 space. Outside of shooting street + portrait photos, he's big into hiking,
           camping, and skating. "
-        image: '/images/team/mike-1.webp'
+        image: "/images/team/mike-1.webp"
       - title: Mike
         subtitle: Photographer
         description:
@@ -72,16 +72,16 @@ content_blocks:
           his spare time, he takes killer astrophotography photos, travels frequently, and
           is pretty nerdy about his tech. The Match Artist resonates with him because he
           actually met his wife on Tinder and together they have a relationship podcast.
-        image: '/images/team/mike-2.webp'
+        image: "/images/team/mike-2.webp"
       - title: Marcos
         subtitle: Photographer
         description:
-          'Marcos Geary is a Venezuelan-American photographer. His passion for photography
+          "Marcos Geary is a Venezuelan-American photographer. His passion for photography
           started as a young child living in the rural Andes of Venezuela documenting the
           world around him. He has since gained 10+ years of professional experience working
           as both a portrait and fashion photographer. In his spare time, he is a chef for
-          private parties. '
-        image: '/images/team/marcos.jpeg'
+          private parties. "
+        image: "/images/team/marcos.jpeg"
       - title: Robby
         subtitle: Dating Coach
         description:
@@ -91,7 +91,7 @@ content_blocks:
           comes to guiding men through dating and relationships. He is deep-rooted in evolutionary
           psychology and intersexual dynamics. When he’s not coaching, you’ll find Robby
           cooking, spending time at the gym, and traveling as much as possible.
-        image: '/images/team/robby.webp'
+        image: "/images/team/robby.webp"
       - title: Allie
         subtitle: Editor
         description:
@@ -99,7 +99,7 @@ content_blocks:
           matches. She also enjoys helping create new content for Match Artist clients.
           Outside of The Match Artist, she enjoys improv, crossword puzzles, and hanging
           out with her husband and two dogs.
-        image: '/images/team/allie.jpeg'
+        image: "/images/team/allie.jpeg"
   - _bookshop_name: social-banner
     heading: Connect with us
     social_media:
