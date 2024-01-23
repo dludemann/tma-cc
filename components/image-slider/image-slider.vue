@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -61,7 +61,7 @@ export default {
               class="h-[500px] lg:w-[350px] !max-w-[350px] relative"
             >
               <div class="h-[500px] lg:w-[350px] !max-w-[350px] relative">
-                <nuxt-img
+                <img
                   :src="slide"
                   alt="Portfolio Image"
                   class="h-full w-full object-cover"

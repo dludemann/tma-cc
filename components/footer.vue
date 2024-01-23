@@ -29,6 +29,7 @@ const nav_links_classes =
         <div
           class="w-full flex flex-col gap-4"
           v-for="section in data.sections"
+          :key="section.id"
         >
           <p
             class="text-primary-500 font-display font-bold text-center lg:text-left"
@@ -41,6 +42,7 @@ const nav_links_classes =
               :to="link.link"
               :class="nav_links_classes"
               v-for="link in section.links"
+              :key="link.id"
             >
               <div
                 class="w-6 h-6 flex items-center justify-center"

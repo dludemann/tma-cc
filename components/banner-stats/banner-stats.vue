@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -10,7 +10,7 @@ export default {
     :data-cms-bind="dataBinding"
     :style="{ 'background-color': block.background_color }"
   >
-    <nuxt-img
+    <img
       v-if="block.background_image"
       :src="block.background_image"
       alt=""
@@ -50,6 +50,7 @@ export default {
           <li
             class="list-none flex items-center gap-5 max-w-min"
             v-for="stat in block.stats"
+            :key="stat.id"
           >
             <span
               class="text-white font-bold text-[2.5rem] lg:text-[4rem] lg:leading-[120%] whitespace-nowrap"

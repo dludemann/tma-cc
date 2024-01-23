@@ -1,5 +1,5 @@
 <script setup>
-import { marked } from 'marked';
+import { marked } from "marked";
 const markdownify = (text) => {
   const markdown = marked.parse(text);
   return markdown;
@@ -25,11 +25,12 @@ const markdownify = (text) => {
         {{ block.title }}
       </h1>
       <div
-        v-for="(paragraph, index) in block.paragraphs"
+        v-for="paragraph in block.paragraphs"
+        :key="paragraph.id"
         class="max-w-[800px] mx-auto text-justify mb-[1rem]"
         :class="paragraph.inline_image ? 'grid lg:grid-cols-2 gap-5' : ''"
       >
-        <nuxt-img
+        <img
           :src="paragraph.inline_image"
           alt=""
           class="mr-2"
@@ -40,7 +41,7 @@ const markdownify = (text) => {
           class="markdown-block__text"
           v-html="markdownify(paragraph.text)"
         ></div>
-        <nuxt-img
+        <img
           :src="paragraph.inline_image"
           alt=""
           class="ml-2"
@@ -53,7 +54,7 @@ const markdownify = (text) => {
 
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -117,13 +118,13 @@ blockquote {
 
 blockquote::before {
   --side-length: 100px;
-  content: '';
+  content: "";
   width: var(--side-length);
   height: var(--side-length);
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url('/images/assets/quote.png');
+  background-image: url("/images/assets/quote.png");
   background-size: 100%;
   transform: translate(-10%, -40%);
   z-index: 99;
@@ -165,7 +166,7 @@ p.intro {
   position: absolute;
   left: 102%;
   top: 50%;
-  content: '';
+  content: "";
   font-size: 1.125rem;
   font-style: italic;
   height: 1px;
@@ -177,7 +178,7 @@ p.intro {
   position: absolute;
   right: 102%;
   top: 50%;
-  content: '';
+  content: "";
   font-size: 1.125rem;
   font-style: italic;
   height: 1px;

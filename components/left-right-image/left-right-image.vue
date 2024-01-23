@@ -1,5 +1,5 @@
 <script setup>
-import { marked } from 'marked';
+import { marked } from "marked";
 const markdownify = (text) => {
   const markdown = marked.parse(text);
   return markdown;
@@ -67,7 +67,7 @@ const markdownify = (text) => {
           block.layout.flipped ? 'flex justify-start' : 'flex justify-end',
         ]"
       >
-        <nuxt-img
+        <img
           class="rounded-sm"
           :src="block.image.image.src"
           :alt="block.image.image.alt"
@@ -87,6 +87,7 @@ const markdownify = (text) => {
         <div
           class="flex flex-col overflow-hidden justify-center items-center"
           v-for="image in block.image.image_grid.images"
+          :key="image.id"
         >
           <p
             v-if="image.heading"
@@ -94,7 +95,7 @@ const markdownify = (text) => {
           >
             {{ image.heading }}
           </p>
-          <nuxt-img
+          <img
             :src="image.image.src"
             class="object-cover h-full w-full rounded-sm"
           />
@@ -104,7 +105,7 @@ const markdownify = (text) => {
       <!-- Full sized image -->
       <section v-if="block.image.full_sized_image.src">
         <div class="overflow-hidden justify-center items-center">
-          <nuxt-img
+          <img
             :src="block.image.full_sized_image.src"
             class="object-cover h-full w-full"
             :style="{
@@ -149,7 +150,7 @@ const markdownify = (text) => {
 
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -188,13 +189,13 @@ export default {
 
 .large-quote::before {
   --side-length: 100px;
-  content: '';
+  content: "";
   width: var(--side-length);
   height: var(--side-length);
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url('/images/assets/quote.png');
+  background-image: url("/images/assets/quote.png");
   background-size: 100%;
   transform: translate(-10%, -40%);
   z-index: 99;

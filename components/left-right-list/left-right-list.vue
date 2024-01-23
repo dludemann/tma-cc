@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -24,7 +24,11 @@ export default {
         </p>
 
         <div class="flex flex-col gap-4 my-12">
-          <div class="flex items-center gap-4" v-for="list_item in block.list">
+          <div
+            class="flex items-center gap-4"
+            v-for="list_item in block.list"
+            :key="list_item.id"
+          >
             <img :src="list_item.icon" alt="" class="w-[28px] h-[28px]" />
             <p class="text-[1.125rem]">
               {{ list_item.text }}
@@ -46,7 +50,7 @@ export default {
         </a>
       </article>
 
-      <nuxt-img
+      <img
         class="max-w-[766px] max-h-[766px] w-1/2 object-contain"
         :style="{
           'max-width': block.image.max_width + 'px',

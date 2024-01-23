@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -20,7 +20,7 @@ export default {
         color: block.quote.text_color,
       }"
     >
-      <nuxt-img
+      <img
         class="h-full w-full lg:w-1/2 object-contain self-center rounded-sm"
         :src="block.image.src"
         :alt="block.image.alt"
@@ -67,6 +67,7 @@ export default {
         <div
           class="text-white flex items-center gap-2 max-w-[30% ]"
           v-for="stat in block.cta.stats"
+          :key="stat.id"
         >
           <p class="font-bold text-[38px] font-display">{{ stat.number }}+</p>
           <p class="text-[12px]">

@@ -1,6 +1,6 @@
 <script setup>
-import { computed } from 'vue';
-const search = ref('');
+import { computed } from "vue";
+const search = ref("");
 const { page } = useContent();
 const pageData = page.value;
 
@@ -68,6 +68,7 @@ const filteredLocations = computed(() =>
           :to="card.path"
           class="col-span-4 lg:col-span-1"
           v-for="card in filteredLocations"
+          :key="card.id"
         >
           <div
             class="relative w-full h-[300px] flex p-2 justify-center items-center overflow-hidden rounded-lg border-secondary-300 cursor-pointer"
@@ -79,7 +80,7 @@ const filteredLocations = computed(() =>
             </p>
 
             <div class="h-full w-full absolute bg-black bg-opacity-50 z-10" />
-            <nuxt-img
+            <img
               loading="lazy"
               :src="card.img"
               class="absolute object-cover h-full w-full"

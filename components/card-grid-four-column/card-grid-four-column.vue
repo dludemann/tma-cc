@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -56,6 +56,7 @@ export default {
           :to="card.path"
           class="col-span-4 lg:col-span-1"
           v-for="card in block.cards"
+          :key="card.id"
         >
           <div
             class="relative w-full h-[300px] flex p-2 justify-center items-center overflow-hidden rounded-lg border-secondary-300 cursor-pointer"
@@ -67,7 +68,7 @@ export default {
             </p>
 
             <div class="h-full w-full absolute bg-black bg-opacity-50 z-10" />
-            <nuxt-img
+            <img
               loading="lazy"
               :src="card.img"
               class="absolute object-cover h-full w-full"

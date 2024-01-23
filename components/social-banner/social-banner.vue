@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
@@ -14,11 +14,12 @@ export default {
       <div class="flex gap-8 mt-4">
         <a
           v-for="link in block.social_media"
+          :key="link.id"
           :href="link.path"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <nuxt-img
+          <img
             :src="link.image.src"
             :alt="link.image.alt"
             :style="{ opacity: link.image.opacity }"
@@ -33,8 +34,9 @@ export default {
         class="col-span-4 lg:col-span-1"
         :href="news_mention.path"
         target="_blank"
+        :key="news_mention.id"
       >
-        <nuxt-img :src="news_mention.image.src" :alt="news_mention.image.alt" />
+        <img :src="news_mention.image.src" :alt="news_mention.image.alt" />
       </a>
     </div>
   </section>

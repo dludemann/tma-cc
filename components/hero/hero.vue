@@ -1,13 +1,13 @@
 <script>
 export default {
-  props: ['block', 'dataBinding'],
+  props: ["block", "dataBinding"],
 };
 </script>
 
 <template>
   <section :data-cms-bind="dataBinding" class="font-display">
     <div class="py-[120px] relative overflow-hidden">
-      <nuxt-img
+      <img
         :src="block.background_image"
         alt=""
         class="absolute bottom-0 left-0 right-0 w-full h-full object-cover"
